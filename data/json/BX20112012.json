@@ -1,0 +1,4692 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "3qfc-4tta",
+      "name" : "DOF: Condominium Comparable Rental Income – Bronx – FY 2011/2012",
+      "attribution" : "Department of Finance (DOF)",
+      "averageRating" : 0,
+      "category" : "Housing & Development",
+      "createdAt" : 1317237039,
+      "description" : "Condominiums and cooperatives are valued as if they were residential rental apartments. Income information from similar rental properties is applied to determine value.\r\nThe Department of Finance (DOF) chooses similar properties to value condos and coops. Properties are selected based on a combination of factors such as: land location, income levels, building age and construction and exemptions and subsidies.\r\nUpdate Schedule: Annually",
+      "displayType" : "table",
+      "downloadCount" : 405,
+      "indexUpdatedAt" : 1414260289,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 4141727,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1371848040,
+      "publicationGroup" : 241777,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1371848029,
+      "rowsUpdatedBy" : "5fuc-pqz2",
+      "tableId" : 933195,
+      "totalTimesRated" : 0,
+      "viewCount" : 322,
+      "viewLastModified" : 1409937437,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 75781395,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "bronx_condominiums_comparable_properties_boro_block_lot",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534867,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "2-02315-7501",
+          "null" : 0,
+          "largest" : "2-05944-7501",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2-03432-7501"
+          }, {
+            "count" : 19,
+            "item" : "2-03929-7501"
+          }, {
+            "count" : 18,
+            "item" : "2-05643-7501"
+          }, {
+            "count" : 17,
+            "item" : "2-05723-7501"
+          }, {
+            "count" : 16,
+            "item" : "2-05725-7501"
+          }, {
+            "count" : 15,
+            "item" : "2-05745-7501"
+          }, {
+            "count" : 14,
+            "item" : "2-05764-7501"
+          }, {
+            "count" : 13,
+            "item" : "2-05771-7501"
+          }, {
+            "count" : 12,
+            "item" : "2-05777-7501"
+          }, {
+            "count" : 11,
+            "item" : "2-05780-7501"
+          }, {
+            "count" : 10,
+            "item" : "2-05787-7501"
+          }, {
+            "count" : 9,
+            "item" : "2-05788-7501"
+          }, {
+            "count" : 8,
+            "item" : "2-05789-7501"
+          }, {
+            "count" : 7,
+            "item" : "2-05789-7502"
+          }, {
+            "count" : 6,
+            "item" : "2-05791-7501"
+          }, {
+            "count" : 5,
+            "item" : "2-05798-7501"
+          }, {
+            "count" : 4,
+            "item" : "2-05798-7502"
+          }, {
+            "count" : 3,
+            "item" : "2-05857-7501"
+          }, {
+            "count" : 2,
+            "item" : "2-05904-7501"
+          }, {
+            "count" : 1,
+            "item" : "2-05906-7501"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781396,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Condo Section",
+        "dataTypeName" : "text",
+        "fieldName" : "bronx_condominiums_comparable_properties_condo_section",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534868,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "0006-R1",
+          "null" : 0,
+          "largest" : "0139-R1",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0014-R1"
+          }, {
+            "count" : 19,
+            "item" : "0017-R1"
+          }, {
+            "count" : 18,
+            "item" : "0091-R1"
+          }, {
+            "count" : 17,
+            "item" : "0075-R1"
+          }, {
+            "count" : 16,
+            "item" : "0076-R1"
+          }, {
+            "count" : 15,
+            "item" : "0083-R1"
+          }, {
+            "count" : 14,
+            "item" : "0082-R1"
+          }, {
+            "count" : 13,
+            "item" : "0056-R1"
+          }, {
+            "count" : 12,
+            "item" : "0060-R1"
+          }, {
+            "count" : 11,
+            "item" : "0084-R1"
+          }, {
+            "count" : 10,
+            "item" : "0011-R1"
+          }, {
+            "count" : 9,
+            "item" : "0028-R1"
+          }, {
+            "count" : 8,
+            "item" : "0129-R1"
+          }, {
+            "count" : 7,
+            "item" : "0041-R1"
+          }, {
+            "count" : 6,
+            "item" : "0079-R1"
+          }, {
+            "count" : 5,
+            "item" : "0040-R1"
+          }, {
+            "count" : 4,
+            "item" : "0030-R1"
+          }, {
+            "count" : 3,
+            "item" : "0106-R1"
+          }, {
+            "count" : 2,
+            "item" : "0032-R1"
+          }, {
+            "count" : 1,
+            "item" : "0077-R1"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781397,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Address",
+        "dataTypeName" : "text",
+        "fieldName" : "bronx_condominiums_comparable_properties_address",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534869,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1010 FAILE STREET",
+          "null" : 0,
+          "largest" : "99 METROPOLITAN OVAL",
+          "top" : [ {
+            "count" : 20,
+            "item" : "610 WARING AVENUE"
+          }, {
+            "count" : 19,
+            "item" : "2385 BARKER AVENUE"
+          }, {
+            "count" : 18,
+            "item" : "3035 WHITE PLAINS ROAD"
+          }, {
+            "count" : 17,
+            "item" : "720 EAST 217 STREET"
+          }, {
+            "count" : 16,
+            "item" : "724 EAST 221 STREET"
+          }, {
+            "count" : 15,
+            "item" : "24 PENNYFIELD AVENUE"
+          }, {
+            "count" : 14,
+            "item" : "1 PENNYFIELD AVENUE"
+          }, {
+            "count" : 13,
+            "item" : "195 BALCOM AVENUE"
+          }, {
+            "count" : 12,
+            "item" : "190 FORDHAM STREET"
+          }, {
+            "count" : 11,
+            "item" : "2287 JOHNSON AVENUE"
+          }, {
+            "count" : 10,
+            "item" : "2600 HENRY HUDSON PARKWAY"
+          }, {
+            "count" : 9,
+            "item" : "2521 PALISADE AVENUE"
+          }, {
+            "count" : 8,
+            "item" : "460 WEST 236 STREET"
+          }, {
+            "count" : 7,
+            "item" : "3636 FIELDSTON ROAD"
+          }, {
+            "count" : 6,
+            "item" : "3816 WALDO AVENUE"
+          }, {
+            "count" : 5,
+            "item" : "3900 GREYSTONE AVENUE"
+          }, {
+            "count" : 4,
+            "item" : "3240 NETHERLAND AVENUE"
+          }, {
+            "count" : 3,
+            "item" : "3220 ARLINGTON AVENUE"
+          }, {
+            "count" : 2,
+            "item" : "3220 FAIRFIELD AVENUE"
+          }, {
+            "count" : 1,
+            "item" : "3205 ARLINGTON AVENUE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781398,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "bronx_condominiums_comparable_properties_neighborhood",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534870,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "BEDFORD PARK/NORWOOD",
+          "null" : 0,
+          "largest" : "WILLIAMSBRIDGE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MOTT HAVEN/PORT MORRIS"
+          }, {
+            "count" : 19,
+            "item" : "MORRISANIA/LONGWOOD"
+          }, {
+            "count" : 18,
+            "item" : "HIGHBRIDGE/MORRIS HEIGHTS"
+          }, {
+            "count" : 17,
+            "item" : "EAST TREMONT"
+          }, {
+            "count" : 16,
+            "item" : "BELMONT"
+          }, {
+            "count" : 15,
+            "item" : "KINGSBRIDGE HTS/UNIV HTS"
+          }, {
+            "count" : 14,
+            "item" : "KINGSBRIDGE/JEROME PARK"
+          }, {
+            "count" : 13,
+            "item" : "BEDFORD PARK/NORWOOD"
+          }, {
+            "count" : 12,
+            "item" : "SOUNDVIEW"
+          }, {
+            "count" : 11,
+            "item" : "PARKCHESTER"
+          }, {
+            "count" : 10,
+            "item" : "BRONX-UNKNOWN"
+          }, {
+            "count" : 9,
+            "item" : "SCHUYLERVILLE/PELHAM BAY"
+          }, {
+            "count" : 8,
+            "item" : "MORRIS PARK/VAN NEST"
+          }, {
+            "count" : 7,
+            "item" : "PELHAM PARKWAY SOUTH"
+          }, {
+            "count" : 6,
+            "item" : "BRONXDALE"
+          }, {
+            "count" : 5,
+            "item" : "WILLIAMSBRIDGE"
+          }, {
+            "count" : 4,
+            "item" : "THROGS NECK"
+          }, {
+            "count" : 3,
+            "item" : "CITY ISLAND"
+          }, {
+            "count" : 2,
+            "item" : "RIVERDALE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781399,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "bronx_condominiums_comparable_properties_building_classification",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534871,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "R2-CONDOMINIUM",
+          "null" : 0,
+          "largest" : "RR-CONDOMINIUM",
+          "top" : [ {
+            "count" : 20,
+            "item" : "R2-CONDOMINIUM"
+          }, {
+            "count" : 19,
+            "item" : "R4-CONDOMINIUM"
+          }, {
+            "count" : 18,
+            "item" : "R9-CONDOMINIUM"
+          }, {
+            "count" : 17,
+            "item" : "RR-CONDOMINIUM"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781400,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_total_units",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534872,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "8",
+          "sum" : "11618",
+          "null" : 0,
+          "average" : "168.3768115942029",
+          "largest" : "3378",
+          "top" : [ {
+            "count" : 20,
+            "item" : "128"
+          }, {
+            "count" : 19,
+            "item" : "110"
+          }, {
+            "count" : 18,
+            "item" : "28"
+          }, {
+            "count" : 17,
+            "item" : "78"
+          }, {
+            "count" : 16,
+            "item" : "16"
+          }, {
+            "count" : 15,
+            "item" : "10"
+          }, {
+            "count" : 14,
+            "item" : "12"
+          }, {
+            "count" : 13,
+            "item" : "40"
+          }, {
+            "count" : 12,
+            "item" : "18"
+          }, {
+            "count" : 11,
+            "item" : "122"
+          }, {
+            "count" : 10,
+            "item" : "24"
+          }, {
+            "count" : 9,
+            "item" : "15"
+          }, {
+            "count" : 8,
+            "item" : "32"
+          }, {
+            "count" : 7,
+            "item" : "9"
+          }, {
+            "count" : 6,
+            "item" : "31"
+          }, {
+            "count" : 5,
+            "item" : "23"
+          }, {
+            "count" : 4,
+            "item" : "68"
+          }, {
+            "count" : 3,
+            "item" : "11"
+          }, {
+            "count" : 2,
+            "item" : "177"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781401,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_year_built",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534873,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1897",
+          "sum" : "136885",
+          "null" : 0,
+          "average" : "1983.840579710145",
+          "largest" : "2008",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1904"
+          }, {
+            "count" : 19,
+            "item" : "2006"
+          }, {
+            "count" : 18,
+            "item" : "2007"
+          }, {
+            "count" : 17,
+            "item" : "2008"
+          }, {
+            "count" : 16,
+            "item" : "2005"
+          }, {
+            "count" : 15,
+            "item" : "1903"
+          }, {
+            "count" : 14,
+            "item" : "1909"
+          }, {
+            "count" : 13,
+            "item" : "1930"
+          }, {
+            "count" : 12,
+            "item" : "1968"
+          }, {
+            "count" : 11,
+            "item" : "1993"
+          }, {
+            "count" : 10,
+            "item" : "1989"
+          }, {
+            "count" : 9,
+            "item" : "1933"
+          }, {
+            "count" : 8,
+            "item" : "2003"
+          }, {
+            "count" : 7,
+            "item" : "1964"
+          }, {
+            "count" : 6,
+            "item" : "1960"
+          }, {
+            "count" : 5,
+            "item" : "2000"
+          }, {
+            "count" : 4,
+            "item" : "1998"
+          }, {
+            "count" : 3,
+            "item" : "1997"
+          }, {
+            "count" : 2,
+            "item" : "1897"
+          }, {
+            "count" : 1,
+            "item" : "1983"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781402,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_gross_sqft",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534874,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "7745",
+          "sum" : "11913976",
+          "null" : 0,
+          "average" : "172666.3188405797",
+          "largest" : "3364977",
+          "top" : [ {
+            "count" : 20,
+            "item" : "116200"
+          }, {
+            "count" : 19,
+            "item" : "127290"
+          }, {
+            "count" : 18,
+            "item" : "85582"
+          }, {
+            "count" : 17,
+            "item" : "19225"
+          }, {
+            "count" : 16,
+            "item" : "29320"
+          }, {
+            "count" : 15,
+            "item" : "12624"
+          }, {
+            "count" : 14,
+            "item" : "63738"
+          }, {
+            "count" : 13,
+            "item" : "19080"
+          }, {
+            "count" : 12,
+            "item" : "16605"
+          }, {
+            "count" : 11,
+            "item" : "99590"
+          }, {
+            "count" : 10,
+            "item" : "35000"
+          }, {
+            "count" : 9,
+            "item" : "62350"
+          }, {
+            "count" : 8,
+            "item" : "56512"
+          }, {
+            "count" : 7,
+            "item" : "132000"
+          }, {
+            "count" : 6,
+            "item" : "55005"
+          }, {
+            "count" : 5,
+            "item" : "95061"
+          }, {
+            "count" : 4,
+            "item" : "10108"
+          }, {
+            "count" : 3,
+            "item" : "105300"
+          }, {
+            "count" : 2,
+            "item" : "30743"
+          }, {
+            "count" : 1,
+            "item" : "9973"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781403,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_estimated_gross_income",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534875,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "102931",
+          "sum" : "145639548",
+          "null" : 0,
+          "average" : "2110718.086956522",
+          "largest" : "37553143",
+          "top" : [ {
+            "count" : 20,
+            "item" : "930762"
+          }, {
+            "count" : 19,
+            "item" : "1019593"
+          }, {
+            "count" : 18,
+            "item" : "1100585"
+          }, {
+            "count" : 17,
+            "item" : "275879"
+          }, {
+            "count" : 16,
+            "item" : "404616"
+          }, {
+            "count" : 15,
+            "item" : "187214"
+          }, {
+            "count" : 14,
+            "item" : "890420"
+          }, {
+            "count" : 13,
+            "item" : "318636"
+          }, {
+            "count" : 12,
+            "item" : "218190"
+          }, {
+            "count" : 11,
+            "item" : "1272760"
+          }, {
+            "count" : 10,
+            "item" : "437500"
+          }, {
+            "count" : 9,
+            "item" : "779375"
+          }, {
+            "count" : 8,
+            "item" : "1186752"
+          }, {
+            "count" : 7,
+            "item" : "1792560"
+          }, {
+            "count" : 6,
+            "item" : "856978"
+          }, {
+            "count" : 5,
+            "item" : "1258608"
+          }, {
+            "count" : 4,
+            "item" : "202160"
+          }, {
+            "count" : 3,
+            "item" : "1616355"
+          }, {
+            "count" : 2,
+            "item" : "454689"
+          }, {
+            "count" : 1,
+            "item" : "205344"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781404,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_gross_income_per_sqft",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534876,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "8.01",
+          "sum" : "969.47",
+          "null" : 0,
+          "average" : "14.05028985507246",
+          "largest" : "21.25",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13.36"
+          }, {
+            "count" : 19,
+            "item" : "12.81"
+          }, {
+            "count" : 18,
+            "item" : "15.39"
+          }, {
+            "count" : 17,
+            "item" : "10.24"
+          }, {
+            "count" : 16,
+            "item" : "13.97"
+          }, {
+            "count" : 15,
+            "item" : "13.09"
+          }, {
+            "count" : 14,
+            "item" : "12.28"
+          }, {
+            "count" : 13,
+            "item" : "11.16"
+          }, {
+            "count" : 12,
+            "item" : "8.01"
+          }, {
+            "count" : 11,
+            "item" : "12.50"
+          }, {
+            "count" : 10,
+            "item" : "13.58"
+          }, {
+            "count" : 9,
+            "item" : "15.58"
+          }, {
+            "count" : 8,
+            "item" : "13.24"
+          }, {
+            "count" : 7,
+            "item" : "20.00"
+          }, {
+            "count" : 6,
+            "item" : "15.35"
+          }, {
+            "count" : 5,
+            "item" : "14.79"
+          }, {
+            "count" : 4,
+            "item" : "20.59"
+          }, {
+            "count" : 3,
+            "item" : "21.25"
+          }, {
+            "count" : 2,
+            "item" : "19.25"
+          }, {
+            "count" : 1,
+            "item" : "15.09"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781405,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_estimated_expense",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534877,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "54215",
+          "sum" : "78496055",
+          "null" : 0,
+          "average" : "1137623.985507246",
+          "largest" : "21771401",
+          "top" : [ {
+            "count" : 20,
+            "item" : "400890"
+          }, {
+            "count" : 19,
+            "item" : "439151"
+          }, {
+            "count" : 18,
+            "item" : "676954"
+          }, {
+            "count" : 17,
+            "item" : "151733"
+          }, {
+            "count" : 16,
+            "item" : "226544"
+          }, {
+            "count" : 15,
+            "item" : "100361"
+          }, {
+            "count" : 14,
+            "item" : "489508"
+          }, {
+            "count" : 13,
+            "item" : "127454"
+          }, {
+            "count" : 12,
+            "item" : "116235"
+          }, {
+            "count" : 11,
+            "item" : "508905"
+          }, {
+            "count" : 10,
+            "item" : "181300"
+          }, {
+            "count" : 9,
+            "item" : "322973"
+          }, {
+            "count" : 8,
+            "item" : "534604"
+          }, {
+            "count" : 7,
+            "item" : "832920"
+          }, {
+            "count" : 6,
+            "item" : "384485"
+          }, {
+            "count" : 5,
+            "item" : "680637"
+          }, {
+            "count" : 4,
+            "item" : "89456"
+          }, {
+            "count" : 3,
+            "item" : "646542"
+          }, {
+            "count" : 2,
+            "item" : "170931"
+          }, {
+            "count" : 1,
+            "item" : "109603"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781406,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_expense_per_sqft",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534878,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "3.45",
+          "sum" : "470.95",
+          "null" : 0,
+          "average" : "6.825362318840580",
+          "largest" : "10.99",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.48"
+          }, {
+            "count" : 19,
+            "item" : "6.97"
+          }, {
+            "count" : 18,
+            "item" : "5.35"
+          }, {
+            "count" : 17,
+            "item" : "7.00"
+          }, {
+            "count" : 16,
+            "item" : "7.68"
+          }, {
+            "count" : 15,
+            "item" : "5.97"
+          }, {
+            "count" : 14,
+            "item" : "6.55"
+          }, {
+            "count" : 13,
+            "item" : "6.47"
+          }, {
+            "count" : 12,
+            "item" : "3.45"
+          }, {
+            "count" : 11,
+            "item" : "5.18"
+          }, {
+            "count" : 10,
+            "item" : "6.31"
+          }, {
+            "count" : 9,
+            "item" : "6.99"
+          }, {
+            "count" : 8,
+            "item" : "7.16"
+          }, {
+            "count" : 7,
+            "item" : "8.85"
+          }, {
+            "count" : 6,
+            "item" : "6.14"
+          }, {
+            "count" : 5,
+            "item" : "5.56"
+          }, {
+            "count" : 4,
+            "item" : "10.99"
+          }, {
+            "count" : 3,
+            "item" : "9.46"
+          }, {
+            "count" : 2,
+            "item" : "8.90"
+          }, {
+            "count" : 1,
+            "item" : "7.47"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781407,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_net_operating_income",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534879,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "48716",
+          "sum" : "67143493",
+          "null" : 0,
+          "average" : "973094.1014492754",
+          "largest" : "15781742",
+          "top" : [ {
+            "count" : 20,
+            "item" : "529872"
+          }, {
+            "count" : 19,
+            "item" : "580442"
+          }, {
+            "count" : 18,
+            "item" : "423631"
+          }, {
+            "count" : 17,
+            "item" : "124146"
+          }, {
+            "count" : 16,
+            "item" : "178072"
+          }, {
+            "count" : 15,
+            "item" : "86853"
+          }, {
+            "count" : 14,
+            "item" : "400912"
+          }, {
+            "count" : 13,
+            "item" : "191182"
+          }, {
+            "count" : 12,
+            "item" : "101955"
+          }, {
+            "count" : 11,
+            "item" : "763855"
+          }, {
+            "count" : 10,
+            "item" : "256200"
+          }, {
+            "count" : 9,
+            "item" : "456402"
+          }, {
+            "count" : 8,
+            "item" : "652148"
+          }, {
+            "count" : 7,
+            "item" : "959640"
+          }, {
+            "count" : 6,
+            "item" : "472493"
+          }, {
+            "count" : 5,
+            "item" : "577971"
+          }, {
+            "count" : 4,
+            "item" : "112704"
+          }, {
+            "count" : 3,
+            "item" : "969813"
+          }, {
+            "count" : 2,
+            "item" : "283758"
+          }, {
+            "count" : 1,
+            "item" : "95741"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781408,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_full_market_value",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534880,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "324000",
+          "sum" : "436775666",
+          "null" : 0,
+          "average" : "6330082.115942029",
+          "largest" : "101759123",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3126006"
+          }, {
+            "count" : 19,
+            "item" : "3424007"
+          }, {
+            "count" : 18,
+            "item" : "2827000"
+          }, {
+            "count" : 17,
+            "item" : "861997"
+          }, {
+            "count" : 16,
+            "item" : "1175000"
+          }, {
+            "count" : 15,
+            "item" : "598999"
+          }, {
+            "count" : 14,
+            "item" : "2638992"
+          }, {
+            "count" : 13,
+            "item" : "1379000"
+          }, {
+            "count" : 12,
+            "item" : "678001"
+          }, {
+            "count" : 11,
+            "item" : "4487975"
+          }, {
+            "count" : 10,
+            "item" : "1682998"
+          }, {
+            "count" : 9,
+            "item" : "2935290"
+          }, {
+            "count" : 8,
+            "item" : "4792003"
+          }, {
+            "count" : 7,
+            "item" : "6349000"
+          }, {
+            "count" : 6,
+            "item" : "3235992"
+          }, {
+            "count" : 5,
+            "item" : "3531005"
+          }, {
+            "count" : 4,
+            "item" : "714999"
+          }, {
+            "count" : 3,
+            "item" : "6153002"
+          }, {
+            "count" : 2,
+            "item" : "1660988"
+          }, {
+            "count" : 1,
+            "item" : "689000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781409,
+        "name" : "BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "bronx_condominiums_comparable_properties_market_value_per_sqft",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534881,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "23.86",
+          "sum" : "3307.33",
+          "null" : 0,
+          "average" : "47.93231884057971",
+          "largest" : "84.80",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39.00"
+          }, {
+            "count" : 19,
+            "item" : "68.90"
+          }, {
+            "count" : 18,
+            "item" : "47.37"
+          }, {
+            "count" : 17,
+            "item" : "30.24"
+          }, {
+            "count" : 16,
+            "item" : "26.90"
+          }, {
+            "count" : 15,
+            "item" : "40.83"
+          }, {
+            "count" : 14,
+            "item" : "45.06"
+          }, {
+            "count" : 13,
+            "item" : "48.09"
+          }, {
+            "count" : 12,
+            "item" : "47.08"
+          }, {
+            "count" : 11,
+            "item" : "84.80"
+          }, {
+            "count" : 10,
+            "item" : "48.10"
+          }, {
+            "count" : 9,
+            "item" : "58.83"
+          }, {
+            "count" : 8,
+            "item" : "37.14"
+          }, {
+            "count" : 7,
+            "item" : "70.74"
+          }, {
+            "count" : 6,
+            "item" : "58.43"
+          }, {
+            "count" : 5,
+            "item" : "54.03"
+          }, {
+            "count" : 4,
+            "item" : "69.09"
+          }, {
+            "count" : 3,
+            "item" : "80.77"
+          }, {
+            "count" : 2,
+            "item" : "70.88"
+          }, {
+            "count" : 1,
+            "item" : "52.31"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781410,
+        "name" : "COMPARABLE RENTAL â 1 â Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_boro_block_lot",
+        "position" : 17,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534882,
+        "width" : 604,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "2-02282-0045",
+          "null" : 0,
+          "largest" : "2-05920-0687",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2-02751-0022"
+          }, {
+            "count" : 19,
+            "item" : "2-02282-0045"
+          }, {
+            "count" : 18,
+            "item" : "2-03801-0001"
+          }, {
+            "count" : 17,
+            "item" : "2-03715-0030"
+          }, {
+            "count" : 16,
+            "item" : "2-03936-0001"
+          }, {
+            "count" : 15,
+            "item" : "2-04338-0012"
+          }, {
+            "count" : 14,
+            "item" : "2-05746-0567"
+          }, {
+            "count" : 13,
+            "item" : "2-05732-0924"
+          }, {
+            "count" : 12,
+            "item" : "2-03121-0038"
+          }, {
+            "count" : 11,
+            "item" : "2-05791-0388"
+          }, {
+            "count" : 10,
+            "item" : "2-05779-0810"
+          }, {
+            "count" : 9,
+            "item" : "2-05796-0129"
+          }, {
+            "count" : 8,
+            "item" : "2-05789-0024"
+          }, {
+            "count" : 7,
+            "item" : "2-05903-0283"
+          }, {
+            "count" : 6,
+            "item" : "2-05920-0687"
+          }, {
+            "count" : 5,
+            "item" : "2-05798-0101"
+          }, {
+            "count" : 4,
+            "item" : "2-05907-0348"
+          }, {
+            "count" : 3,
+            "item" : "2-05814-1155"
+          }, {
+            "count" : 2,
+            "item" : "2-05784-0340"
+          }, {
+            "count" : 1,
+            "item" : "2-05716-0287"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781411,
+        "name" : "COMPARABLE RENTAL â 1 â Address",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_address",
+        "position" : 18,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534883,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1054 SOUTHERN BOULEVARD",
+          "null" : 0,
+          "largest" : "973 ALDUS STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1107 BRYANT AVENUE"
+          }, {
+            "count" : 19,
+            "item" : "211 BROWN PLACE"
+          }, {
+            "count" : 18,
+            "item" : "2010 POWELL AVENUE"
+          }, {
+            "count" : 17,
+            "item" : "1056 BOYNTON AVENUE"
+          }, {
+            "count" : 16,
+            "item" : "1366 WHITE PLAINS ROAD"
+          }, {
+            "count" : 15,
+            "item" : "660 THWAITES PLACE"
+          }, {
+            "count" : 14,
+            "item" : "2675 HENRY HUDSON PARKWAY"
+          }, {
+            "count" : 13,
+            "item" : "2700 HENRY HUDSON PARKWAY"
+          }, {
+            "count" : 12,
+            "item" : "906 EAST 178 STREET"
+          }, {
+            "count" : 11,
+            "item" : "511 WEST 235 STREET"
+          }, {
+            "count" : 10,
+            "item" : "3804 GREYSTONE AVENUE"
+          }, {
+            "count" : 9,
+            "item" : "3660 OXFORD AVENUE"
+          }, {
+            "count" : 8,
+            "item" : "3240 HENRY HUDSON PARKWAY"
+          }, {
+            "count" : 7,
+            "item" : "3611 HENRY HUDSON PARKWAY"
+          }, {
+            "count" : 6,
+            "item" : "699 WEST 239 STREET"
+          }, {
+            "count" : 5,
+            "item" : "3615 OXFORD AVENUE"
+          }, {
+            "count" : 4,
+            "item" : "3725 BLACKSTONE AVENUE"
+          }, {
+            "count" : 3,
+            "item" : "210 WEST 251 STREET"
+          }, {
+            "count" : 2,
+            "item" : "500 WEST 235 STREET"
+          }, {
+            "count" : 1,
+            "item" : "2475 PALISADE AVENUE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781412,
+        "name" : "COMPARABLE RENTAL â 1 â Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_neighborhood",
+        "position" : 19,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534884,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "BAYCHESTER",
+          "null" : 0,
+          "largest" : "WESTCHESTER",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MOTT HAVEN/PORT MORRIS"
+          }, {
+            "count" : 19,
+            "item" : "MORRISANIA/LONGWOOD"
+          }, {
+            "count" : 18,
+            "item" : "MELROSE/CONCOURSE"
+          }, {
+            "count" : 17,
+            "item" : "KINGSBRIDGE/JEROME PARK"
+          }, {
+            "count" : 16,
+            "item" : "HIGHBRIDGE/MORRIS HEIGHTS"
+          }, {
+            "count" : 15,
+            "item" : "BRONXDALE"
+          }, {
+            "count" : 14,
+            "item" : "BAYCHESTER"
+          }, {
+            "count" : 13,
+            "item" : "EAST TREMONT"
+          }, {
+            "count" : 12,
+            "item" : "KINGSBRIDGE HTS/UNIV HTS"
+          }, {
+            "count" : 11,
+            "item" : "BEDFORD PARK/NORWOOD"
+          }, {
+            "count" : 10,
+            "item" : "CASTLE HILL/UNIONPORT"
+          }, {
+            "count" : 9,
+            "item" : "SOUNDVIEW"
+          }, {
+            "count" : 8,
+            "item" : "PARKCHESTER"
+          }, {
+            "count" : 7,
+            "item" : "WESTCHESTER"
+          }, {
+            "count" : 6,
+            "item" : "SCHUYLERVILLE/PELHAM BAY"
+          }, {
+            "count" : 5,
+            "item" : "PELHAM PARKWAY SOUTH"
+          }, {
+            "count" : 4,
+            "item" : "MORRIS PARK/VAN NEST"
+          }, {
+            "count" : 3,
+            "item" : "THROGS NECK"
+          }, {
+            "count" : 2,
+            "item" : "RIVERDALE"
+          }, {
+            "count" : 1,
+            "item" : "FIELDSTON"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781413,
+        "name" : "COMPARABLE RENTAL â 1 â Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_building_classification",
+        "position" : 20,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534885,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "C1-WALK-UP",
+          "null" : 0,
+          "largest" : "D7-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 19,
+            "item" : "D5-ELEVATOR"
+          }, {
+            "count" : 18,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 17,
+            "item" : "C7-WALK-UP"
+          }, {
+            "count" : 16,
+            "item" : "D7-ELEVATOR"
+          }, {
+            "count" : 15,
+            "item" : "C9-WALK-UP"
+          }, {
+            "count" : 14,
+            "item" : "D3-ELEVATOR"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781414,
+        "name" : "COMPARABLE RENTAL â 1 â Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_total_units",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534886,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "12",
+          "sum" : "4165",
+          "null" : 0,
+          "average" : "60.36231884057971",
+          "largest" : "132",
+          "top" : [ {
+            "count" : 20,
+            "item" : "97"
+          }, {
+            "count" : 19,
+            "item" : "61"
+          }, {
+            "count" : 18,
+            "item" : "48"
+          }, {
+            "count" : 17,
+            "item" : "12"
+          }, {
+            "count" : 16,
+            "item" : "20"
+          }, {
+            "count" : 15,
+            "item" : "27"
+          }, {
+            "count" : 14,
+            "item" : "91"
+          }, {
+            "count" : 13,
+            "item" : "79"
+          }, {
+            "count" : 12,
+            "item" : "108"
+          }, {
+            "count" : 11,
+            "item" : "55"
+          }, {
+            "count" : 10,
+            "item" : "78"
+          }, {
+            "count" : 9,
+            "item" : "15"
+          }, {
+            "count" : 8,
+            "item" : "45"
+          }, {
+            "count" : 7,
+            "item" : "35"
+          }, {
+            "count" : 6,
+            "item" : "42"
+          }, {
+            "count" : 5,
+            "item" : "70"
+          }, {
+            "count" : 4,
+            "item" : "87"
+          }, {
+            "count" : 3,
+            "item" : "25"
+          }, {
+            "count" : 2,
+            "item" : "72"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781415,
+        "name" : "COMPARABLE RENTAL â 1 â Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_year_built",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534887,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1904",
+          "sum" : "134534",
+          "null" : 0,
+          "average" : "1949.768115942029",
+          "largest" : "2008",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1910"
+          }, {
+            "count" : 19,
+            "item" : "2008"
+          }, {
+            "count" : 18,
+            "item" : "1923"
+          }, {
+            "count" : 17,
+            "item" : "2004"
+          }, {
+            "count" : 16,
+            "item" : "1969"
+          }, {
+            "count" : 15,
+            "item" : "1920"
+          }, {
+            "count" : 14,
+            "item" : "1943"
+          }, {
+            "count" : 13,
+            "item" : "1924"
+          }, {
+            "count" : 12,
+            "item" : "1904"
+          }, {
+            "count" : 11,
+            "item" : "1915"
+          }, {
+            "count" : 10,
+            "item" : "2005"
+          }, {
+            "count" : 9,
+            "item" : "1936"
+          }, {
+            "count" : 8,
+            "item" : "1931"
+          }, {
+            "count" : 7,
+            "item" : "1927"
+          }, {
+            "count" : 6,
+            "item" : "2003"
+          }, {
+            "count" : 5,
+            "item" : "1975"
+          }, {
+            "count" : 4,
+            "item" : "1974"
+          }, {
+            "count" : 3,
+            "item" : "1930"
+          }, {
+            "count" : 2,
+            "item" : "1926"
+          }, {
+            "count" : 1,
+            "item" : "1925"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781416,
+        "name" : "COMPARABLE RENTAL â 1 â Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_gross_sqft",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534888,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "7550",
+          "sum" : "4196288",
+          "null" : 0,
+          "average" : "60815.76811594203",
+          "largest" : "163197",
+          "top" : [ {
+            "count" : 20,
+            "item" : "88463"
+          }, {
+            "count" : 19,
+            "item" : "21318"
+          }, {
+            "count" : 18,
+            "item" : "74890"
+          }, {
+            "count" : 17,
+            "item" : "70500"
+          }, {
+            "count" : 16,
+            "item" : "56178"
+          }, {
+            "count" : 15,
+            "item" : "137350"
+          }, {
+            "count" : 14,
+            "item" : "92782"
+          }, {
+            "count" : 13,
+            "item" : "108955"
+          }, {
+            "count" : 12,
+            "item" : "36596"
+          }, {
+            "count" : 11,
+            "item" : "64000"
+          }, {
+            "count" : 10,
+            "item" : "42552"
+          }, {
+            "count" : 9,
+            "item" : "106934"
+          }, {
+            "count" : 8,
+            "item" : "163197"
+          }, {
+            "count" : 7,
+            "item" : "134000"
+          }, {
+            "count" : 6,
+            "item" : "160000"
+          }, {
+            "count" : 5,
+            "item" : "7550"
+          }, {
+            "count" : 4,
+            "item" : "41803"
+          }, {
+            "count" : 3,
+            "item" : "75000"
+          }, {
+            "count" : 2,
+            "item" : "92600"
+          }, {
+            "count" : 1,
+            "item" : "31098"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781417,
+        "name" : "COMPARABLE RENTAL â 1 â Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_estimated_gross_income",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534889,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "118520",
+          "sum" : "57077954",
+          "null" : 0,
+          "average" : "827216.7246376812",
+          "largest" : "2431079",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1238859"
+          }, {
+            "count" : 19,
+            "item" : "369578"
+          }, {
+            "count" : 18,
+            "item" : "980263"
+          }, {
+            "count" : 17,
+            "item" : "998079"
+          }, {
+            "count" : 16,
+            "item" : "659820"
+          }, {
+            "count" : 15,
+            "item" : "1123523"
+          }, {
+            "count" : 14,
+            "item" : "1159771"
+          }, {
+            "count" : 13,
+            "item" : "1229714"
+          }, {
+            "count" : 12,
+            "item" : "776066"
+          }, {
+            "count" : 11,
+            "item" : "890050"
+          }, {
+            "count" : 10,
+            "item" : "692789"
+          }, {
+            "count" : 9,
+            "item" : "1415876"
+          }, {
+            "count" : 8,
+            "item" : "2199230"
+          }, {
+            "count" : 7,
+            "item" : "2080061"
+          }, {
+            "count" : 6,
+            "item" : "2431079"
+          }, {
+            "count" : 5,
+            "item" : "174490"
+          }, {
+            "count" : 4,
+            "item" : "630807"
+          }, {
+            "count" : 3,
+            "item" : "999460"
+          }, {
+            "count" : 2,
+            "item" : "1304480"
+          }, {
+            "count" : 1,
+            "item" : "565690"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781418,
+        "name" : "COMPARABLE RENTAL â 1 â Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_gross_income_per_sqft",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534890,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "8.18",
+          "sum" : "989.45",
+          "null" : 0,
+          "average" : "14.33985507246377",
+          "largest" : "23.11",
+          "top" : [ {
+            "count" : 20,
+            "item" : "14.00"
+          }, {
+            "count" : 19,
+            "item" : "17.34"
+          }, {
+            "count" : 18,
+            "item" : "13.09"
+          }, {
+            "count" : 17,
+            "item" : "14.16"
+          }, {
+            "count" : 16,
+            "item" : "11.75"
+          }, {
+            "count" : 15,
+            "item" : "8.18"
+          }, {
+            "count" : 14,
+            "item" : "12.50"
+          }, {
+            "count" : 13,
+            "item" : "11.29"
+          }, {
+            "count" : 12,
+            "item" : "21.21"
+          }, {
+            "count" : 11,
+            "item" : "13.91"
+          }, {
+            "count" : 10,
+            "item" : "16.28"
+          }, {
+            "count" : 9,
+            "item" : "13.24"
+          }, {
+            "count" : 8,
+            "item" : "13.48"
+          }, {
+            "count" : 7,
+            "item" : "15.52"
+          }, {
+            "count" : 6,
+            "item" : "15.19"
+          }, {
+            "count" : 5,
+            "item" : "23.11"
+          }, {
+            "count" : 4,
+            "item" : "15.09"
+          }, {
+            "count" : 3,
+            "item" : "13.33"
+          }, {
+            "count" : 2,
+            "item" : "14.09"
+          }, {
+            "count" : 1,
+            "item" : "18.19"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781419,
+        "name" : "COMPARABLE RENTAL â 1 â Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_estimated_expense",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534891,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "73868",
+          "sum" : "28016126",
+          "null" : 0,
+          "average" : "406030.8115942029",
+          "largest" : "1080504",
+          "top" : [ {
+            "count" : 20,
+            "item" : "644239"
+          }, {
+            "count" : 19,
+            "item" : "203253"
+          }, {
+            "count" : 18,
+            "item" : "447288"
+          }, {
+            "count" : 17,
+            "item" : "401055"
+          }, {
+            "count" : 16,
+            "item" : "286553"
+          }, {
+            "count" : 15,
+            "item" : "741690"
+          }, {
+            "count" : 14,
+            "item" : "480671"
+          }, {
+            "count" : 13,
+            "item" : "539876"
+          }, {
+            "count" : 12,
+            "item" : "430956"
+          }, {
+            "count" : 11,
+            "item" : "348839"
+          }, {
+            "count" : 10,
+            "item" : "224771"
+          }, {
+            "count" : 9,
+            "item" : "765281"
+          }, {
+            "count" : 8,
+            "item" : "1080504"
+          }, {
+            "count" : 7,
+            "item" : "1045025"
+          }, {
+            "count" : 6,
+            "item" : "1031689"
+          }, {
+            "count" : 5,
+            "item" : "78802"
+          }, {
+            "count" : 4,
+            "item" : "222392"
+          }, {
+            "count" : 3,
+            "item" : "371959"
+          }, {
+            "count" : 2,
+            "item" : "560265"
+          }, {
+            "count" : 1,
+            "item" : "214887"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781420,
+        "name" : "COMPARABLE RENTAL â 1 â Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_expense_per_sqft",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534892,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "4.77",
+          "sum" : "493.04",
+          "null" : 0,
+          "average" : "7.145507246376812",
+          "largest" : "11.78",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.28"
+          }, {
+            "count" : 19,
+            "item" : "9.53"
+          }, {
+            "count" : 18,
+            "item" : "5.97"
+          }, {
+            "count" : 17,
+            "item" : "5.69"
+          }, {
+            "count" : 16,
+            "item" : "5.10"
+          }, {
+            "count" : 15,
+            "item" : "5.40"
+          }, {
+            "count" : 14,
+            "item" : "5.18"
+          }, {
+            "count" : 13,
+            "item" : "4.96"
+          }, {
+            "count" : 12,
+            "item" : "11.78"
+          }, {
+            "count" : 11,
+            "item" : "5.45"
+          }, {
+            "count" : 10,
+            "item" : "5.28"
+          }, {
+            "count" : 9,
+            "item" : "7.16"
+          }, {
+            "count" : 8,
+            "item" : "6.62"
+          }, {
+            "count" : 7,
+            "item" : "7.80"
+          }, {
+            "count" : 6,
+            "item" : "6.45"
+          }, {
+            "count" : 5,
+            "item" : "10.44"
+          }, {
+            "count" : 4,
+            "item" : "5.32"
+          }, {
+            "count" : 3,
+            "item" : "6.05"
+          }, {
+            "count" : 2,
+            "item" : "6.91"
+          }, {
+            "count" : 1,
+            "item" : "5.85"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781421,
+        "name" : "COMPARABLE RENTAL â 1 â Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_net_operating_income",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534893,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "43151",
+          "sum" : "29061828",
+          "null" : 0,
+          "average" : "421185.9130434783",
+          "largest" : "1399390",
+          "top" : [ {
+            "count" : 20,
+            "item" : "594620"
+          }, {
+            "count" : 19,
+            "item" : "166325"
+          }, {
+            "count" : 18,
+            "item" : "532975"
+          }, {
+            "count" : 17,
+            "item" : "597024"
+          }, {
+            "count" : 16,
+            "item" : "373267"
+          }, {
+            "count" : 15,
+            "item" : "381833"
+          }, {
+            "count" : 14,
+            "item" : "679100"
+          }, {
+            "count" : 13,
+            "item" : "689838"
+          }, {
+            "count" : 12,
+            "item" : "345110"
+          }, {
+            "count" : 11,
+            "item" : "541211"
+          }, {
+            "count" : 10,
+            "item" : "468018"
+          }, {
+            "count" : 9,
+            "item" : "650595"
+          }, {
+            "count" : 8,
+            "item" : "1118726"
+          }, {
+            "count" : 7,
+            "item" : "1035036"
+          }, {
+            "count" : 6,
+            "item" : "1399390"
+          }, {
+            "count" : 5,
+            "item" : "95688"
+          }, {
+            "count" : 4,
+            "item" : "408415"
+          }, {
+            "count" : 3,
+            "item" : "627501"
+          }, {
+            "count" : 2,
+            "item" : "744215"
+          }, {
+            "count" : 1,
+            "item" : "350803"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781422,
+        "name" : "COMPARABLE RENTAL â 1 â Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_full_market_value",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534894,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "298000",
+          "sum" : "176743000",
+          "null" : 0,
+          "average" : "2561492.753623188",
+          "largest" : "8778000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2838000"
+          }, {
+            "count" : 19,
+            "item" : "1074000"
+          }, {
+            "count" : 18,
+            "item" : "2805000"
+          }, {
+            "count" : 17,
+            "item" : "4141000"
+          }, {
+            "count" : 16,
+            "item" : "1661000"
+          }, {
+            "count" : 15,
+            "item" : "2249000"
+          }, {
+            "count" : 14,
+            "item" : "3619000"
+          }, {
+            "count" : 13,
+            "item" : "3432000"
+          }, {
+            "count" : 12,
+            "item" : "2280000"
+          }, {
+            "count" : 11,
+            "item" : "3565000"
+          }, {
+            "count" : 10,
+            "item" : "3185000"
+          }, {
+            "count" : 9,
+            "item" : "4322000"
+          }, {
+            "count" : 8,
+            "item" : "7409000"
+          }, {
+            "count" : 7,
+            "item" : "7091000"
+          }, {
+            "count" : 6,
+            "item" : "8778000"
+          }, {
+            "count" : 5,
+            "item" : "643000"
+          }, {
+            "count" : 4,
+            "item" : "2453000"
+          }, {
+            "count" : 3,
+            "item" : "3476000"
+          }, {
+            "count" : 2,
+            "item" : "4268000"
+          }, {
+            "count" : 1,
+            "item" : "1925000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781423,
+        "name" : "COMPARABLE RENTAL â 1 â Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_market_value_per_sqft",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534895,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "16.37",
+          "sum" : "3027.36",
+          "null" : 0,
+          "average" : "43.87478260869565",
+          "largest" : "85.17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "32.08"
+          }, {
+            "count" : 19,
+            "item" : "50.38"
+          }, {
+            "count" : 18,
+            "item" : "37.45"
+          }, {
+            "count" : 17,
+            "item" : "58.74"
+          }, {
+            "count" : 16,
+            "item" : "29.57"
+          }, {
+            "count" : 15,
+            "item" : "16.37"
+          }, {
+            "count" : 14,
+            "item" : "39.01"
+          }, {
+            "count" : 13,
+            "item" : "31.50"
+          }, {
+            "count" : 12,
+            "item" : "62.30"
+          }, {
+            "count" : 11,
+            "item" : "55.70"
+          }, {
+            "count" : 10,
+            "item" : "74.85"
+          }, {
+            "count" : 9,
+            "item" : "40.42"
+          }, {
+            "count" : 8,
+            "item" : "45.40"
+          }, {
+            "count" : 7,
+            "item" : "52.92"
+          }, {
+            "count" : 6,
+            "item" : "54.86"
+          }, {
+            "count" : 5,
+            "item" : "85.17"
+          }, {
+            "count" : 4,
+            "item" : "58.68"
+          }, {
+            "count" : 3,
+            "item" : "46.35"
+          }, {
+            "count" : 2,
+            "item" : "46.09"
+          }, {
+            "count" : 1,
+            "item" : "61.90"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781424,
+        "name" : "COMPARABLE RENTAL â 1 â Distance from Condo in miles",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_distance_from_condo_in_miles",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534896,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "0.06",
+          "sum" : "82.71",
+          "null" : 0,
+          "average" : "1.198695652173913",
+          "largest" : "7.48",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.12"
+          }, {
+            "count" : 19,
+            "item" : "0.06"
+          }, {
+            "count" : 18,
+            "item" : "0.14"
+          }, {
+            "count" : 17,
+            "item" : "1.58"
+          }, {
+            "count" : 16,
+            "item" : "1.73"
+          }, {
+            "count" : 15,
+            "item" : "6.28"
+          }, {
+            "count" : 14,
+            "item" : "0.09"
+          }, {
+            "count" : 13,
+            "item" : "0.20"
+          }, {
+            "count" : 12,
+            "item" : "3.18"
+          }, {
+            "count" : 11,
+            "item" : "0.07"
+          }, {
+            "count" : 10,
+            "item" : "0.24"
+          }, {
+            "count" : 9,
+            "item" : "0.11"
+          }, {
+            "count" : 8,
+            "item" : "0.40"
+          }, {
+            "count" : 7,
+            "item" : "0.21"
+          }, {
+            "count" : 6,
+            "item" : "3.35"
+          }, {
+            "count" : 5,
+            "item" : "0.82"
+          }, {
+            "count" : 4,
+            "item" : "0.34"
+          }, {
+            "count" : 3,
+            "item" : "3.51"
+          }, {
+            "count" : 2,
+            "item" : "0.90"
+          }, {
+            "count" : 1,
+            "item" : "0.64"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781425,
+        "name" : "COMPARABLE RENTAL â 2 â Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_boro_block_lot",
+        "position" : 32,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534897,
+        "width" : 604,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "2-02287-0046",
+          "null" : 0,
+          "largest" : "2-05920-0687",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2-02688-0036"
+          }, {
+            "count" : 19,
+            "item" : "2-02674-0051"
+          }, {
+            "count" : 18,
+            "item" : "2-02370-0049"
+          }, {
+            "count" : 17,
+            "item" : "2-02690-0105"
+          }, {
+            "count" : 16,
+            "item" : "2-03124-0001"
+          }, {
+            "count" : 15,
+            "item" : "2-04847-0039"
+          }, {
+            "count" : 14,
+            "item" : "2-03801-0001"
+          }, {
+            "count" : 13,
+            "item" : "2-03793-0039"
+          }, {
+            "count" : 12,
+            "item" : "2-03925-0018"
+          }, {
+            "count" : 11,
+            "item" : "2-04340-0025"
+          }, {
+            "count" : 10,
+            "item" : "2-04199-0037"
+          }, {
+            "count" : 9,
+            "item" : "2-05796-0129"
+          }, {
+            "count" : 8,
+            "item" : "2-03263-0104"
+          }, {
+            "count" : 7,
+            "item" : "2-05798-0077"
+          }, {
+            "count" : 6,
+            "item" : "2-05798-0101"
+          }, {
+            "count" : 5,
+            "item" : "2-05920-0687"
+          }, {
+            "count" : 4,
+            "item" : "2-05920-0670"
+          }, {
+            "count" : 3,
+            "item" : "2-05786-0240"
+          }, {
+            "count" : 2,
+            "item" : "2-05716-0287"
+          }, {
+            "count" : 1,
+            "item" : "2-05909-0163"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781426,
+        "name" : "COMPARABLE RENTAL â 2 â Address",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_address",
+        "position" : 33,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534898,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1054 SOUTHERN BOULEVARD",
+          "null" : 0,
+          "largest" : "FT INDEPENDENCE STREET",
+          "top" : [ {
+            "count" : 20,
+            "item" : "853 MACY PLACE"
+          }, {
+            "count" : 19,
+            "item" : "645 PROSPECT AVENUE"
+          }, {
+            "count" : 18,
+            "item" : "501 EAST 165 STREET"
+          }, {
+            "count" : 17,
+            "item" : "954 PROSPECT AVENUE"
+          }, {
+            "count" : 16,
+            "item" : "883 EAST 180 STREET"
+          }, {
+            "count" : 15,
+            "item" : "800 EAST 223 STREET"
+          }, {
+            "count" : 14,
+            "item" : "2010 POWELL AVENUE"
+          }, {
+            "count" : 13,
+            "item" : "1990 ELLIS AVENUE"
+          }, {
+            "count" : 12,
+            "item" : "1565 THIERIOT AVENUE"
+          }, {
+            "count" : 11,
+            "item" : "2320 BRONX PARK EAST"
+          }, {
+            "count" : 10,
+            "item" : "3100 ARNOW PLACE"
+          }, {
+            "count" : 9,
+            "item" : "3660 OXFORD AVENUE"
+          }, {
+            "count" : 8,
+            "item" : "3855 ORLOFF AVENUE"
+          }, {
+            "count" : 7,
+            "item" : "545 WEST 236 STREET"
+          }, {
+            "count" : 6,
+            "item" : "3615 OXFORD AVENUE"
+          }, {
+            "count" : 5,
+            "item" : "699 WEST 239 STREET"
+          }, {
+            "count" : 4,
+            "item" : "3801 HUDSON MANOR TERRACE"
+          }, {
+            "count" : 3,
+            "item" : "3205 OXFORD AVENUE"
+          }, {
+            "count" : 2,
+            "item" : "2475 PALISADE AVENUE"
+          }, {
+            "count" : 1,
+            "item" : "3950 BLACKSTONE AVENUE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781427,
+        "name" : "COMPARABLE RENTAL â 2 â Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_neighborhood",
+        "position" : 34,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534899,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "BEDFORD PARK/NORWOOD",
+          "null" : 0,
+          "largest" : "WILLIAMSBRIDGE",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MOTT HAVEN/PORT MORRIS"
+          }, {
+            "count" : 19,
+            "item" : "MORRISANIA/LONGWOOD"
+          }, {
+            "count" : 18,
+            "item" : "MELROSE/CONCOURSE"
+          }, {
+            "count" : 17,
+            "item" : "HIGHBRIDGE/MORRIS HEIGHTS"
+          }, {
+            "count" : 16,
+            "item" : "FORDHAM"
+          }, {
+            "count" : 15,
+            "item" : "BRONX PARK"
+          }, {
+            "count" : 14,
+            "item" : "EAST TREMONT"
+          }, {
+            "count" : 13,
+            "item" : "MORRIS PARK/VAN NEST"
+          }, {
+            "count" : 12,
+            "item" : "BELMONT"
+          }, {
+            "count" : 11,
+            "item" : "MOUNT HOPE/MOUNT EDEN"
+          }, {
+            "count" : 10,
+            "item" : "KINGSBRIDGE/JEROME PARK"
+          }, {
+            "count" : 9,
+            "item" : "WILLIAMSBRIDGE"
+          }, {
+            "count" : 8,
+            "item" : "BEDFORD PARK/NORWOOD"
+          }, {
+            "count" : 7,
+            "item" : "CASTLE HILL/UNIONPORT"
+          }, {
+            "count" : 6,
+            "item" : "SOUNDVIEW"
+          }, {
+            "count" : 5,
+            "item" : "PARKCHESTER"
+          }, {
+            "count" : 4,
+            "item" : "SCHUYLERVILLE/PELHAM BAY"
+          }, {
+            "count" : 3,
+            "item" : "BRONXDALE"
+          }, {
+            "count" : 2,
+            "item" : "PELHAM PARKWAY NORTH"
+          }, {
+            "count" : 1,
+            "item" : "WAKEFIELD"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781428,
+        "name" : "COMPARABLE RENTAL â 2 â Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_building_classification",
+        "position" : 35,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534900,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "C1-WALK-UP",
+          "null" : 0,
+          "largest" : "D7-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "D3-ELEVATOR"
+          }, {
+            "count" : 19,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 18,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 17,
+            "item" : "D7-ELEVATOR"
+          }, {
+            "count" : 16,
+            "item" : "D5-ELEVATOR"
+          }, {
+            "count" : 15,
+            "item" : "C7-WALK-UP"
+          }, {
+            "count" : 14,
+            "item" : "C4-WALK-UP"
+          }, {
+            "count" : 13,
+            "item" : "C9-WALK-UP"
+          }, {
+            "count" : 12,
+            "item" : "D6-ELEVATOR"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781429,
+        "name" : "COMPARABLE RENTAL â 2 â Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_total_units",
+        "position" : 36,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534901,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "12",
+          "sum" : "4826",
+          "null" : 0,
+          "average" : "69.94202898550725",
+          "largest" : "196",
+          "top" : [ {
+            "count" : 20,
+            "item" : "96"
+          }, {
+            "count" : 19,
+            "item" : "63"
+          }, {
+            "count" : 18,
+            "item" : "109"
+          }, {
+            "count" : 17,
+            "item" : "42"
+          }, {
+            "count" : 16,
+            "item" : "196"
+          }, {
+            "count" : 15,
+            "item" : "14"
+          }, {
+            "count" : 14,
+            "item" : "74"
+          }, {
+            "count" : 13,
+            "item" : "12"
+          }, {
+            "count" : 12,
+            "item" : "27"
+          }, {
+            "count" : 11,
+            "item" : "23"
+          }, {
+            "count" : 10,
+            "item" : "91"
+          }, {
+            "count" : 9,
+            "item" : "85"
+          }, {
+            "count" : 8,
+            "item" : "120"
+          }, {
+            "count" : 7,
+            "item" : "66"
+          }, {
+            "count" : 6,
+            "item" : "15"
+          }, {
+            "count" : 5,
+            "item" : "78"
+          }, {
+            "count" : 4,
+            "item" : "73"
+          }, {
+            "count" : 3,
+            "item" : "176"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781430,
+        "name" : "COMPARABLE RENTAL â 2 â Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_year_built",
+        "position" : 37,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534902,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "1904",
+          "sum" : "134733",
+          "null" : 0,
+          "average" : "1952.652173913043",
+          "largest" : "2009",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1973"
+          }, {
+            "count" : 19,
+            "item" : "2009"
+          }, {
+            "count" : 18,
+            "item" : "1985"
+          }, {
+            "count" : 17,
+            "item" : "2006"
+          }, {
+            "count" : 16,
+            "item" : "1941"
+          }, {
+            "count" : 15,
+            "item" : "1923"
+          }, {
+            "count" : 14,
+            "item" : "1910"
+          }, {
+            "count" : 13,
+            "item" : "1926"
+          }, {
+            "count" : 12,
+            "item" : "2004"
+          }, {
+            "count" : 11,
+            "item" : "1972"
+          }, {
+            "count" : 10,
+            "item" : "1911"
+          }, {
+            "count" : 9,
+            "item" : "1904"
+          }, {
+            "count" : 8,
+            "item" : "1979"
+          }, {
+            "count" : 7,
+            "item" : "1963"
+          }, {
+            "count" : 6,
+            "item" : "1931"
+          }, {
+            "count" : 5,
+            "item" : "1951"
+          }, {
+            "count" : 4,
+            "item" : "1924"
+          }, {
+            "count" : 3,
+            "item" : "1927"
+          }, {
+            "count" : 2,
+            "item" : "1913"
+          }, {
+            "count" : 1,
+            "item" : "1929"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781431,
+        "name" : "COMPARABLE RENTAL â 2 â Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_gross_sqft",
+        "position" : 38,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534903,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "6260",
+          "sum" : "4751951",
+          "null" : 0,
+          "average" : "68868.85507246377",
+          "largest" : "237000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "75119"
+          }, {
+            "count" : 19,
+            "item" : "112536"
+          }, {
+            "count" : 18,
+            "item" : "41000"
+          }, {
+            "count" : 17,
+            "item" : "12495"
+          }, {
+            "count" : 16,
+            "item" : "181093"
+          }, {
+            "count" : 15,
+            "item" : "57000"
+          }, {
+            "count" : 14,
+            "item" : "18850"
+          }, {
+            "count" : 13,
+            "item" : "74890"
+          }, {
+            "count" : 12,
+            "item" : "76000"
+          }, {
+            "count" : 11,
+            "item" : "130500"
+          }, {
+            "count" : 10,
+            "item" : "77418"
+          }, {
+            "count" : 9,
+            "item" : "11145"
+          }, {
+            "count" : 8,
+            "item" : "45375"
+          }, {
+            "count" : 7,
+            "item" : "90025"
+          }, {
+            "count" : 6,
+            "item" : "7550"
+          }, {
+            "count" : 5,
+            "item" : "160000"
+          }, {
+            "count" : 4,
+            "item" : "152400"
+          }, {
+            "count" : 3,
+            "item" : "6260"
+          }, {
+            "count" : 2,
+            "item" : "31098"
+          }, {
+            "count" : 1,
+            "item" : "237000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781432,
+        "name" : "COMPARABLE RENTAL â 2 â Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_estimated_gross_income",
+        "position" : 39,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534904,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "113056",
+          "sum" : "63868741",
+          "null" : 0,
+          "average" : "925633.9275362319",
+          "largest" : "3145885",
+          "top" : [ {
+            "count" : 20,
+            "item" : "966782"
+          }, {
+            "count" : 19,
+            "item" : "1590276"
+          }, {
+            "count" : 18,
+            "item" : "547775"
+          }, {
+            "count" : 17,
+            "item" : "181224"
+          }, {
+            "count" : 16,
+            "item" : "3145885"
+          }, {
+            "count" : 15,
+            "item" : "293830"
+          }, {
+            "count" : 14,
+            "item" : "980263"
+          }, {
+            "count" : 13,
+            "item" : "916326"
+          }, {
+            "count" : 12,
+            "item" : "1455886"
+          }, {
+            "count" : 11,
+            "item" : "664499"
+          }, {
+            "count" : 10,
+            "item" : "125478"
+          }, {
+            "count" : 9,
+            "item" : "1415876"
+          }, {
+            "count" : 8,
+            "item" : "674935"
+          }, {
+            "count" : 7,
+            "item" : "1137489"
+          }, {
+            "count" : 6,
+            "item" : "174490"
+          }, {
+            "count" : 5,
+            "item" : "2431079"
+          }, {
+            "count" : 4,
+            "item" : "2299515"
+          }, {
+            "count" : 3,
+            "item" : "113056"
+          }, {
+            "count" : 2,
+            "item" : "565690"
+          }, {
+            "count" : 1,
+            "item" : "3092924"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781433,
+        "name" : "COMPARABLE RENTAL â 2 â Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_gross_income_per_sqft",
+        "position" : 40,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534905,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "8.41",
+          "sum" : "973.57",
+          "null" : 0,
+          "average" : "14.10971014492754",
+          "largest" : "23.11",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12.87"
+          }, {
+            "count" : 19,
+            "item" : "14.13"
+          }, {
+            "count" : 18,
+            "item" : "13.36"
+          }, {
+            "count" : 17,
+            "item" : "14.50"
+          }, {
+            "count" : 16,
+            "item" : "17.37"
+          }, {
+            "count" : 15,
+            "item" : "15.59"
+          }, {
+            "count" : 14,
+            "item" : "13.09"
+          }, {
+            "count" : 13,
+            "item" : "12.06"
+          }, {
+            "count" : 12,
+            "item" : "11.16"
+          }, {
+            "count" : 11,
+            "item" : "8.58"
+          }, {
+            "count" : 10,
+            "item" : "12.50"
+          }, {
+            "count" : 9,
+            "item" : "11.26"
+          }, {
+            "count" : 8,
+            "item" : "14.87"
+          }, {
+            "count" : 7,
+            "item" : "12.64"
+          }, {
+            "count" : 6,
+            "item" : "23.11"
+          }, {
+            "count" : 5,
+            "item" : "15.19"
+          }, {
+            "count" : 4,
+            "item" : "15.09"
+          }, {
+            "count" : 3,
+            "item" : "18.06"
+          }, {
+            "count" : 2,
+            "item" : "18.19"
+          }, {
+            "count" : 1,
+            "item" : "13.05"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781434,
+        "name" : "COMPARABLE RENTAL â 2 â Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_estimated_expense",
+        "position" : 41,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534906,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "40659",
+          "sum" : "31138701",
+          "null" : 0,
+          "average" : "451285.5217391304",
+          "largest" : "1477491",
+          "top" : [ {
+            "count" : 20,
+            "item" : "666306"
+          }, {
+            "count" : 19,
+            "item" : "826943"
+          }, {
+            "count" : 18,
+            "item" : "301264"
+          }, {
+            "count" : 17,
+            "item" : "103718"
+          }, {
+            "count" : 16,
+            "item" : "1437121"
+          }, {
+            "count" : 15,
+            "item" : "170170"
+          }, {
+            "count" : 14,
+            "item" : "447288"
+          }, {
+            "count" : 13,
+            "item" : "500946"
+          }, {
+            "count" : 12,
+            "item" : "596640"
+          }, {
+            "count" : 11,
+            "item" : "398818"
+          }, {
+            "count" : 10,
+            "item" : "40659"
+          }, {
+            "count" : 9,
+            "item" : "765281"
+          }, {
+            "count" : 8,
+            "item" : "394357"
+          }, {
+            "count" : 7,
+            "item" : "554033"
+          }, {
+            "count" : 6,
+            "item" : "78802"
+          }, {
+            "count" : 5,
+            "item" : "1031689"
+          }, {
+            "count" : 4,
+            "item" : "810013"
+          }, {
+            "count" : 3,
+            "item" : "54212"
+          }, {
+            "count" : 2,
+            "item" : "214887"
+          }, {
+            "count" : 1,
+            "item" : "1477491"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781435,
+        "name" : "COMPARABLE RENTAL â 2 â Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_expense_per_sqft",
+        "position" : 42,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534907,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "3.65",
+          "sum" : "484.15",
+          "null" : 0,
+          "average" : "7.016666666666667",
+          "largest" : "10.44",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8.87"
+          }, {
+            "count" : 19,
+            "item" : "7.35"
+          }, {
+            "count" : 18,
+            "item" : "8.30"
+          }, {
+            "count" : 17,
+            "item" : "7.94"
+          }, {
+            "count" : 16,
+            "item" : "8.21"
+          }, {
+            "count" : 15,
+            "item" : "9.03"
+          }, {
+            "count" : 14,
+            "item" : "5.97"
+          }, {
+            "count" : 13,
+            "item" : "6.59"
+          }, {
+            "count" : 12,
+            "item" : "6.46"
+          }, {
+            "count" : 11,
+            "item" : "4.57"
+          }, {
+            "count" : 10,
+            "item" : "5.15"
+          }, {
+            "count" : 9,
+            "item" : "3.65"
+          }, {
+            "count" : 8,
+            "item" : "10.44"
+          }, {
+            "count" : 7,
+            "item" : "6.45"
+          }, {
+            "count" : 6,
+            "item" : "5.32"
+          }, {
+            "count" : 5,
+            "item" : "8.66"
+          }, {
+            "count" : 4,
+            "item" : "6.91"
+          }, {
+            "count" : 3,
+            "item" : "6.23"
+          }, {
+            "count" : 2,
+            "item" : "5.45"
+          }, {
+            "count" : 1,
+            "item" : "8.89"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781436,
+        "name" : "COMPARABLE RENTAL â 2 â Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_net_operating_income",
+        "position" : 43,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534908,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "56119",
+          "sum" : "32730040",
+          "null" : 0,
+          "average" : "474348.4057971014",
+          "largest" : "1708764",
+          "top" : [ {
+            "count" : 20,
+            "item" : "300476"
+          }, {
+            "count" : 19,
+            "item" : "763333"
+          }, {
+            "count" : 18,
+            "item" : "246511"
+          }, {
+            "count" : 17,
+            "item" : "77506"
+          }, {
+            "count" : 16,
+            "item" : "1708764"
+          }, {
+            "count" : 15,
+            "item" : "123660"
+          }, {
+            "count" : 14,
+            "item" : "532975"
+          }, {
+            "count" : 13,
+            "item" : "415380"
+          }, {
+            "count" : 12,
+            "item" : "859246"
+          }, {
+            "count" : 11,
+            "item" : "265681"
+          }, {
+            "count" : 10,
+            "item" : "84819"
+          }, {
+            "count" : 9,
+            "item" : "650595"
+          }, {
+            "count" : 8,
+            "item" : "280578"
+          }, {
+            "count" : 7,
+            "item" : "583456"
+          }, {
+            "count" : 6,
+            "item" : "95688"
+          }, {
+            "count" : 5,
+            "item" : "1399390"
+          }, {
+            "count" : 4,
+            "item" : "1489502"
+          }, {
+            "count" : 3,
+            "item" : "58844"
+          }, {
+            "count" : 2,
+            "item" : "350803"
+          }, {
+            "count" : 1,
+            "item" : "1615433"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781437,
+        "name" : "COMPARABLE RENTAL â 2 â Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_full_market_value",
+        "position" : 44,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534909,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "263000",
+          "sum" : "190828000",
+          "null" : 0,
+          "average" : "2765623.188405797",
+          "largest" : "10760000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1175000"
+          }, {
+            "count" : 19,
+            "item" : "4635000"
+          }, {
+            "count" : 18,
+            "item" : "1132000"
+          }, {
+            "count" : 17,
+            "item" : "378000"
+          }, {
+            "count" : 16,
+            "item" : "9702000"
+          }, {
+            "count" : 15,
+            "item" : "471000"
+          }, {
+            "count" : 14,
+            "item" : "847000"
+          }, {
+            "count" : 13,
+            "item" : "2805000"
+          }, {
+            "count" : 12,
+            "item" : "2387000"
+          }, {
+            "count" : 11,
+            "item" : "4004000"
+          }, {
+            "count" : 10,
+            "item" : "1518000"
+          }, {
+            "count" : 9,
+            "item" : "393000"
+          }, {
+            "count" : 8,
+            "item" : "1934000"
+          }, {
+            "count" : 7,
+            "item" : "3531000"
+          }, {
+            "count" : 6,
+            "item" : "643000"
+          }, {
+            "count" : 5,
+            "item" : "8778000"
+          }, {
+            "count" : 4,
+            "item" : "7095000"
+          }, {
+            "count" : 3,
+            "item" : "424000"
+          }, {
+            "count" : 2,
+            "item" : "1925000"
+          }, {
+            "count" : 1,
+            "item" : "10760000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781438,
+        "name" : "COMPARABLE RENTAL â 2 â Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_market_value_per_sqft",
+        "position" : 45,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534910,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "15.64",
+          "sum" : "2897.55",
+          "null" : 0,
+          "average" : "41.99347826086957",
+          "largest" : "85.17",
+          "top" : [ {
+            "count" : 20,
+            "item" : "15.64"
+          }, {
+            "count" : 19,
+            "item" : "41.19"
+          }, {
+            "count" : 18,
+            "item" : "27.61"
+          }, {
+            "count" : 17,
+            "item" : "30.25"
+          }, {
+            "count" : 16,
+            "item" : "53.57"
+          }, {
+            "count" : 15,
+            "item" : "44.93"
+          }, {
+            "count" : 14,
+            "item" : "37.45"
+          }, {
+            "count" : 13,
+            "item" : "31.41"
+          }, {
+            "count" : 12,
+            "item" : "30.68"
+          }, {
+            "count" : 11,
+            "item" : "19.61"
+          }, {
+            "count" : 10,
+            "item" : "35.26"
+          }, {
+            "count" : 9,
+            "item" : "40.42"
+          }, {
+            "count" : 8,
+            "item" : "42.62"
+          }, {
+            "count" : 7,
+            "item" : "39.22"
+          }, {
+            "count" : 6,
+            "item" : "85.17"
+          }, {
+            "count" : 5,
+            "item" : "54.86"
+          }, {
+            "count" : 4,
+            "item" : "46.56"
+          }, {
+            "count" : 3,
+            "item" : "67.73"
+          }, {
+            "count" : 2,
+            "item" : "61.90"
+          }, {
+            "count" : 1,
+            "item" : "45.40"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781439,
+        "name" : "COMPARABLE RENTAL â 2 â Distance from Condo in miles",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_distance_from_condo_in_miles",
+        "position" : 46,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1534911,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : "0.00",
+          "sum" : "63.61",
+          "null" : 0,
+          "average" : "0.9218840579710145",
+          "largest" : "6.68",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0.14"
+          }, {
+            "count" : 19,
+            "item" : "0.46"
+          }, {
+            "count" : 18,
+            "item" : "0.00"
+          }, {
+            "count" : 17,
+            "item" : "0.15"
+          }, {
+            "count" : 16,
+            "item" : "1.58"
+          }, {
+            "count" : 15,
+            "item" : "1.67"
+          }, {
+            "count" : 14,
+            "item" : "0.11"
+          }, {
+            "count" : 13,
+            "item" : "0.31"
+          }, {
+            "count" : 12,
+            "item" : "3.35"
+          }, {
+            "count" : 11,
+            "item" : "0.12"
+          }, {
+            "count" : 10,
+            "item" : "0.43"
+          }, {
+            "count" : 9,
+            "item" : "0.28"
+          }, {
+            "count" : 8,
+            "item" : "0.20"
+          }, {
+            "count" : 7,
+            "item" : "0.40"
+          }, {
+            "count" : 6,
+            "item" : "0.16"
+          }, {
+            "count" : 5,
+            "item" : "0.89"
+          }, {
+            "count" : 4,
+            "item" : "1.18"
+          }, {
+            "count" : 3,
+            "item" : "3.57"
+          }, {
+            "count" : 2,
+            "item" : "0.87"
+          }, {
+            "count" : 1,
+            "item" : "0.47"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781440,
+        "name" : "COMPARABLE RENTAL â 3 â Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_boro_block_lot",
+        "position" : 47,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534912,
+        "width" : 604,
+        "cachedContents" : {
+          "non_null" : 33,
+          "smallest" : "2-02398-0027",
+          "null" : 36,
+          "largest" : "2-05950-0429",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2-02432-0005"
+          }, {
+            "count" : 19,
+            "item" : "2-02398-0027"
+          }, {
+            "count" : 18,
+            "item" : "2-02861-0050"
+          }, {
+            "count" : 17,
+            "item" : "2-02735-0005"
+          }, {
+            "count" : 16,
+            "item" : "2-03125-0001"
+          }, {
+            "count" : 15,
+            "item" : "2-03128-0013"
+          }, {
+            "count" : 14,
+            "item" : "2-03311-0072"
+          }, {
+            "count" : 13,
+            "item" : "2-03297-0049"
+          }, {
+            "count" : 12,
+            "item" : "2-03681-0001"
+          }, {
+            "count" : 11,
+            "item" : "2-03716-0036"
+          }, {
+            "count" : 10,
+            "item" : "2-03793-0039"
+          }, {
+            "count" : 9,
+            "item" : "2-03925-0025"
+          }, {
+            "count" : 8,
+            "item" : "2-03947-0001"
+          }, {
+            "count" : 7,
+            "item" : "2-04178-0010"
+          }, {
+            "count" : 6,
+            "item" : "2-04338-0012"
+          }, {
+            "count" : 5,
+            "item" : "2-04323-0035"
+          }, {
+            "count" : 4,
+            "item" : "2-04337-0064"
+          }, {
+            "count" : 3,
+            "item" : "2-04570-0032"
+          }, {
+            "count" : 2,
+            "item" : "2-04199-0037"
+          }, {
+            "count" : 1,
+            "item" : "2-05789-0024"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781441,
+        "name" : "COMPARABLE RENTAL â 3 â Address",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_address",
+        "position" : 48,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534913,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "986 MORRIS AVENUE",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "986 MORRIS AVENUE"
+          }, {
+            "count" : 18,
+            "item" : "395 EAST 151 STREET"
+          }, {
+            "count" : 17,
+            "item" : "1702 DAVIDSON AVENUE"
+          }, {
+            "count" : 16,
+            "item" : "916 SOUTHERN BOULEVARD"
+          }, {
+            "count" : 15,
+            "item" : "901 EAST 180 STREET"
+          }, {
+            "count" : 14,
+            "item" : "934 EAST 181 STREET"
+          }, {
+            "count" : 13,
+            "item" : "3175 GRAND CONCOURSE"
+          }, {
+            "count" : 12,
+            "item" : "2925 BRIGGS AVENUE"
+          }, {
+            "count" : 11,
+            "item" : "2001 STORY AVENUE"
+          }, {
+            "count" : 10,
+            "item" : "1065 MANOR AVENUE"
+          }, {
+            "count" : 9,
+            "item" : "1990 ELLIS AVENUE"
+          }, {
+            "count" : 8,
+            "item" : "1564 TAYLOR AVENUE"
+          }, {
+            "count" : 7,
+            "item" : "2141 STARLING AVENUE"
+          }, {
+            "count" : 6,
+            "item" : "3555 BRUCKNER BOULEVARD"
+          }, {
+            "count" : 5,
+            "item" : "660 THWAITES PLACE"
+          }, {
+            "count" : 4,
+            "item" : "2196 MATTHEWS AVENUE"
+          }, {
+            "count" : 3,
+            "item" : "620 REISS PLACE"
+          }, {
+            "count" : 2,
+            "item" : "3039 WALLACE AVENUE"
+          }, {
+            "count" : 1,
+            "item" : "3100 ARNOW PLACE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781442,
+        "name" : "COMPARABLE RENTAL â 3 â Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_neighborhood",
+        "position" : 49,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534914,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "SOUNDVIEW",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "MELROSE/CONCOURSE"
+          }, {
+            "count" : 18,
+            "item" : "HIGHBRIDGE/MORRIS HEIGHTS"
+          }, {
+            "count" : 17,
+            "item" : "MORRISANIA/LONGWOOD"
+          }, {
+            "count" : 16,
+            "item" : "EAST TREMONT"
+          }, {
+            "count" : 15,
+            "item" : "BEDFORD PARK/NORWOOD"
+          }, {
+            "count" : 14,
+            "item" : "CASTLE HILL/UNIONPORT"
+          }, {
+            "count" : 13,
+            "item" : "SOUNDVIEW"
+          }, {
+            "count" : 12,
+            "item" : "PARKCHESTER"
+          }, {
+            "count" : 11,
+            "item" : "SCHUYLERVILLE/PELHAM BAY"
+          }, {
+            "count" : 10,
+            "item" : "BRONXDALE"
+          }, {
+            "count" : 9,
+            "item" : "PELHAM PARKWAY SOUTH"
+          }, {
+            "count" : 8,
+            "item" : "RIVERDALE"
+          }, {
+            "count" : 7,
+            "item" : "BELMONT"
+          }, {
+            "count" : 6,
+            "item" : "KINGSBRIDGE/JEROME PARK"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781443,
+        "name" : "COMPARABLE RENTAL â 3 â Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_building_classification",
+        "position" : 50,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534915,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "D7-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 18,
+            "item" : "D7-ELEVATOR"
+          }, {
+            "count" : 17,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 16,
+            "item" : "D3-ELEVATOR"
+          }, {
+            "count" : 15,
+            "item" : "D6-ELEVATOR"
+          }, {
+            "count" : 14,
+            "item" : "C9-WALK-UP"
+          }, {
+            "count" : 13,
+            "item" : "C7-WALK-UP"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781444,
+        "name" : "COMPARABLE RENTAL â 3 â Total Units",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_total_units",
+        "position" : 51,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534916,
+        "width" : 568,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "85",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "30"
+          }, {
+            "count" : 18,
+            "item" : "39"
+          }, {
+            "count" : 17,
+            "item" : "28"
+          }, {
+            "count" : 16,
+            "item" : "38"
+          }, {
+            "count" : 15,
+            "item" : "76"
+          }, {
+            "count" : 14,
+            "item" : "40"
+          }, {
+            "count" : 13,
+            "item" : "68"
+          }, {
+            "count" : 12,
+            "item" : "35"
+          }, {
+            "count" : 11,
+            "item" : "355"
+          }, {
+            "count" : 10,
+            "item" : "44"
+          }, {
+            "count" : 9,
+            "item" : "85"
+          }, {
+            "count" : 8,
+            "item" : "54"
+          }, {
+            "count" : 7,
+            "item" : "102"
+          }, {
+            "count" : 6,
+            "item" : "142"
+          }, {
+            "count" : 5,
+            "item" : "108"
+          }, {
+            "count" : 4,
+            "item" : "42"
+          }, {
+            "count" : 3,
+            "item" : "74"
+          }, {
+            "count" : 2,
+            "item" : "60"
+          }, {
+            "count" : 1,
+            "item" : "15"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781445,
+        "name" : "COMPARABLE RENTAL â 3 â Year Built",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_year_built",
+        "position" : 52,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534917,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "2008",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "1929"
+          }, {
+            "count" : 18,
+            "item" : "1931"
+          }, {
+            "count" : 17,
+            "item" : "1927"
+          }, {
+            "count" : 16,
+            "item" : "1911"
+          }, {
+            "count" : 15,
+            "item" : "1930"
+          }, {
+            "count" : 14,
+            "item" : "1959"
+          }, {
+            "count" : 13,
+            "item" : "1973"
+          }, {
+            "count" : 12,
+            "item" : "1928"
+          }, {
+            "count" : 11,
+            "item" : "1960"
+          }, {
+            "count" : 10,
+            "item" : "1954"
+          }, {
+            "count" : 9,
+            "item" : "1940"
+          }, {
+            "count" : 8,
+            "item" : "1964"
+          }, {
+            "count" : 7,
+            "item" : "1938"
+          }, {
+            "count" : 6,
+            "item" : "2006"
+          }, {
+            "count" : 5,
+            "item" : "1937"
+          }, {
+            "count" : 4,
+            "item" : "2008"
+          }, {
+            "count" : 3,
+            "item" : "2005"
+          }, {
+            "count" : 2,
+            "item" : "1948"
+          }, {
+            "count" : 1,
+            "item" : "1926"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781446,
+        "name" : "COMPARABLE RENTAL â 3 â Gross SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_gross_sqft",
+        "position" : 53,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534918,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "93,000",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "34,125"
+          }, {
+            "count" : 18,
+            "item" : "36,360"
+          }, {
+            "count" : 17,
+            "item" : "22,500"
+          }, {
+            "count" : 16,
+            "item" : "50,030"
+          }, {
+            "count" : 15,
+            "item" : "73,824"
+          }, {
+            "count" : 14,
+            "item" : "33,996"
+          }, {
+            "count" : 13,
+            "item" : "64,876"
+          }, {
+            "count" : 12,
+            "item" : "32,480"
+          }, {
+            "count" : 11,
+            "item" : "421,833"
+          }, {
+            "count" : 10,
+            "item" : "48,000"
+          }, {
+            "count" : 9,
+            "item" : "76,000"
+          }, {
+            "count" : 8,
+            "item" : "54,000"
+          }, {
+            "count" : 7,
+            "item" : "93,000"
+          }, {
+            "count" : 6,
+            "item" : "112,000"
+          }, {
+            "count" : 5,
+            "item" : "137,350"
+          }, {
+            "count" : 4,
+            "item" : "34,518"
+          }, {
+            "count" : 3,
+            "item" : "86,527"
+          }, {
+            "count" : 2,
+            "item" : "52,980"
+          }, {
+            "count" : 1,
+            "item" : "11,145"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781447,
+        "name" : "COMPARABLE RENTAL â 3 â Estimated Gross Income",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_estimated_gross_income",
+        "position" : 54,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534919,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "960,856",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "440,880"
+          }, {
+            "count" : 18,
+            "item" : "477,689"
+          }, {
+            "count" : 17,
+            "item" : "353,925"
+          }, {
+            "count" : 16,
+            "item" : "759,513"
+          }, {
+            "count" : 15,
+            "item" : "1,455,324"
+          }, {
+            "count" : 14,
+            "item" : "584,493"
+          }, {
+            "count" : 13,
+            "item" : "775,268"
+          }, {
+            "count" : 12,
+            "item" : "361,158"
+          }, {
+            "count" : 11,
+            "item" : "5,268,694"
+          }, {
+            "count" : 10,
+            "item" : "544,690"
+          }, {
+            "count" : 9,
+            "item" : "916,326"
+          }, {
+            "count" : 8,
+            "item" : "576,807"
+          }, {
+            "count" : 7,
+            "item" : "1,148,540"
+          }, {
+            "count" : 6,
+            "item" : "1,480,347"
+          }, {
+            "count" : 5,
+            "item" : "1,123,523"
+          }, {
+            "count" : 4,
+            "item" : "426,526"
+          }, {
+            "count" : 3,
+            "item" : "727,680"
+          }, {
+            "count" : 2,
+            "item" : "772,759"
+          }, {
+            "count" : 1,
+            "item" : "125,478"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781448,
+        "name" : "COMPARABLE RENTAL â 3 â Gross Income per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_gross_income_per_sqft",
+        "position" : 55,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534920,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "8.41",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "12.92"
+          }, {
+            "count" : 18,
+            "item" : "13.14"
+          }, {
+            "count" : 17,
+            "item" : "15.73"
+          }, {
+            "count" : 16,
+            "item" : "15.18"
+          }, {
+            "count" : 15,
+            "item" : "19.71"
+          }, {
+            "count" : 14,
+            "item" : "17.19"
+          }, {
+            "count" : 13,
+            "item" : "11.95"
+          }, {
+            "count" : 12,
+            "item" : "11.12"
+          }, {
+            "count" : 11,
+            "item" : "12.49"
+          }, {
+            "count" : 10,
+            "item" : "11.35"
+          }, {
+            "count" : 9,
+            "item" : "12.06"
+          }, {
+            "count" : 8,
+            "item" : "10.68"
+          }, {
+            "count" : 7,
+            "item" : "12.35"
+          }, {
+            "count" : 6,
+            "item" : "13.22"
+          }, {
+            "count" : 5,
+            "item" : "8.18"
+          }, {
+            "count" : 4,
+            "item" : "12.36"
+          }, {
+            "count" : 3,
+            "item" : "8.41"
+          }, {
+            "count" : 2,
+            "item" : "14.59"
+          }, {
+            "count" : 1,
+            "item" : "11.26"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781449,
+        "name" : "COMPARABLE RENTAL â 3 â Estimated Expense",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_estimated_expense",
+        "position" : 56,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534921,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "741,690",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "264,517"
+          }, {
+            "count" : 18,
+            "item" : "306,682"
+          }, {
+            "count" : 17,
+            "item" : "165,825"
+          }, {
+            "count" : 16,
+            "item" : "448,082"
+          }, {
+            "count" : 15,
+            "item" : "708,848"
+          }, {
+            "count" : 14,
+            "item" : "315,271"
+          }, {
+            "count" : 13,
+            "item" : "419,099"
+          }, {
+            "count" : 12,
+            "item" : "172,847"
+          }, {
+            "count" : 11,
+            "item" : "2,897,993"
+          }, {
+            "count" : 10,
+            "item" : "275,408"
+          }, {
+            "count" : 9,
+            "item" : "500,946"
+          }, {
+            "count" : 8,
+            "item" : "373,925"
+          }, {
+            "count" : 7,
+            "item" : "632,698"
+          }, {
+            "count" : 6,
+            "item" : "642,987"
+          }, {
+            "count" : 5,
+            "item" : "741,690"
+          }, {
+            "count" : 4,
+            "item" : "261,394"
+          }, {
+            "count" : 3,
+            "item" : "397,257"
+          }, {
+            "count" : 2,
+            "item" : "421,260"
+          }, {
+            "count" : 1,
+            "item" : "40,659"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781450,
+        "name" : "COMPARABLE RENTAL â 3 â Expense per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_expense_per_sqft",
+        "position" : 57,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534922,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "9.78",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "7.75"
+          }, {
+            "count" : 18,
+            "item" : "8.43"
+          }, {
+            "count" : 17,
+            "item" : "7.37"
+          }, {
+            "count" : 16,
+            "item" : "8.96"
+          }, {
+            "count" : 15,
+            "item" : "9.60"
+          }, {
+            "count" : 14,
+            "item" : "9.27"
+          }, {
+            "count" : 13,
+            "item" : "6.46"
+          }, {
+            "count" : 12,
+            "item" : "5.32"
+          }, {
+            "count" : 11,
+            "item" : "6.87"
+          }, {
+            "count" : 10,
+            "item" : "5.74"
+          }, {
+            "count" : 9,
+            "item" : "6.59"
+          }, {
+            "count" : 8,
+            "item" : "6.92"
+          }, {
+            "count" : 7,
+            "item" : "6.80"
+          }, {
+            "count" : 6,
+            "item" : "5.40"
+          }, {
+            "count" : 5,
+            "item" : "7.57"
+          }, {
+            "count" : 4,
+            "item" : "4.59"
+          }, {
+            "count" : 3,
+            "item" : "7.95"
+          }, {
+            "count" : 2,
+            "item" : "3.65"
+          }, {
+            "count" : 1,
+            "item" : "6.62"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781451,
+        "name" : "COMPARABLE RENTAL â 3 â Net Operating Income",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_net_operating_income",
+        "position" : 58,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534923,
+        "width" : 676,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "84,819",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "176,363"
+          }, {
+            "count" : 18,
+            "item" : "171,007"
+          }, {
+            "count" : 17,
+            "item" : "188,100"
+          }, {
+            "count" : 16,
+            "item" : "311,431"
+          }, {
+            "count" : 15,
+            "item" : "746,476"
+          }, {
+            "count" : 14,
+            "item" : "269,222"
+          }, {
+            "count" : 13,
+            "item" : "356,169"
+          }, {
+            "count" : 12,
+            "item" : "188,311"
+          }, {
+            "count" : 11,
+            "item" : "2,370,701"
+          }, {
+            "count" : 10,
+            "item" : "269,282"
+          }, {
+            "count" : 9,
+            "item" : "415,380"
+          }, {
+            "count" : 8,
+            "item" : "202,882"
+          }, {
+            "count" : 7,
+            "item" : "515,842"
+          }, {
+            "count" : 6,
+            "item" : "837,360"
+          }, {
+            "count" : 5,
+            "item" : "381,833"
+          }, {
+            "count" : 4,
+            "item" : "165,132"
+          }, {
+            "count" : 3,
+            "item" : "330,423"
+          }, {
+            "count" : 2,
+            "item" : "351,499"
+          }, {
+            "count" : 1,
+            "item" : "84,819"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781452,
+        "name" : "COMPARABLE RENTAL â 3 â Full Market Value",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_full_market_value",
+        "position" : 59,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534924,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "988,000",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "1,056,000"
+          }, {
+            "count" : 18,
+            "item" : "1,137,000"
+          }, {
+            "count" : 17,
+            "item" : "587,000"
+          }, {
+            "count" : 16,
+            "item" : "2,140,000"
+          }, {
+            "count" : 15,
+            "item" : "5,344,000"
+          }, {
+            "count" : 14,
+            "item" : "1,725,000"
+          }, {
+            "count" : 13,
+            "item" : "1,529,000"
+          }, {
+            "count" : 12,
+            "item" : "988,000"
+          }, {
+            "count" : 11,
+            "item" : "15,895,000"
+          }, {
+            "count" : 10,
+            "item" : "1,551,000"
+          }, {
+            "count" : 9,
+            "item" : "2,387,000"
+          }, {
+            "count" : 8,
+            "item" : "1,258,000"
+          }, {
+            "count" : 7,
+            "item" : "3,268,000"
+          }, {
+            "count" : 6,
+            "item" : "4,411,000"
+          }, {
+            "count" : 5,
+            "item" : "2,249,000"
+          }, {
+            "count" : 4,
+            "item" : "1,046,000"
+          }, {
+            "count" : 3,
+            "item" : "1,650,000"
+          }, {
+            "count" : 2,
+            "item" : "1,903,000"
+          }, {
+            "count" : 1,
+            "item" : "393,000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781453,
+        "name" : "COMPARABLE RENTAL â 3 â Market Value per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_market_value_per_sqft",
+        "position" : 60,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534925,
+        "width" : 688,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "74.85",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "30.95"
+          }, {
+            "count" : 18,
+            "item" : "31.27"
+          }, {
+            "count" : 17,
+            "item" : "26.09"
+          }, {
+            "count" : 16,
+            "item" : "42.77"
+          }, {
+            "count" : 15,
+            "item" : "72.39"
+          }, {
+            "count" : 14,
+            "item" : "50.74"
+          }, {
+            "count" : 13,
+            "item" : "23.57"
+          }, {
+            "count" : 12,
+            "item" : "30.42"
+          }, {
+            "count" : 11,
+            "item" : "37.68"
+          }, {
+            "count" : 10,
+            "item" : "32.31"
+          }, {
+            "count" : 9,
+            "item" : "31.41"
+          }, {
+            "count" : 8,
+            "item" : "23.30"
+          }, {
+            "count" : 7,
+            "item" : "35.14"
+          }, {
+            "count" : 6,
+            "item" : "39.38"
+          }, {
+            "count" : 5,
+            "item" : "16.37"
+          }, {
+            "count" : 4,
+            "item" : "30.30"
+          }, {
+            "count" : 3,
+            "item" : "19.07"
+          }, {
+            "count" : 2,
+            "item" : "35.92"
+          }, {
+            "count" : 1,
+            "item" : "35.26"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 75781454,
+        "name" : "COMPARABLE RENTAL â 3 â Distance from Condo in miles",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_distance_from_condo_in_miles",
+        "position" : 61,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1534926,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 69,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "3.22",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "0.47"
+          }, {
+            "count" : 18,
+            "item" : "0.44"
+          }, {
+            "count" : 17,
+            "item" : "0.99"
+          }, {
+            "count" : 16,
+            "item" : "0.17"
+          }, {
+            "count" : 15,
+            "item" : "0.28"
+          }, {
+            "count" : 14,
+            "item" : "0.09"
+          }, {
+            "count" : 13,
+            "item" : "0.15"
+          }, {
+            "count" : 12,
+            "item" : "0.34"
+          }, {
+            "count" : 11,
+            "item" : "1.24"
+          }, {
+            "count" : 10,
+            "item" : "1.70"
+          }, {
+            "count" : 9,
+            "item" : "0.23"
+          }, {
+            "count" : 8,
+            "item" : "0.27"
+          }, {
+            "count" : 7,
+            "item" : "0.24"
+          }, {
+            "count" : 6,
+            "item" : "0.38"
+          }, {
+            "count" : 5,
+            "item" : "0.12"
+          }, {
+            "count" : 4,
+            "item" : "0.48"
+          }, {
+            "count" : 3,
+            "item" : "0.41"
+          }, {
+            "count" : 2,
+            "item" : "0.16"
+          }, {
+            "count" : 1,
+            "item" : "2.94"
+          } ]
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Agency" : "Department of Finance (DOF)"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "roleName" : "administrator",
+        "screenName" : "NYC OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "k2fz-tf56",
+        "displayName" : "Gary A",
+        "screenName" : "Gary A"
+      },
+      "tags" : [ "department of finance", "finance", "dof", "rental property", "condominiums", "residential", "apartment", "buildings", "rental properties", "bronx", "borough" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "6D557E22-9CFA-46EE-A5D1-065C54E1E241", 1, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02315-7501", "0093-R1", "305 EAST 140 STREET", "MOTT HAVEN/PORT MORRIS", "R2-CONDOMINIUM", "11", "1904", "21092", "257533", "12.21", "137520", "6.52", "120013", "653000", "30.96", "2-02287-0133", "458 EAST 143 STREET", "MOTT HAVEN/PORT MORRIS", "D1-ELEVATOR", "37", "1910", "22224", "263446", "11.85", "134152", "6.04", "129294", "825000", "37.12", "0.30", "2-02287-0046", "489 EAST 142 STREET", "MOTT HAVEN/PORT MORRIS", "D3-ELEVATOR", "96", "1973", "97926", "1230694", "12.57", "685907", "7.00", "544787", "3649000", "37.26", "0.30", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 2, "DBC9B400-6B11-41EC-8EC4-D55AA65C12BB", 2, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02364-7501", "0099-R1", "3044 3 AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "61", "2006", "72000", "1174320", "16.31", "451440", "6.27", "722880", "4504003", "62.56", "2-02707-0030", "715 FOX STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "50", "2008", "60373", "1192367", "19.75", "596184", "9.88", "596183", "4268000", "70.69", "0.77", "2-02688-0036", "853 MACY PLACE", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "63", "2009", "75119", "966782", "12.87", "666306", "8.87", "300476", "1175000", "15.64", "0.60", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 3, "61762520-FA51-4428-BB7F-0DA787B02C44", 3, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02369-7502", "0122-R1", "500 EAST 165 STREET", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "128", "2007", "150121", "2005617", "13.36", "1122905", "7.48", "882712", "5854000", "39.00", "2-02751-0022", "1107 BRYANT AVENUE", "MORRISANIA/LONGWOOD", "D5-ELEVATOR", "97", "1923", "88463", "1238859", "14.00", "644239", "7.28", "594620", "2838000", "32.08", "0.98", "2-02674-0051", "645 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "109", "1985", "112536", "1590276", "14.13", "826943", "7.35", "763333", "4635000", "41.19", "0.84", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 4, "5E91DA16-47AF-4CB3-8FF5-E2196DAFB4AA", 4, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02378-7501", "0126-R1", "3055 3 AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "58", "2007", "63872", "818200", "12.81", "445188", "6.97", "373012", "2491000", "39.00", "2-02690-0173", "861 EAST 163 STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "74", "2004", "72000", "741173", "10.29", "397824", "5.53", "343349", "2138000", "29.69", "0.73", "2-02688-0036", "853 MACY PLACE", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "63", "2009", "75119", "966782", "12.87", "666306", "8.87", "300476", "1175000", "15.64", "0.65", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 5, "7FFC6B96-074A-40AB-A0C7-0247701934F2", 5, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02381-7501", "0115-R1", "837 WASHINGTON AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "90", "2008", "128643", "1718670", "13.36", "962250", "7.48", "756420", "5017000", "39.00", "2-02647-0005", "820 JACKSON AVENUE", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "61", "1969", "49608", "742588", "14.97", "445104", "8.97", "297484", "1529000", "30.82", "0.38", "2-02370-0049", "501 EAST 165 STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "42", "2006", "41000", "547775", "13.36", "301264", "7.35", "246511", "1132000", "27.61", "0.39", "2-02432-0005", "986 MORRIS AVENUE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "30", "1929", "34,125", "440,880", "12.92", "264,517", "7.75", "176,363", "1,056,000", "30.95", "0.47" ]
+, [ 6, "47B534F0-5139-45B4-822D-02D0C156AF65", 6, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02382-7501", "0094-R1", "871 ELTON AVENUE", "MORRISANIA/LONGWOOD", "R9-CONDOMINIUM", "110", "2005", "99240", "1271264", "12.81", "691703", "6.97", "579561", "3870000", "39.00", "2-02426-0008", "1124 CLAY AVENUE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "54", "1920", "46400", "692561", "14.93", "422451", "9.10", "270110", "1441000", "31.06", "0.46", "2-02370-0049", "501 EAST 165 STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "42", "2006", "41000", "547775", "13.36", "301264", "7.35", "246511", "1132000", "27.61", "0.37", "2-02398-0027", "395 EAST 151 STREET", "MELROSE/CONCOURSE", "D7-ELEVATOR", "39", "1931", "36,360", "477,689", "13.14", "306,682", "8.43", "171,007", "1,137,000", "31.27", "0.44" ]
+, [ 7, "C6C4A407-8766-42C4-B4CB-2F44A948201D", 7, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02382-7502", "0108-R1", "406 EAST 161 STREET", "MORRISANIA/LONGWOOD", "R9-CONDOMINIUM", "88", "2006", "76984", "1184784", "15.39", "411864", "5.35", "772920", "5304000", "68.90", "2-03263-0050", "140 VAN CORTLANDT AVENUE", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "88", "1943", "70300", "1316095", "18.72", "615986", "8.76", "700109", "5032000", "71.58", "4.31", "2-02840-0054", "120 MARCY PLACE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "196", "1941", "70200", "1100529", "15.68", "421091", "6.00", "679438", "4649000", "66.23", "0.98", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 8, "203163BB-04F8-4B71-A037-635D3833BF7D", 8, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02516-7501", "0073-R1", "1209 NELSON AVENUE", "HIGHBRIDGE/MORRIS HEIGHTS", "R4-CONDOMINIUM", "28", "2005", "24262", "377759", "15.57", "167649", "6.91", "210110", "1499988", "61.82", "2-02876-0165", "1684 NELSON AVENUE", "HIGHBRIDGE/MORRIS HEIGHTS", "C1-WALK-UP", "32", "1924", "21000", "326961", "15.57", "174432", "8.31", "152529", "1045000", "49.76", "0.86", "2-02879-0123", "1805 DR M L KING JR BOULE", "HIGHBRIDGE/MORRIS HEIGHTS", "C1-WALK-UP", "26", "1923", "22500", "333198", "14.81", "193184", "8.59", "140014", "432000", "19.20", "1.20", "2-02861-0050", "1702 DAVIDSON AVENUE", "HIGHBRIDGE/MORRIS HEIGHTS", "C1-WALK-UP", "28", "1927", "22,500", "353,925", "15.73", "165,825", "7.37", "188,100", "587,000", "26.09", "0.99" ]
+, [ 9, "45437658-B220-4836-A54F-E1D26890E575", 9, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02651-7501", "0020-R1", "1111 FOREST AVENUE", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "8", "1903", "7745", "102931", "13.29", "54215", "7.00", "48716", "324000", "41.83", "2-02963-0005", "1410 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "C1-WALK-UP", "13", "1904", "8164", "118520", "14.52", "75369", "9.23", "43151", "298000", "36.50", "0.51", "2-02612-0002", "1230 FULTON AVENUE", "MORRISANIA/LONGWOOD", "C1-WALK-UP", "14", "1910", "9504", "125385", "13.19", "69266", "7.29", "56119", "300000", "31.57", "0.26", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 10, "93DA3354-B3F8-4949-961C-759EAB803529", 10, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02686-7501", "0053-R1", "717 KELLY STREET", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "13", "1909", "14384", "221370", "15.39", "76954", "5.35", "144416", "991003", "68.90", "2-02684-0068", "972 LEGGETT AVENUE", "MORRISANIA/LONGWOOD", "C7-WALK-UP", "48", "1915", "41270", "655376", "15.88", "322153", "7.81", "333223", "1800000", "43.62", "0.12", "2-02674-0027", "592 UNION AVENUE", "MORRISANIA/LONGWOOD", "C1-WALK-UP", "43", "1926", "33890", "582130", "17.18", "320197", "9.45", "261933", "1893000", "55.86", "0.21", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 11, "04A58DA7-CCF7-40F4-8884-E36B8435AE13", 11, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02690-7501", "0131-R1", "871 WESTCHESTER AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "70", "2005", "72717", "744622", "10.24", "395580", "5.44", "349042", "2023500", "27.83", "2-02690-0081", "881 EAST 162 STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "86", "2005", "82000", "835580", "10.19", "501840", "6.12", "333740", "2079000", "25.35", "0.06", "2-02690-0173", "861 EAST 163 STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "74", "2004", "72000", "741173", "10.29", "397824", "5.53", "343349", "2138000", "29.69", "0.14", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 12, "FEC538DD-3265-4DEA-A22C-861548BE4D8E", 12, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02690-7502", "0132-R1", "890 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "124", "2005", "125905", "1289267", "10.24", "593063", "4.71", "696204", "4336000", "34.44", "2-02751-0022", "1107 BRYANT AVENUE", "MORRISANIA/LONGWOOD", "D5-ELEVATOR", "97", "1923", "88463", "1238859", "14.00", "644239", "7.28", "594620", "2838000", "32.08", "0.66", "2-02674-0051", "645 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "109", "1985", "112536", "1590276", "14.13", "826943", "7.35", "763333", "4635000", "41.19", "0.46", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 13, "D7ED2335-F326-4F31-8CE0-1033CCC49153", 13, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02703-7501", "0074-R1", "950 WESTCHESTER AVENUE", "MORRISANIA/LONGWOOD", "R4-CONDOMINIUM", "111", "2006", "112935", "1512200", "13.39", "800710", "7.09", "711490", "4734000", "41.92", "2-02456-0181", "185 MC CLELLAN STREET", "MELROSE/CONCOURSE", "D7-ELEVATOR", "117", "1936", "123000", "1264238", "10.28", "748623", "6.09", "515615", "3210000", "26.10", "1.38", "2-03024-0008", "355 EAST 184 STREET", "FORDHAM", "D7-ELEVATOR", "112", "1972", "120000", "1606800", "13.39", "850800", "7.09", "756000", "4815000", "40.13", "2.51", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 14, "69B94E22-424E-4626-B193-613128C6D9E4", 14, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02742-7501", "0072-R1", "951 HOE AVENUE", "MORRISANIA/LONGWOOD", "R9-CONDOMINIUM", "300", "2005", "279904", "4265737", "15.24", "1976122", "7.06", "2289615", "15729000", "56.19", "2-02749-0063", "973 ALDUS STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "22", "1920", "13980", "224933", "16.09", "114725", "8.21", "110208", "751000", "53.72", "0.15", "2-02743-0019", "1054 SOUTHERN BOULEVARD", "MORRISANIA/LONGWOOD", "D7-ELEVATOR", "59", "1910", "63608", "969157", "15.24", "449149", "7.06", "520008", "3572000", "56.16", "0.14", "2-02735-0005", "916 SOUTHERN BOULEVARD", "MORRISANIA/LONGWOOD", "D7-ELEVATOR", "38", "1911", "50,030", "759,513", "15.18", "448,082", "8.96", "311,431", "2,140,000", "42.77", "0.17" ]
+, [ 15, "69841A31-D3CB-4EDF-82DE-45F779352F31", 15, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02748-7501", "0046-R1", "1010 FAILE STREET", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "78", "1930", "93600", "1076400", "11.50", "698256", "7.46", "378144", "2426009", "25.92", "2-02743-0019", "1054 SOUTHERN BOULEVARD", "MORRISANIA/LONGWOOD", "D7-ELEVATOR", "59", "1910", "63608", "969157", "15.24", "449149", "7.06", "520008", "3572000", "56.16", "0.06", "2-02751-0022", "1107 BRYANT AVENUE", "MORRISANIA/LONGWOOD", "D5-ELEVATOR", "97", "1923", "88463", "1238859", "14.00", "644239", "7.28", "594620", "2838000", "32.08", "0.13", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 16, "20D8FA28-5C81-4A28-93BF-201FA87A4169", 16, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02931-7501", "0096-R1", "1349 FRANKLIN AVENUE", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "16", "2007", "18300", "272121", "14.87", "141068", "7.71", "131053", "906000", "49.51", "2-02963-0012", "798 EAST 170 STREET", "MORRISANIA/LONGWOOD", "C7-WALK-UP", "21", "1904", "16949", "220898", "13.03", "139769", "8.25", "81129", "540000", "31.86", "0.32", "2-03357-0001", "405 EAST 204 STREET", "BRONX PARK", "C7-WALK-UP", "20", "1911", "17000", "331353", "19.49", "171789", "10.11", "159564", "1144000", "67.29", "3.21", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 17, "A0AC0BD7-9681-4431-948A-B99968331D3D", 17, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02934-7501", "0086-R1", "1317 BOSTON ROAD", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "10", "2005", "12319", "143640", "11.66", "82205", "6.67", "61435", "394000", "31.98", "2-02968-0028", "801 FREEMAN STREET", "MORRISANIA/LONGWOOD", "C7-WALK-UP", "12", "1931", "11335", "127084", "11.21", "79552", "7.02", "47532", "306000", "27.00", "0.14", "2-02690-0105", "954 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "C4-WALK-UP", "12", "1904", "12495", "181224", "14.50", "103718", "8.30", "77506", "378000", "30.25", "0.66", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 18, "47C392D0-B9E7-4F86-BABD-B1B0551AAB97", 18, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02980-7501", "0087-R1", "1308 SOUTHERN BOULEVARD", "MORRISANIA/LONGWOOD", "R2-CONDOMINIUM", "12", "2005", "10816", "151100", "13.97", "83067", "7.68", "68033", "448000", "41.42", "2-04578-0014", "3034 HONE AVENUE", "BRONXDALE", "C1-WALK-UP", "12", "1927", "11760", "128174", "10.90", "73868", "6.28", "54306", "336000", "28.57", "3.20", "2-02690-0105", "954 PROSPECT AVENUE", "MORRISANIA/LONGWOOD", "C4-WALK-UP", "12", "1904", "12495", "181224", "14.50", "103718", "8.30", "77506", "378000", "30.25", "0.75", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 19, "BC579DC4-B39D-42A6-83CC-6AF2D8D10418", 19, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-02985-7501", "0125-R1", "1926 CROTONA PARKWAY", "EAST TREMONT", "RR-CONDOMINIUM", "98", "2007", "98608", "1943564", "19.71", "874604", "8.87", "1068960", "7652000", "77.60", "2-02816-0066", "1305 MORRIS AVENUE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "73", "2003", "38212", "755069", "19.76", "339705", "8.89", "415364", "2973000", "77.80", "1.50", "2-03124-0001", "883 EAST 180 STREET", "EAST TREMONT", "D1-ELEVATOR", "196", "1979", "181093", "3145885", "17.37", "1437121", "7.94", "1708764", "9702000", "53.57", "0.28", "2-03125-0001", "901 EAST 180 STREET", "EAST TREMONT", "D7-ELEVATOR", "76", "1930", "73,824", "1,455,324", "19.71", "708,848", "9.60", "746,476", "5,344,000", "72.39", "0.28" ]
+, [ 20, "E1A53D18-9499-4DE2-B037-3F9109086D6F", 20, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03083-7501", "0090-R1", "2135 CROTONA AVENUE", "EAST TREMONT", "R2-CONDOMINIUM", "16", "2006", "14200", "268948", "18.94", "127800", "9.00", "141148", "1012999", "71.34", "2-04965-0018", "3910 HARPER AVENUE", "BAYCHESTER", "C9-WALK-UP", "46", "1975", "27733", "609546", "21.98", "271779", "9.80", "337767", "1320000", "47.60", "3.96", "2-04107-0017", "1651 WILLIAMSBRIDGE ROAD", "MORRIS PARK/VAN NEST", "C9-WALK-UP", "24", "1963", "15200", "268220", "17.65", "124837", "8.21", "143383", "1034000", "68.03", "1.94", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 21, "1C7B04CF-C3FE-4863-8D38-5C6D2187BB75", 21, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03103-7501", "0110-R1", "2324 BEAUMONT AVENUE", "BELMONT", "R2-CONDOMINIUM", "40", "2007", "48750", "812175", "16.66", "431925", "8.86", "380250", "2752000", "56.45", "2-02282-0045", "211 BROWN PLACE", "MOTT HAVEN/PORT MORRIS", "C9-WALK-UP", "20", "1974", "21318", "369578", "17.34", "203253", "9.53", "166325", "1074000", "50.38", "3.65", "2-03103-0003", "2302 BEAUMONT AVENUE", "BELMONT", "C1-WALK-UP", "13", "1931", "12325", "196981", "15.98", "100788", "8.18", "96193", "656000", "53.23", "0.00", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 22, "29AFC00F-00D6-413B-A004-B12213FCFF46", 22, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03125-7501", "0104-R1", "2155 DALY AVENUE", "EAST TREMONT", "R4-CONDOMINIUM", "12", "2007", "14664", "254714", "17.37", "116432", "7.94", "138282", "998001", "68.06", "2-03125-0001", "901 EAST 180 STREET", "EAST TREMONT", "D7-ELEVATOR", "76", "1930", "73824", "1455324", "19.71", "708848", "9.60", "746476", "5344000", "72.39", "0.06", "2-03124-0001", "883 EAST 180 STREET", "EAST TREMONT", "D1-ELEVATOR", "196", "1979", "181093", "3145885", "17.37", "1437121", "7.94", "1708764", "9702000", "53.57", "0.08", "2-03128-0013", "934 EAST 181 STREET", "EAST TREMONT", "D1-ELEVATOR", "40", "1931", "33,996", "584,493", "17.19", "315,271", "9.27", "269,222", "1,725,000", "50.74", "0.09" ]
+, [ 23, "1181A8DB-FCCA-4E1F-B135-94D71CB33995", 23, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03206-7501", "0071-R1", "57 WEST BURNSIDE AVENUE", "KINGSBRIDGE HTS/UNIV HTS", "RR-CONDOMINIUM", "69", "2008", "53311", "556034", "10.43", "351319", "6.59", "204715", "1272000", "23.86", "2-03194-0031", "2151 DAVIDSON AVENUE", "KINGSBRIDGE HTS/UNIV HTS", "D7-ELEVATOR", "48", "1926", "34950", "375850", "10.75", "220846", "6.32", "155004", "916000", "26.21", "0.11", "2-02854-0056", "2025 WALTON AVENUE", "MOUNT HOPE/MOUNT EDEN", "D1-ELEVATOR", "65", "1951", "57000", "599940", "10.53", "390965", "6.86", "208975", "1298000", "22.77", "0.15", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 24, "3CF22E18-5807-4D63-ABC4-396DFDBDF504", 24, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03249-7501", "0100-R1", "2792 SEDGWICK AVENUE", "KINGSBRIDGE/JEROME PARK", "R2-CONDOMINIUM", "40", "2006", "48023", "701136", "14.60", "361133", "7.52", "340003", "2349991", "48.93", "2-03321-0067", "3043 VILLA AVENUE", "BEDFORD PARK/NORWOOD", "C7-WALK-UP", "48", "1925", "46585", "755143", "16.21", "362431", "7.78", "392712", "2674000", "57.40", "0.71", "2-02720-0063", "784 FOX STREET", "MORRISANIA/LONGWOOD", "D1-ELEVATOR", "40", "1924", "37000", "505519", "13.66", "303856", "8.21", "201663", "1199000", "32.41", "3.83", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 25, "9A5F9F64-159B-4187-8EAC-90E6FA89BC52", 25, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03256-7501", "0117-R1", "189 WEST KINGSBRIDGE ROAD", "KINGSBRIDGE/JEROME PARK", "R2-CONDOMINIUM", "12", "2008", "19603", "266601", "13.60", "118051", "6.02", "148550", "984000", "50.20", "2-03262-0106", "3479 FT INDEPENDENCE STRE", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "27", "2006", "26632", "382436", "14.36", "256732", "9.64", "125704", "496000", "18.62", "0.72", "2-03262-0103", "FT INDEPENDENCE STREET", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "27", "2006", "26632", "341955", "12.84", "197376", "7.41", "144579", "471000", "17.69", "0.72", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 26, "E8B19362-556E-485A-AF9B-3C1B2B6E2F4E", 26, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03261-7501", "0081-R1", "3097 HEATH AVENUE", "KINGSBRIDGE/JEROME PARK", "R2-CONDOMINIUM", "16", "2006", "21861", "340813", "15.59", "184107", "8.42", "156706", "1074000", "49.13", "2-03348-0081", "315 EAST 209 STREET", "BEDFORD PARK/NORWOOD", "C1-WALK-UP", "23", "1926", "18450", "236345", "12.81", "127674", "6.92", "108671", "524000", "28.40", "1.37", "2-04847-0039", "800 EAST 223 STREET", "WILLIAMSBRIDGE", "C1-WALK-UP", "23", "1927", "18850", "293830", "15.59", "170170", "9.03", "123660", "847000", "44.93", "2.27", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 27, "77750C3F-9FF0-4B75-8C5F-4DAFFC85E437", 27, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03311-7501", "0034-R1", "3130 GRAND CONCOURSE", "BEDFORD PARK/NORWOOD", "R9-CONDOMINIUM", "110", "1968", "79920", "925474", "11.58", "403596", "5.05", "521878", "2981000", "37.30", "2-03308-0051", "253 EAST 202 STREET", "BEDFORD PARK/NORWOOD", "D1-ELEVATOR", "101", "1965", "101050", "1169817", "11.58", "510089", "5.05", "659728", "3223000", "31.90", "0.12", "2-03307-0072", "3010 GRAND CONCOURSE", "BEDFORD PARK/NORWOOD", "D7-ELEVATOR", "96", "1963", "106146", "1219700", "11.49", "565101", "5.32", "654599", "4201000", "39.58", "0.15", "2-03311-0072", "3175 GRAND CONCOURSE", "BEDFORD PARK/NORWOOD", "D1-ELEVATOR", "68", "1930", "64,876", "775,268", "11.95", "419,099", "6.46", "356,169", "1,529,000", "23.57", "0.15" ]
+, [ 28, "47057082-5737-4345-AB70-22C4B78F6515", 28, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03318-7501", "0048-R1", "2805 CRESTON AVENUE", "BEDFORD PARK/NORWOOD", "R2-CONDOMINIUM", "18", "1993", "16638", "199323", "11.98", "97000", "5.83", "102323", "651996", "39.19", "2-03283-0025", "2732 MARION AVENUE", "BEDFORD PARK/NORWOOD", "D1-ELEVATOR", "33", "2007", "33947", "406602", "11.98", "198000", "5.83", "208602", "937000", "27.60", "0.39", "2-03301-0050", "2840 VALENTINE AVENUE", "BEDFORD PARK/NORWOOD", "C7-WALK-UP", "16", "1913", "12393", "156400", "12.62", "86007", "6.94", "70393", "471000", "38.01", "0.20", "2-03297-0049", "2925 BRIGGS AVENUE", "BEDFORD PARK/NORWOOD", "D1-ELEVATOR", "35", "1959", "32,480", "361,158", "11.12", "172,847", "5.32", "188,311", "988,000", "30.42", "0.34" ]
+, [ 29, "64625D22-1E18-4E20-A5B6-E9A583AA833A", 29, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R1", "228 NEPTUNE COURT", "SOUNDVIEW", "R2-CONDOMINIUM", "40", "1989", "47376", "620152", "13.09", "282835", "5.97", "337317", "2244000", "47.37", "2-03807-0048", "2165 CHATTERTON AVENUE", "CASTLE HILL/UNIONPORT", "D7-ELEVATOR", "81", "1929", "88184", "1183429", "13.42", "615524", "6.98", "567905", "3763000", "42.67", "1.46", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03681-0001", "2001 STORY AVENUE", "CASTLE HILL/UNIONPORT", "D3-ELEVATOR", "355", "1973", "421,833", "5,268,694", "12.49", "2,897,993", "6.87", "2,370,701", "15,895,000", "37.68", "1.24" ]
+, [ 30, "242F403F-29F4-4C9C-A8E0-21E0458E6538", 30, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R2", "101 FLEET COURT", "SOUNDVIEW", "R2-CONDOMINIUM", "10", "1989", "11912", "146279", "12.28", "78024", "6.55", "68255", "433000", "36.35", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03793-0039", "1990 ELLIS AVENUE", "CASTLE HILL/UNIONPORT", "D7-ELEVATOR", "85", "1929", "76000", "916326", "12.06", "500946", "6.59", "415380", "2387000", "31.41", "1.67", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 31, "A4A13627-2969-4B20-B332-74AE94E892E1", 31, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R3", "124 NEPTUNE LANE", "SOUNDVIEW", "R2-CONDOMINIUM", "14", "1989", "15972", "196136", "12.28", "104617", "6.55", "91519", "552000", "34.56", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03793-0039", "1990 ELLIS AVENUE", "CASTLE HILL/UNIONPORT", "D7-ELEVATOR", "85", "1929", "76000", "916326", "12.06", "500946", "6.59", "415380", "2387000", "31.41", "1.67", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 32, "478EACBD-F7EA-4C4E-91DA-CC2D8D1AE6F5", 32, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R4", "232 FLEET COURT", "SOUNDVIEW", "R2-CONDOMINIUM", "18", "1989", "22199", "290585", "13.09", "132528", "5.97", "158057", "1052003", "47.39", "2-03715-0030", "1056 BOYNTON AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "79", "1939", "70500", "998079", "14.16", "401055", "5.69", "597024", "4141000", "58.74", "1.73", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03716-0036", "1065 MANOR AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "44", "1930", "48,000", "544,690", "11.35", "275,408", "5.74", "269,282", "1,551,000", "32.31", "1.70" ]
+, [ 33, "8769FD8B-8A9E-4BF9-A497-AAB199234E47", 33, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R5", "201 SUNSET BOULEVARD", "SOUNDVIEW", "R2-CONDOMINIUM", "18", "1989", "20304", "265779", "13.09", "121215", "5.97", "144564", "962000", "47.38", "2-03715-0030", "1056 BOYNTON AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "79", "1939", "70500", "998079", "14.16", "401055", "5.69", "597024", "4141000", "58.74", "1.73", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03716-0036", "1065 MANOR AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "44", "1930", "48,000", "544,690", "11.35", "275,408", "5.74", "269,282", "1,551,000", "32.31", "1.70" ]
+, [ 34, "82EACBC3-354C-4B06-93E0-CD0383E124AE", 34, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03432-7501", "0033-R6", "301 ADMIRAL LANE", "SOUNDVIEW", "R2-CONDOMINIUM", "28", "1989", "34516", "451814", "13.09", "206061", "5.97", "245753", "1635001", "47.37", "2-03715-0030", "1056 BOYNTON AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "79", "1939", "70500", "998079", "14.16", "401055", "5.69", "597024", "4141000", "58.74", "1.73", "2-03801-0001", "2010 POWELL AVENUE", "CASTLE HILL/UNIONPORT", "D1-ELEVATOR", "91", "1929", "74890", "980263", "13.09", "447288", "5.97", "532975", "2805000", "37.45", "1.58", "2-03716-0036", "1065 MANOR AVENUE", "SOUNDVIEW", "D7-ELEVATOR", "44", "1930", "48,000", "544,690", "11.35", "275,408", "5.74", "269,282", "1,551,000", "32.31", "1.70" ]
+, [ 35, "D98C2012-00D3-4943-B651-4D7B0BB0B560", 35, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03929-7501", "0023-R1", "99 METROPOLITAN OVAL", "PARKCHESTER", "R4-CONDOMINIUM", "128", "1933", "109764", "1312777", "11.96", "707978", "6.45", "604799", "3854008", "35.11", "2-03936-0001", "1366 WHITE PLAINS ROAD", "PARKCHESTER", "D1-ELEVATOR", "61", "1929", "56178", "659820", "11.75", "286553", "5.10", "373267", "1661000", "29.57", "0.08", "2-03767-0082", "1221 WHITE PLAINS ROAD", "SOUNDVIEW", "D7-ELEVATOR", "109", "1928", "97000", "1160120", "11.96", "626620", "6.46", "533500", "3014000", "31.07", "0.19", "2-03793-0039", "1990 ELLIS AVENUE", "CASTLE HILL/UNIONPORT", "D7-ELEVATOR", "85", "1929", "76,000", "916,326", "12.06", "500,946", "6.59", "415,380", "2,387,000", "31.41", "0.23" ]
+, [ 36, "5B97F733-659B-476E-97B8-6ED9BB72D1C3", 36, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03929-7501", "0023-R2", "1469 WEST AVENUE", "BRONX-UNKNOWN", "R4-CONDOMINIUM", "2121", "1933", "1867373", "20839883", "11.16", "12081903", "6.47", "8757980", "56470051", "30.24", "2-03936-0001", "1366 WHITE PLAINS ROAD", "PARKCHESTER", "D1-ELEVATOR", "61", "1929", "56178", "659820", "11.75", "286553", "5.10", "373267", "1661000", "29.57", "0.17", "2-03925-0018", "1565 THIERIOT AVENUE", "PARKCHESTER", "D1-ELEVATOR", "120", "1930", "130500", "1455886", "11.16", "596640", "4.57", "859246", "4004000", "30.68", "0.27", "2-03925-0025", "1564 TAYLOR AVENUE", "PARKCHESTER", "D1-ELEVATOR", "54", "1930", "54,000", "576,807", "10.68", "373,925", "6.92", "202,882", "1,258,000", "23.30", "0.27" ]
+, [ 37, "7B891FEE-F5AD-42FE-8E17-33448E5124F3", 37, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03929-7501", "0023-R3", "1925 MC GRAW AVENUE", "BRONX-UNKNOWN", "R4-CONDOMINIUM", "2659", "1933", "2723821", "33039949", "12.13", "18521983", "6.80", "14517966", "92312132", "33.89", "2-03936-0001", "1366 WHITE PLAINS ROAD", "PARKCHESTER", "D1-ELEVATOR", "61", "1929", "56178", "659820", "11.75", "286553", "5.10", "373267", "1661000", "29.57", "0.22", "2-03947-0040", "2145 STARLING AVENUE", "PARKCHESTER", "D6-ELEVATOR", "103", "1928", "93000", "1128296", "12.13", "632698", "6.80", "495598", "3003000", "32.29", "0.24", "2-03947-0001", "2141 STARLING AVENUE", "PARKCHESTER", "D6-ELEVATOR", "102", "1928", "93,000", "1,148,540", "12.35", "632,698", "6.80", "515,842", "3,268,000", "35.14", "0.24" ]
+, [ 38, "EB521D10-56E3-4B68-88F9-28B49535B2F4", 38, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-03929-7501", "0023-R4", "14 METROPOLITAN OVAL", "PARKCHESTER", "R4-CONDOMINIUM", "3378", "1933", "3364977", "37553143", "11.16", "21771401", "6.47", "15781742", "101759123", "30.24", "2-03998-0010", "1776 CASTLE HILL AVENUE", "WESTCHESTER", "D1-ELEVATOR", "85", "1936", "78000", "914949", "11.73", "514952", "6.60", "399997", "2558000", "32.79", "0.34", "2-03925-0018", "1565 THIERIOT AVENUE", "PARKCHESTER", "D1-ELEVATOR", "120", "1930", "130500", "1455886", "11.16", "596640", "4.57", "859246", "4004000", "30.68", "0.38", "2-03925-0025", "1564 TAYLOR AVENUE", "PARKCHESTER", "D1-ELEVATOR", "54", "1930", "54,000", "576,807", "10.68", "373,925", "6.92", "202,882", "1,258,000", "23.30", "0.38" ]
+, [ 39, "0CC66E32-5C78-4F72-A610-07A4CE1801C2", 39, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04174-7501", "0066-R1", "1600 PARKVIEW AVENUE", "SCHUYLERVILLE/PELHAM BAY", "R4-CONDOMINIUM", "21", "2003", "16688", "220615", "13.22", "95789", "5.74", "124826", "829001", "49.68", "2-04172-0007", "3070 ROBERTS AVENUE", "SCHUYLERVILLE/PELHAM BAY", "D1-ELEVATOR", "43", "1929", "46494", "453917", "9.76", "235580", "5.07", "218337", "1221000", "26.26", "0.09", "2-04178-0005", "3565 BRUCKNER BOULEVARD", "SCHUYLERVILLE/PELHAM BAY", "D1-ELEVATOR", "49", "1931", "38250", "528092", "13.81", "253759", "6.63", "274333", "1809000", "47.29", "0.12", "2-04178-0010", "3555 BRUCKNER BOULEVARD", "SCHUYLERVILLE/PELHAM BAY", "D3-ELEVATOR", "142", "1960", "112,000", "1,480,347", "13.22", "642,987", "5.74", "837,360", "4,411,000", "39.38", "0.12" ]
+, [ 40, "CFC5B8DC-55AF-422F-8A46-5756C8F9A17C", 40, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04284-7501", "0070-R1", "2040 WHITE PLAINS ROAD", "MORRIS PARK/VAN NEST", "R9-CONDOMINIUM", "100", "2005", "108100", "865881", "8.01", "372945", "3.45", "492936", "2908000", "26.90", "2-04325-0001", "2155 PAULDING AVENUE", "PELHAM PARKWAY SOUTH", "D1-ELEVATOR", "63", "1954", "81710", "672473", "8.23", "389757", "4.77", "282716", "1518000", "18.58", "0.42", "2-04337-0064", "620 REISS PLACE", "BRONXDALE", "D1-ELEVATOR", "74", "1959", "86527", "727680", "8.41", "397257", "4.59", "330423", "1650000", "19.07", "0.46", "2-04338-0012", "660 THWAITES PLACE", "BRONXDALE", "D1-ELEVATOR", "108", "1954", "137,350", "1,123,523", "8.18", "741,690", "5.40", "381,833", "2,249,000", "16.37", "0.48" ]
+, [ 41, "C64585D9-F5F9-4E35-BD64-895AEE8FF0EA", 41, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04307-7501", "0027-R1", "1144 LYDIG AVENUE", "PELHAM PARKWAY SOUTH", "R4-CONDOMINIUM", "48", "1964", "56000", "636720", "11.37", "370720", "6.62", "266000", "1710999", "30.55", "2-04274-0064", "1960 WILLIAMSBRIDGE ROAD", "MORRIS PARK/VAN NEST", "D7-ELEVATOR", "62", "1961", "71500", "879792", "12.30", "461008", "6.45", "418784", "2655000", "37.13", "0.13", "2-04365-0064", "1135 PELHAM PARKWAY NORTH", "PELHAM PARKWAY NORTH", "D1-ELEVATOR", "53", "1955", "57000", "587844", "10.31", "320772", "5.63", "267072", "1662000", "29.16", "0.29", "2-04323-0035", "2196 MATTHEWS AVENUE", "PELHAM PARKWAY SOUTH", "D1-ELEVATOR", "42", "1940", "34,518", "426,526", "12.36", "261,394", "7.57", "165,132", "1,046,000", "30.30", "0.41" ]
+, [ 42, "EAE31EC8-6F0C-432D-93D8-110A3DAAE518", 42, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04340-7501", "0014-R1", "610 WARING AVENUE", "BRONXDALE", "R4-CONDOMINIUM", "122", "1960", "116200", "930762", "8.01", "400890", "3.45", "529872", "3126006", "26.90", "2-04338-0012", "660 THWAITES PLACE", "BRONXDALE", "D1-ELEVATOR", "108", "1954", "137350", "1123523", "8.18", "741690", "5.40", "381833", "2249000", "16.37", "0.14", "2-04340-0025", "2320 BRONX PARK EAST", "BRONXDALE", "D1-ELEVATOR", "66", "1928", "77418", "664499", "8.58", "398818", "5.15", "265681", "1518000", "19.61", "0.00", "2-04337-0064", "620 REISS PLACE", "BRONXDALE", "D1-ELEVATOR", "74", "1959", "86,527", "727,680", "8.41", "397,257", "4.59", "330,423", "1,650,000", "19.07", "0.16" ]
+, [ 43, "E50700EE-196D-4583-BEDB-93CA1E662EDC", 43, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04340-7502", "0017-R1", "2385 BARKER AVENUE", "BRONXDALE", "R4-CONDOMINIUM", "122", "1960", "127290", "1019593", "8.01", "439151", "3.45", "580442", "3424007", "26.90", "2-04338-0012", "660 THWAITES PLACE", "BRONXDALE", "D1-ELEVATOR", "108", "1954", "137350", "1123523", "8.18", "741690", "5.40", "381833", "2249000", "16.37", "0.14", "2-04340-0025", "2320 BRONX PARK EAST", "BRONXDALE", "D1-ELEVATOR", "66", "1928", "77418", "664499", "8.58", "398818", "5.15", "265681", "1518000", "19.61", "0.00", "2-04337-0064", "620 REISS PLACE", "BRONXDALE", "D1-ELEVATOR", "74", "1959", "86,527", "727,680", "8.41", "397,257", "4.59", "330,423", "1,650,000", "19.07", "0.16" ]
+, [ 44, "3F131AF2-B765-43F3-915B-BAEFB588D3AF", 44, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04545-7501", "0091-R1", "3035 WHITE PLAINS ROAD", "BRONXDALE", "R9-CONDOMINIUM", "74", "2007", "85582", "1100585", "12.86", "676954", "7.91", "423631", "2827000", "33.03", "2-04594-0040", "3225 OLINVILLE AVENUE", "BRONXDALE", "D1-ELEVATOR", "55", "1931", "50748", "624611", "12.31", "368695", "7.27", "255916", "1622000", "31.96", "0.14", "2-04594-0048", "665 BURKE AVENUE", "BRONXDALE", "D7-ELEVATOR", "63", "1928", "53016", "662856", "12.50", "275088", "5.19", "387768", "1694000", "31.95", "0.14", "2-04570-0032", "3039 WALLACE AVENUE", "BRONXDALE", "D1-ELEVATOR", "60", "1929", "52,980", "772,759", "14.59", "421,260", "7.95", "351,499", "1,903,000", "35.92", "0.16" ]
+, [ 45, "8E87A4B8-5B00-49E6-9234-0D60F50C7E04", 45, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04664-7501", "0075-R1", "720 EAST 217 STREET", "WILLIAMSBRIDGE", "R2-CONDOMINIUM", "24", "2006", "19225", "275879", "14.35", "151733", "7.89", "124146", "861997", "44.84", "2-03973-0036", "1405 ROWLAND STREET", "WESTCHESTER", "C1-WALK-UP", "27", "1927", "22560", "234947", "10.41", "111201", "4.93", "123746", "597000", "26.46", "3.12", "2-04847-0039", "800 EAST 223 STREET", "WILLIAMSBRIDGE", "C1-WALK-UP", "23", "1927", "18850", "293830", "15.59", "170170", "9.03", "123660", "847000", "44.93", "0.35", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 46, "62018B53-DBDC-4F74-A23E-2D9F43DF5F28", 46, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-04668-7501", "0076-R1", "724 EAST 221 STREET", "WILLIAMSBRIDGE", "R2-CONDOMINIUM", "24", "2005", "29320", "404616", "13.80", "226544", "7.73", "178072", "1175000", "40.08", "2-02722-0048", "900 FOX STREET", "MORRISANIA/LONGWOOD", "D5-ELEVATOR", "30", "1922", "31110", "445519", "14.32", "290087", "9.32", "155432", "1077000", "34.62", "4.79", "2-05047-0006", "4360 FURMAN AVENUE", "WAKEFIELD", "C1-WALK-UP", "27", "1931", "26280", "303058", "11.53", "169686", "6.46", "133372", "852000", "32.42", "0.99", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 47, "5E6DBCCB-A707-41C0-89EE-6F0EA410322F", 47, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05529-7501", "0083-R1", "24 PENNYFIELD AVENUE", "THROGS NECK", "R2-CONDOMINIUM", "15", "2000", "12624", "187214", "14.83", "100361", "7.95", "86853", "598999", "47.45", "2-02282-0045", "211 BROWN PLACE", "MOTT HAVEN/PORT MORRIS", "C9-WALK-UP", "20", "1974", "21318", "369578", "17.34", "203253", "9.53", "166325", "1074000", "50.38", "6.28", "2-04199-0037", "3100 ARNOW PLACE", "SCHUYLERVILLE/PELHAM BAY", "C9-WALK-UP", "15", "1964", "11145", "125478", "11.26", "40659", "3.65", "84819", "393000", "35.26", "2.94", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 48, "D3D7D38D-7A9A-4440-8116-286587093B61", 48, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05529-7502", "0082-R1", "1 PENNYFIELD AVENUE", "THROGS NECK", "R2-CONDOMINIUM", "45", "1998", "63738", "890420", "13.97", "489508", "7.68", "400912", "2638992", "41.40", "2-02282-0045", "211 BROWN PLACE", "MOTT HAVEN/PORT MORRIS", "C9-WALK-UP", "20", "1974", "21318", "369578", "17.34", "203253", "9.53", "166325", "1074000", "50.38", "6.28", "2-02513-0044", "1132 NELSON AVENUE", "HIGHBRIDGE/MORRIS HEIGHTS", "C9-WALK-UP", "72", "1983", "67884", "948132", "13.97", "521510", "7.68", "426622", "2808000", "41.36", "6.68", "2-04199-0037", "3100 ARNOW PLACE", "SCHUYLERVILLE/PELHAM BAY", "C9-WALK-UP", "15", "1964", "11,145", "125,478", "11.26", "40,659", "3.65", "84,819", "393,000", "35.26", "2.94" ]
+, [ 49, "E0AC74B7-0A32-4C17-8E80-9909388B1C77", 49, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05606-7502", "0056-R1", "195 BALCOM AVENUE", "THROGS NECK", "R2-CONDOMINIUM", "20", "1997", "19080", "318636", "16.70", "127454", "6.68", "191182", "1379000", "72.27", "2-05606-0001", "2631 SCHURZ AVENUE", "THROGS NECK", "C9-WALK-UP", "79", "1978", "46832", "895896", "19.13", "421020", "8.99", "474876", "3407000", "72.75", "0.10", "2-05430-0052", "835 THROGS NECK EXPWY SR", "THROGS NECK", "C1-WALK-UP", "14", "1989", "8792", "125460", "14.27", "65270", "7.42", "60190", "263000", "29.91", "1.27", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 50, "8E966DB4-EE6A-40A1-9E10-2F2C1E378D75", 50, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05643-7501", "0060-R1", "190 FORDHAM STREET", "CITY ISLAND", "R2-CONDOMINIUM", "16", "1897", "16605", "218190", "13.14", "116235", "7.00", "101955", "678001", "40.83", "2-02513-0044", "1132 NELSON AVENUE", "HIGHBRIDGE/MORRIS HEIGHTS", "C9-WALK-UP", "72", "1983", "67884", "948132", "13.97", "521510", "7.68", "426622", "2808000", "41.36", "7.48", "2-04199-0037", "3100 ARNOW PLACE", "SCHUYLERVILLE/PELHAM BAY", "C9-WALK-UP", "15", "1964", "11145", "125478", "11.26", "40659", "3.65", "84819", "393000", "35.26", "2.44", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 51, "D8349E54-536D-4042-B2BD-071F344508C9", 51, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05723-7501", "0084-R1", "2287 JOHNSON AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "73", "1983", "99590", "1272760", "12.78", "508905", "5.11", "763855", "4487975", "45.06", "2-05746-0567", "2675 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "78", "1951", "92782", "1159771", "12.50", "480671", "5.18", "679100", "3619000", "39.01", "0.20", "2-05787-0137", "3220 NETHERLAND AVENUE", "RIVERDALE", "D1-ELEVATOR", "85", "1954", "100498", "1312394", "13.06", "505762", "5.03", "806632", "3795000", "37.76", "0.58", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 52, "021467C9-3B8A-440D-A604-8BE128343514", 52, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05725-7501", "0011-R1", "2600 HENRY HUDSON PARKWAY", "RIVERDALE", "R4-CONDOMINIUM", "24", "1941", "35000", "437500", "12.50", "181300", "5.18", "256200", "1682998", "48.09", "2-05732-0924", "2700 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "78", "1955", "108955", "1229714", "11.29", "539876", "4.96", "689838", "3432000", "31.50", "0.09", "2-05746-0567", "2675 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "78", "1951", "92782", "1159771", "12.50", "480671", "5.18", "679100", "3619000", "39.01", "0.11", "2-05789-0024", "3240 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "108", "1938", "163,197", "2,199,230", "13.48", "1,080,504", "6.62", "1,118,726", "7,409,000", "45.40", "0.37" ]
+, [ 53, "C332FEF8-B2BE-4984-A07E-DB71D14182D9", 53, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05745-7501", "0028-R1", "2521 PALISADE AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "36", "1986", "62350", "779375", "12.50", "322973", "5.18", "456402", "2935290", "47.08", "2-05746-0567", "2675 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "78", "1951", "92782", "1159771", "12.50", "480671", "5.18", "679100", "3619000", "39.01", "0.20", "2-05732-0924", "2700 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "78", "1955", "108955", "1229714", "11.29", "539876", "4.96", "689838", "3432000", "31.50", "0.31", "2-05789-0024", "3240 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "108", "1938", "163,197", "2,199,230", "13.48", "1,080,504", "6.62", "1,118,726", "7,409,000", "45.40", "0.49" ]
+, [ 54, "589A4F20-8E7C-4AAD-9D94-7FA1BD9709F6", 54, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05764-7501", "0129-R1", "460 WEST 236 STREET", "KINGSBRIDGE/JEROME PARK", "R4-CONDOMINIUM", "53", "2005", "56512", "1186752", "21.00", "534604", "9.46", "652148", "4792003", "84.80", "2-03121-0038", "906 EAST 178 STREET", "EAST TREMONT", "D1-ELEVATOR", "35", "2008", "36596", "776066", "21.21", "430956", "11.78", "345110", "2280000", "62.30", "3.18", "2-02816-0066", "1305 MORRIS AVENUE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "73", "2003", "38212", "755069", "19.76", "339705", "8.89", "415364", "2973000", "77.80", "3.35", "2-03091-0005", "2490 BELMONT AVENUE", "BELMONT", "C1-WALK-UP", "14", "2006", "13,295", "282,652", "21.26", "130,025", "9.78", "152,627", "540,000", "40.62", "2.28" ]
+, [ 55, "478C15DD-5A8F-4850-9364-1241F063BDBB", 55, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05771-7501", "0041-R1", "3636 FIELDSTON ROAD", "RIVERDALE", "R9-CONDOMINIUM", "106", "1962", "132000", "1792560", "13.58", "832920", "6.31", "959640", "6349000", "48.10", "2-05791-0388", "511 WEST 235 STREET", "RIVERDALE", "D7-ELEVATOR", "55", "1936", "64000", "890050", "13.91", "348839", "5.45", "541211", "3565000", "55.70", "0.09", "2-05796-0129", "3660 OXFORD AVENUE", "RIVERDALE", "D3-ELEVATOR", "77", "1967", "106934", "1415876", "13.24", "765281", "7.16", "650595", "4322000", "40.42", "0.12", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 56, "2B003B78-409D-48D8-8877-A91344382CBB", 56, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05777-7501", "0079-R1", "3816 WALDO AVENUE", "KINGSBRIDGE/JEROME PARK", "R4-CONDOMINIUM", "25", "2004", "55005", "856978", "15.58", "384485", "6.99", "472493", "3235992", "58.83", "2-05779-0810", "3804 GREYSTONE AVENUE", "RIVERDALE", "D7-ELEVATOR", "45", "1927", "42552", "692789", "16.28", "224771", "5.28", "468018", "3185000", "74.85", "0.07", "2-03263-0104", "3855 ORLOFF AVENUE", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "52", "1964", "45375", "674935", "14.87", "394357", "8.69", "280578", "1934000", "42.62", "0.43", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 57, "E5CFAAA4-5C6D-4666-8D80-DE86F439BBE3", 57, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05780-7501", "0040-R1", "3900 GREYSTONE AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "78", "1928", "95061", "1258608", "13.24", "680637", "7.16", "577971", "3531005", "37.14", "2-05796-0129", "3660 OXFORD AVENUE", "RIVERDALE", "D3-ELEVATOR", "77", "1967", "106934", "1415876", "13.24", "765281", "7.16", "650595", "4322000", "40.42", "0.24", "2-05798-0077", "545 WEST 236 STREET", "RIVERDALE", "D7-ELEVATOR", "64", "1939", "90025", "1137489", "12.64", "554033", "6.15", "583456", "3531000", "39.22", "0.28", "2-05773-0290", "275 WEST 238 STREET", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "72", "1937", "71,091", "960,856", "13.52", "532,931", "7.50", "427,925", "2,833,000", "39.85", "0.28" ]
+, [ 58, "289237DE-6422-415C-9909-C01EA4DAD44C", 58, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05787-7501", "0030-R1", "3240 NETHERLAND AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "15", "1988", "10108", "202160", "20.00", "89456", "8.85", "112704", "714999", "70.74", "2-05789-0024", "3240 HENRY HUDSON PARKWAY", "RIVERDALE", "D1-ELEVATOR", "108", "1938", "163197", "2199230", "13.48", "1080504", "6.62", "1118726", "7409000", "45.40", "0.11", "2-05798-0101", "3615 OXFORD AVENUE", "RIVERDALE", "C1-WALK-UP", "15", "1980", "7550", "174490", "23.11", "78802", "10.44", "95688", "643000", "85.17", "0.20", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 59, "0590A225-0643-458B-81F5-56D71DF245D6", 59, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05788-7501", "0106-R1", "3220 ARLINGTON AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "26", "2004", "105300", "1616355", "15.35", "646542", "6.14", "969813", "6153002", "58.43", "2-05903-0283", "3611 HENRY HUDSON PARKWAY", "RIVERDALE", "D3-ELEVATOR", "123", "1951", "134000", "2080061", "15.52", "1045025", "7.80", "1035036", "7091000", "52.92", "0.20", "2-05920-0687", "699 WEST 239 STREET", "RIVERDALE", "D1-ELEVATOR", "132", "1962", "160000", "2431079", "15.19", "1031689", "6.45", "1399390", "8778000", "54.86", "0.43", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 60, "51A884AA-48A8-4DB8-98DC-5B5E2B741513", 60, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05789-7501", "0032-R1", "3220 FAIRFIELD AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "32", "1989", "30743", "454689", "14.79", "170931", "5.56", "283758", "1660988", "54.03", "2-05920-0687", "699 WEST 239 STREET", "RIVERDALE", "D1-ELEVATOR", "132", "1962", "160000", "2431079", "15.19", "1031689", "6.45", "1399390", "8778000", "54.86", "0.40", "2-05920-0670", "3801 HUDSON MANOR TERRACE", "RIVERDALE", "D1-ELEVATOR", "135", "1960", "152400", "2299515", "15.09", "810013", "5.32", "1489502", "7095000", "46.56", "0.40", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 61, "26AD1E8A-0409-4012-95D4-BC326C897E88", 61, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05789-7502", "0077-R1", "3205 ARLINGTON AVENUE", "RIVERDALE", "R2-CONDOMINIUM", "9", "2006", "9973", "205344", "20.59", "109603", "10.99", "95741", "689000", "69.09", "2-05798-0101", "3615 OXFORD AVENUE", "RIVERDALE", "C1-WALK-UP", "15", "1980", "7550", "174490", "23.11", "78802", "10.44", "95688", "643000", "85.17", "0.24", "2-05786-0240", "3205 OXFORD AVENUE", "RIVERDALE", "C1-WALK-UP", "12", "1985", "6260", "113056", "18.06", "54212", "8.66", "58844", "424000", "67.73", "0.16", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 62, "79A1337D-3238-435D-B472-087AB59CA54A", 62, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05791-7501", "0095-R1", "3536 CAMBRIDGE AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "31", "2005", "52918", "1124508", "21.25", "500604", "9.46", "623904", "4274000", "80.77", "2-05779-0810", "3804 GREYSTONE AVENUE", "RIVERDALE", "D7-ELEVATOR", "45", "1927", "42552", "692789", "16.28", "224771", "5.28", "468018", "3185000", "74.85", "0.21", "2-05798-0101", "3615 OXFORD AVENUE", "RIVERDALE", "C1-WALK-UP", "15", "1980", "7550", "174490", "23.11", "78802", "10.44", "95688", "643000", "85.17", "0.14", "2-03121-0038", "906 EAST 178 STREET", "EAST TREMONT", "D1-ELEVATOR", "35", "2008", "36,596", "776,066", "21.21", "430,956", "11.78", "345,110", "2,280,000", "62.30", "3.22" ]
+, [ 63, "26E61048-0663-4D42-9F0F-EE41CC55D5C4", 63, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05798-7501", "0062-R1", "3614 JOHNSON AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "15", "2002", "14969", "288153", "19.25", "133224", "8.90", "154929", "1060999", "70.88", "2-03121-0038", "906 EAST 178 STREET", "EAST TREMONT", "D1-ELEVATOR", "35", "2008", "36596", "776066", "21.21", "430956", "11.78", "345110", "2280000", "62.30", "3.35", "2-05798-0101", "3615 OXFORD AVENUE", "RIVERDALE", "C1-WALK-UP", "15", "1980", "7550", "174490", "23.11", "78802", "10.44", "95688", "643000", "85.17", "0.00", "2-05779-0810", "3804 GREYSTONE AVENUE", "RIVERDALE", "D7-ELEVATOR", "45", "1927", "42,552", "692,789", "16.28", "224,771", "5.28", "468,018", "3,185,000", "74.85", "0.24" ]
+, [ 64, "3330F1B7-9515-4C95-A47B-0510DF02590E", 64, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05798-7502", "0067-R1", "3625 OXFORD AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "23", "2005", "40468", "610662", "15.09", "302296", "7.47", "308366", "2117000", "52.31", "2-05907-0348", "3725 BLACKSTONE AVENUE", "RIVERDALE", "D1-ELEVATOR", "42", "1968", "41803", "630807", "15.09", "222392", "5.32", "408415", "2453000", "58.68", "0.21", "2-05716-0287", "2475 PALISADE AVENUE", "RIVERDALE", "D1-ELEVATOR", "25", "1932", "31098", "565690", "18.19", "214887", "6.91", "350803", "1925000", "61.90", "0.89", "2-05796-0121", "518 TULFAN TERRACE", "RIVERDALE", "D1-ELEVATOR", "31", "2005", "52,870", "707,929", "13.39", "309,290", "5.85", "398,639", "1,947,000", "36.83", "0.05" ]
+, [ 65, "5BA39F6A-B0E0-4F77-9A0B-82A39F9DCF71", 65, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05857-7501", "0019-R1", "5775 MOSHOLU AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "68", "1962", "71146", "928455", "13.05", "443240", "6.23", "485215", "3232002", "45.43", "2-05814-1155", "210 WEST 251 STREET", "FIELDSTON", "D1-ELEVATOR", "70", "1960", "75000", "999460", "13.33", "371959", "4.96", "627501", "3476000", "46.35", "0.82", "2-05909-0163", "3950 BLACKSTONE AVENUE", "RIVERDALE", "D1-ELEVATOR", "176", "1959", "237000", "3092924", "13.05", "1477491", "6.23", "1615433", "10760000", "45.40", "1.18", "2-05950-0429", "5530 NETHERLAND AVENUE", "RIVERDALE", "D1-ELEVATOR", "270", "1948", "235,467", "3,060,447", "13.00", "1,619,950", "6.88", "1,440,497", "9,207,000", "39.10", "0.50" ]
+, [ 66, "B0F4DBD5-4270-432D-BEEE-94307C4A1D2C", 66, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05904-7501", "0063-R1", "3800 BLACKSTONE AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "12", "2004", "20280", "283920", "14.00", "116610", "5.75", "167310", "1100999", "54.29", "2-05784-0340", "500 WEST 235 STREET", "KINGSBRIDGE/JEROME PARK", "D1-ELEVATOR", "87", "1954", "92600", "1304480", "14.09", "560265", "6.05", "744215", "4268000", "46.09", "0.34", "2-05791-0388", "511 WEST 235 STREET", "RIVERDALE", "D7-ELEVATOR", "55", "1936", "64000", "890050", "13.91", "348839", "5.45", "541211", "3565000", "55.70", "0.28", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 67, "F8244ECF-C9F0-4319-9CB7-4644215B4DDC", 67, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05906-7501", "0139-R1", "628 WEST 238 STREET", "RIVERDALE", "R4-CONDOMINIUM", "11", "2004", "25166", "528486", "21.00", "237819", "9.45", "290667", "1882090", "74.79", "2-03121-0038", "906 EAST 178 STREET", "EAST TREMONT", "D1-ELEVATOR", "35", "2008", "36596", "776066", "21.21", "430956", "11.78", "345110", "2280000", "62.30", "3.51", "2-02816-0066", "1305 MORRIS AVENUE", "MELROSE/CONCOURSE", "D1-ELEVATOR", "73", "2003", "38212", "755069", "19.76", "339705", "8.89", "415364", "2973000", "77.80", "3.57", "2-03091-0005", "2490 BELMONT AVENUE", "BELMONT", "C1-WALK-UP", "14", "2006", "13,295", "282,652", "21.26", "130,025", "9.78", "152,627", "540,000", "40.62", "2.63" ]
+, [ 68, "926F16EF-B813-4C3C-A90F-A2B3E0FABDBC", 68, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05923-7501", "0006-R1", "4455 DOUGLAS AVENUE", "RIVERDALE", "R4-CONDOMINIUM", "177", "1955", "292370", "4958595", "16.96", "2268791", "7.76", "2689804", "19449005", "66.52", "2-05716-0287", "2475 PALISADE AVENUE", "RIVERDALE", "D1-ELEVATOR", "25", "1932", "31098", "565690", "18.19", "214887", "6.91", "350803", "1925000", "61.90", "0.90", "2-05723-0100", "500 KAPPOCK STREET", "RIVERDALE", "D1-ELEVATOR", "82", "1950", "59142", "1003211", "16.96", "458925", "7.76", "544286", "3936000", "66.55", "0.87", "2-05706-0001", "3104 KINGSBRIDGE AVENUE", "KINGSBRIDGE/JEROME PARK", "C7-WALK-UP", "70", "1926", "68,605", "959,299", "13.98", "547,670", "7.98", "411,629", "2,709,000", "39.49", "0.95" ]
+, [ 69, "1170CF31-F853-4105-A166-64A4C3FE56D1", 69, 1317237044, "392753", 1317237044, "392753", "{\n}", "2-05944-7501", "0038-R1", "4961 HENRY HUDSON PARKWAY", "RIVERDALE", "R2-CONDOMINIUM", "12", "1940", "15934", "211763", "13.29", "96560", "6.06", "115203", "764509", "47.98", "2-05907-0352", "3800 INDEPENDENCE AVENUE", "RIVERDALE", "D1-ELEVATOR", "72", "1970", "84925", "1137030", "13.39", "497219", "5.85", "639811", "3718000", "43.78", "0.64", "2-05909-0163", "3950 BLACKSTONE AVENUE", "RIVERDALE", "D1-ELEVATOR", "176", "1959", "237000", "3092924", "13.05", "1477491", "6.23", "1615433", "10760000", "45.40", "0.47", null, " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+ ]
+}

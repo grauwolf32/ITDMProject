@@ -1,0 +1,3949 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2zbg-i8fx",
+      "name" : "DOF: Cooperative Comparable Rental Income – Staten Island – FY 2011/2012",
+      "attribution" : "Department of Finance (DOF)",
+      "averageRating" : 0,
+      "category" : "Housing & Development",
+      "createdAt" : 1317671376,
+      "description" : "The Department of Finance (DOF) is required by NY State law to value condominiums or cooperatives as if they were residential rental apartment buildings.   DOF uses income information from rental properties similar in physical features and location to the condominiums or cooperatives. DOF applies this income data to the condominium or cooperative and determine its value in the same way DOF values rental apartment buildings.\r\nUpdate Frequency: Annually",
+      "displayType" : "table",
+      "downloadCount" : 356,
+      "indexUpdatedAt" : 1414260345,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 4208737,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1372266353,
+      "publicationGroup" : 242803,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1372266339,
+      "rowsUpdatedBy" : "uurm-7z6x",
+      "tableId" : 942442,
+      "totalTimesRated" : 0,
+      "viewCount" : 155,
+      "viewLastModified" : 1409940263,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 77009736,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_boro_block_lot",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547485,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "5-00001-0216",
+          "null" : 0,
+          "largest" : "5-05229-0007",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5-00001-0216"
+          }, {
+            "count" : 19,
+            "item" : "5-00001-0250"
+          }, {
+            "count" : 18,
+            "item" : "5-00003-0001"
+          }, {
+            "count" : 17,
+            "item" : "5-00010-0019"
+          }, {
+            "count" : 16,
+            "item" : "5-00018-0099"
+          }, {
+            "count" : 15,
+            "item" : "5-00101-0525"
+          }, {
+            "count" : 14,
+            "item" : "5-00101-0537"
+          }, {
+            "count" : 13,
+            "item" : "5-00101-0554"
+          }, {
+            "count" : 12,
+            "item" : "5-00130-0049"
+          }, {
+            "count" : 11,
+            "item" : "5-00131-0056"
+          }, {
+            "count" : 10,
+            "item" : "5-00138-0119"
+          }, {
+            "count" : 9,
+            "item" : "5-00327-0015"
+          }, {
+            "count" : 8,
+            "item" : "5-00327-0060"
+          }, {
+            "count" : 7,
+            "item" : "5-00593-0680"
+          }, {
+            "count" : 6,
+            "item" : "5-00597-0120"
+          }, {
+            "count" : 5,
+            "item" : "5-02833-0031"
+          }, {
+            "count" : 4,
+            "item" : "5-02925-0432"
+          }, {
+            "count" : 3,
+            "item" : "5-02925-0450"
+          }, {
+            "count" : 2,
+            "item" : "5-02925-0479"
+          }, {
+            "count" : 1,
+            "item" : "5-02986-0012"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009737,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Address",
+        "dataTypeName" : "location",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_address",
+        "position" : 3,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1547486,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : {
+            "longitude" : "-74.07333765648139",
+            "latitude" : "40.63818574879054",
+            "human_address" : "{\"address\":\"10 BAY STREET LANDING\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-74.10193621838208",
+            "latitude" : "40.63458257193235",
+            "human_address" : "{\"address\":\"581 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-74.07333765648139",
+              "latitude" : "40.63818574879054",
+              "human_address" : "{\"address\":\"10 BAY STREET LANDING\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-74.07332939342955",
+              "latitude" : "40.639048796344156",
+              "human_address" : "{\"address\":\"36 BAY STREET LANDING\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-74.16240100000613",
+              "latitude" : "40.60667400010499",
+              "human_address" : "{\"address\":\"350 RICHMOND TERRACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-74.16240100000613",
+              "latitude" : "40.60667400010499",
+              "human_address" : "{\"address\":\"36 HAMILTON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-74.08014505796426",
+              "latitude" : "40.6417358169915",
+              "human_address" : "{\"address\":\"50 FORT PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-74.09983557856941",
+              "latitude" : "40.63421242828656",
+              "human_address" : "{\"address\":\"515 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-74.10065732208393",
+              "latitude" : "40.63436210493948",
+              "human_address" : "{\"address\":\"545 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-74.10193621838208",
+              "latitude" : "40.63458257193235",
+              "human_address" : "{\"address\":\"581 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-74.09779985702198",
+              "latitude" : "40.6318297457294",
+              "human_address" : "{\"address\":\"245 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-74.09807881413032",
+              "latitude" : "40.63174299038349",
+              "human_address" : "{\"address\":\"255 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-74.10872773579793",
+              "latitude" : "40.64077829151043",
+              "human_address" : "{\"address\":\"154 BARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-74.11004923122906",
+              "latitude" : "40.62062459750375",
+              "human_address" : "{\"address\":\"1000 CLOVE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-74.10660292523818",
+              "latitude" : "40.619132257145964",
+              "human_address" : "{\"address\":\"1100 CLOVE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-74.0947917040224",
+              "latitude" : "40.619607564842234",
+              "human_address" : "{\"address\":\"151 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-74.09378346522982",
+              "latitude" : "40.61860692966038",
+              "human_address" : "{\"address\":\"556 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-74.0606066595655",
+              "latitude" : "40.6111776502839",
+              "human_address" : "{\"address\":\"20 CLIFF STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-74.0800538318982",
+              "latitude" : "40.612546177166195",
+              "human_address" : "{\"address\":\"361 SKYLINE DRIVE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-74.0789169248592",
+              "latitude" : "40.6130095652697",
+              "human_address" : "{\"address\":\"295 SKYLINE DRIVE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-74.0792470743342",
+              "latitude" : "40.613540506446355",
+              "human_address" : "{\"address\":\"46 CIRCLE LOOP\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-74.07361237773283",
+              "latitude" : "40.609357387836525",
+              "human_address" : "{\"address\":\"390 MARYLAND AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 77009738,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_neighborhood",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547487,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "ARROCHAR-SHORE ACRES",
+          "null" : 0,
+          "largest" : "WEST NEW BRIGHTON",
+          "top" : [ {
+            "count" : 20,
+            "item" : "NEW BRIGHTON-ST. GEORGE"
+          }, {
+            "count" : 19,
+            "item" : "NEW BRIGHTON"
+          }, {
+            "count" : 18,
+            "item" : "WEST NEW BRIGHTON"
+          }, {
+            "count" : 17,
+            "item" : "LIVINGSTON"
+          }, {
+            "count" : 16,
+            "item" : "CLOVE LAKES"
+          }, {
+            "count" : 15,
+            "item" : "GRYMES HILL"
+          }, {
+            "count" : 14,
+            "item" : "ARROCHAR-SHORE ACRES"
+          }, {
+            "count" : 13,
+            "item" : "CONCORD-FOX HILLS"
+          }, {
+            "count" : 12,
+            "item" : "ROSEBANK"
+          }, {
+            "count" : 11,
+            "item" : "DONGAN HILLS"
+          }, {
+            "count" : 10,
+            "item" : "GRANT CITY"
+          }, {
+            "count" : 9,
+            "item" : "GREAT KILLS"
+          }, {
+            "count" : 8,
+            "item" : "GREAT KILLS-BAY TERRACE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009739,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_building_classification",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547488,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "C6-WALK-UP",
+          "null" : 0,
+          "largest" : "D4-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "D0-ELEVATOR"
+          }, {
+            "count" : 19,
+            "item" : "D4-ELEVATOR"
+          }, {
+            "count" : 18,
+            "item" : "C6-WALK-UP"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009740,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_total_units",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547489,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "11",
+          "sum" : "1844",
+          "null" : 0,
+          "average" : "70.92307692307692",
+          "largest" : "178",
+          "top" : [ {
+            "count" : 20,
+            "item" : "128"
+          }, {
+            "count" : 19,
+            "item" : "17"
+          }, {
+            "count" : 18,
+            "item" : "140"
+          }, {
+            "count" : 17,
+            "item" : "120"
+          }, {
+            "count" : 16,
+            "item" : "109"
+          }, {
+            "count" : 15,
+            "item" : "16"
+          }, {
+            "count" : 14,
+            "item" : "24"
+          }, {
+            "count" : 13,
+            "item" : "12"
+          }, {
+            "count" : 12,
+            "item" : "13"
+          }, {
+            "count" : 11,
+            "item" : "60"
+          }, {
+            "count" : 10,
+            "item" : "143"
+          }, {
+            "count" : 9,
+            "item" : "122"
+          }, {
+            "count" : 8,
+            "item" : "11"
+          }, {
+            "count" : 7,
+            "item" : "19"
+          }, {
+            "count" : 6,
+            "item" : "178"
+          }, {
+            "count" : 5,
+            "item" : "71"
+          }, {
+            "count" : 4,
+            "item" : "118"
+          }, {
+            "count" : 3,
+            "item" : "20"
+          }, {
+            "count" : 2,
+            "item" : "36"
+          }, {
+            "count" : 1,
+            "item" : "108"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009741,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_year_built",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547490,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "1947",
+          "sum" : "51192",
+          "null" : 0,
+          "average" : "1968.923076923077",
+          "largest" : "2000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1984"
+          }, {
+            "count" : 19,
+            "item" : "1985"
+          }, {
+            "count" : 18,
+            "item" : "1960"
+          }, {
+            "count" : 17,
+            "item" : "1963"
+          }, {
+            "count" : 16,
+            "item" : "1950"
+          }, {
+            "count" : 15,
+            "item" : "1968"
+          }, {
+            "count" : 14,
+            "item" : "1947"
+          }, {
+            "count" : 13,
+            "item" : "1966"
+          }, {
+            "count" : 12,
+            "item" : "1967"
+          }, {
+            "count" : 11,
+            "item" : "1951"
+          }, {
+            "count" : 10,
+            "item" : "1964"
+          }, {
+            "count" : 9,
+            "item" : "1999"
+          }, {
+            "count" : 8,
+            "item" : "2000"
+          }, {
+            "count" : 7,
+            "item" : "1974"
+          }, {
+            "count" : 6,
+            "item" : "1969"
+          }, {
+            "count" : 5,
+            "item" : "1977"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009742,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_gross_sqft",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547491,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "9810",
+          "sum" : "1719812",
+          "null" : 0,
+          "average" : "66146.61538461538",
+          "largest" : "171935",
+          "top" : [ {
+            "count" : 20,
+            "item" : "171935"
+          }, {
+            "count" : 19,
+            "item" : "25171"
+          }, {
+            "count" : 18,
+            "item" : "145446"
+          }, {
+            "count" : 17,
+            "item" : "75914"
+          }, {
+            "count" : 16,
+            "item" : "150800"
+          }, {
+            "count" : 15,
+            "item" : "13114"
+          }, {
+            "count" : 14,
+            "item" : "17418"
+          }, {
+            "count" : 13,
+            "item" : "10856"
+          }, {
+            "count" : 12,
+            "item" : "9810"
+          }, {
+            "count" : 11,
+            "item" : "36600"
+          }, {
+            "count" : 10,
+            "item" : "127800"
+          }, {
+            "count" : 9,
+            "item" : "28600"
+          }, {
+            "count" : 8,
+            "item" : "121750"
+          }, {
+            "count" : 7,
+            "item" : "146640"
+          }, {
+            "count" : 6,
+            "item" : "21780"
+          }, {
+            "count" : 5,
+            "item" : "21865"
+          }, {
+            "count" : 4,
+            "item" : "37220"
+          }, {
+            "count" : 3,
+            "item" : "155396"
+          }, {
+            "count" : 2,
+            "item" : "63600"
+          }, {
+            "count" : 1,
+            "item" : "58350"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009743,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_estimated_gross_income",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547492,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "81637",
+          "sum" : "17083525",
+          "null" : 0,
+          "average" : "657058.6538461538",
+          "largest" : "1719172",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1500703"
+          }, {
+            "count" : 19,
+            "item" : "223015"
+          }, {
+            "count" : 18,
+            "item" : "1719172"
+          }, {
+            "count" : 17,
+            "item" : "850996"
+          }, {
+            "count" : 16,
+            "item" : "1277276"
+          }, {
+            "count" : 15,
+            "item" : "118944"
+          }, {
+            "count" : 14,
+            "item" : "224692"
+          }, {
+            "count" : 13,
+            "item" : "81637"
+          }, {
+            "count" : 12,
+            "item" : "142539"
+          }, {
+            "count" : 11,
+            "item" : "152644"
+          }, {
+            "count" : 10,
+            "item" : "476532"
+          }, {
+            "count" : 9,
+            "item" : "1395576"
+          }, {
+            "count" : 8,
+            "item" : "489060"
+          }, {
+            "count" : 7,
+            "item" : "1008090"
+          }, {
+            "count" : 6,
+            "item" : "889200"
+          }, {
+            "count" : 5,
+            "item" : "306227"
+          }, {
+            "count" : 4,
+            "item" : "307422"
+          }, {
+            "count" : 3,
+            "item" : "523313"
+          }, {
+            "count" : 2,
+            "item" : "1007702"
+          }, {
+            "count" : 1,
+            "item" : "776556"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009744,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_gross_income_per_sqft",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547493,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "6.06",
+          "sum" : "291.46",
+          "null" : 0,
+          "average" : "11.21",
+          "largest" : "17.10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "8.73"
+          }, {
+            "count" : 19,
+            "item" : "8.86"
+          }, {
+            "count" : 18,
+            "item" : "11.82"
+          }, {
+            "count" : 17,
+            "item" : "11.21"
+          }, {
+            "count" : 16,
+            "item" : "8.47"
+          }, {
+            "count" : 15,
+            "item" : "9.07"
+          }, {
+            "count" : 14,
+            "item" : "12.90"
+          }, {
+            "count" : 13,
+            "item" : "7.52"
+          }, {
+            "count" : 12,
+            "item" : "14.53"
+          }, {
+            "count" : 11,
+            "item" : "15.56"
+          }, {
+            "count" : 10,
+            "item" : "13.02"
+          }, {
+            "count" : 9,
+            "item" : "10.92"
+          }, {
+            "count" : 8,
+            "item" : "17.10"
+          }, {
+            "count" : 7,
+            "item" : "8.28"
+          }, {
+            "count" : 6,
+            "item" : "6.06"
+          }, {
+            "count" : 5,
+            "item" : "14.06"
+          }, {
+            "count" : 4,
+            "item" : "6.48"
+          }, {
+            "count" : 3,
+            "item" : "12.21"
+          }, {
+            "count" : 2,
+            "item" : "8.30"
+          }, {
+            "count" : 1,
+            "item" : "10.36"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009745,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_estimated_expense",
+        "position" : 11,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547494,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "30288",
+          "sum" : "8384477",
+          "null" : 0,
+          "average" : "322479.8846153846",
+          "largest" : "1058847",
+          "top" : [ {
+            "count" : 20,
+            "item" : "677692"
+          }, {
+            "count" : 19,
+            "item" : "91119"
+          }, {
+            "count" : 18,
+            "item" : "1058847"
+          }, {
+            "count" : 17,
+            "item" : "485090"
+          }, {
+            "count" : 16,
+            "item" : "624312"
+          }, {
+            "count" : 15,
+            "item" : "44588"
+          }, {
+            "count" : 14,
+            "item" : "121578"
+          }, {
+            "count" : 13,
+            "item" : "30288"
+          }, {
+            "count" : 12,
+            "item" : "74164"
+          }, {
+            "count" : 11,
+            "item" : "85445"
+          }, {
+            "count" : 10,
+            "item" : "249978"
+          }, {
+            "count" : 9,
+            "item" : "752742"
+          }, {
+            "count" : 8,
+            "item" : "273416"
+          }, {
+            "count" : 7,
+            "item" : "172885"
+          }, {
+            "count" : 6,
+            "item" : "366560"
+          }, {
+            "count" : 5,
+            "item" : "153113"
+          }, {
+            "count" : 4,
+            "item" : "153711"
+          }, {
+            "count" : 3,
+            "item" : "261657"
+          }, {
+            "count" : 2,
+            "item" : "552462"
+          }, {
+            "count" : 1,
+            "item" : "361884"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009746,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_expense_per_sqft",
+        "position" : 12,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547495,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "1.42",
+          "sum" : "143.49",
+          "null" : 0,
+          "average" : "5.518846153846154",
+          "largest" : "9.56",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3.94"
+          }, {
+            "count" : 19,
+            "item" : "3.62"
+          }, {
+            "count" : 18,
+            "item" : "7.28"
+          }, {
+            "count" : 17,
+            "item" : "6.39"
+          }, {
+            "count" : 16,
+            "item" : "4.14"
+          }, {
+            "count" : 15,
+            "item" : "3.40"
+          }, {
+            "count" : 14,
+            "item" : "6.98"
+          }, {
+            "count" : 13,
+            "item" : "2.79"
+          }, {
+            "count" : 12,
+            "item" : "7.56"
+          }, {
+            "count" : 11,
+            "item" : "8.71"
+          }, {
+            "count" : 10,
+            "item" : "6.83"
+          }, {
+            "count" : 9,
+            "item" : "5.89"
+          }, {
+            "count" : 8,
+            "item" : "9.56"
+          }, {
+            "count" : 7,
+            "item" : "1.42"
+          }, {
+            "count" : 6,
+            "item" : "2.50"
+          }, {
+            "count" : 5,
+            "item" : "7.03"
+          }, {
+            "count" : 4,
+            "item" : "3.56"
+          }, {
+            "count" : 3,
+            "item" : "5.69"
+          }, {
+            "count" : 2,
+            "item" : "3.51"
+          }, {
+            "count" : 1,
+            "item" : "4.62"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009747,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_net_operating_income",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547496,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "51349",
+          "sum" : "8699048",
+          "null" : 0,
+          "average" : "334578.7692307692",
+          "largest" : "835205",
+          "top" : [ {
+            "count" : 20,
+            "item" : "823011"
+          }, {
+            "count" : 19,
+            "item" : "131896"
+          }, {
+            "count" : 18,
+            "item" : "660325"
+          }, {
+            "count" : 17,
+            "item" : "365906"
+          }, {
+            "count" : 16,
+            "item" : "652964"
+          }, {
+            "count" : 15,
+            "item" : "74356"
+          }, {
+            "count" : 14,
+            "item" : "103114"
+          }, {
+            "count" : 13,
+            "item" : "51349"
+          }, {
+            "count" : 12,
+            "item" : "68375"
+          }, {
+            "count" : 11,
+            "item" : "67199"
+          }, {
+            "count" : 10,
+            "item" : "226554"
+          }, {
+            "count" : 9,
+            "item" : "642834"
+          }, {
+            "count" : 8,
+            "item" : "215644"
+          }, {
+            "count" : 7,
+            "item" : "835205"
+          }, {
+            "count" : 6,
+            "item" : "522640"
+          }, {
+            "count" : 5,
+            "item" : "153114"
+          }, {
+            "count" : 4,
+            "item" : "153711"
+          }, {
+            "count" : 3,
+            "item" : "261656"
+          }, {
+            "count" : 2,
+            "item" : "455240"
+          }, {
+            "count" : 1,
+            "item" : "414672"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009748,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_full_market_value",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547497,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "202000",
+          "sum" : "50208000",
+          "null" : 0,
+          "average" : "1931076.923076923",
+          "largest" : "4915000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4913000"
+          }, {
+            "count" : 19,
+            "item" : "787000"
+          }, {
+            "count" : 18,
+            "item" : "4217000"
+          }, {
+            "count" : 17,
+            "item" : "2358000"
+          }, {
+            "count" : 16,
+            "item" : "3906000"
+          }, {
+            "count" : 15,
+            "item" : "264000"
+          }, {
+            "count" : 14,
+            "item" : "643000"
+          }, {
+            "count" : 13,
+            "item" : "234000"
+          }, {
+            "count" : 12,
+            "item" : "426000"
+          }, {
+            "count" : 11,
+            "item" : "371000"
+          }, {
+            "count" : 10,
+            "item" : "1869000"
+          }, {
+            "count" : 9,
+            "item" : "3978000"
+          }, {
+            "count" : 8,
+            "item" : "1111000"
+          }, {
+            "count" : 7,
+            "item" : "4915000"
+          }, {
+            "count" : 6,
+            "item" : "3109000"
+          }, {
+            "count" : 5,
+            "item" : "760000"
+          }, {
+            "count" : 4,
+            "item" : "763000"
+          }, {
+            "count" : 3,
+            "item" : "1299000"
+          }, {
+            "count" : 2,
+            "item" : "2708000"
+          }, {
+            "count" : 1,
+            "item" : "1980000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009749,
+        "name" : "STATEN ISLAND – COOPERATIVES COMPARABLE PROPERTIES – Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "staten_island_cooperatives_comparable_properties_market_value_per_sqft",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547498,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "17.43",
+          "sum" : "805.41",
+          "null" : 0,
+          "average" : "30.97730769230769",
+          "largest" : "51.07",
+          "top" : [ {
+            "count" : 20,
+            "item" : "28.57"
+          }, {
+            "count" : 19,
+            "item" : "31.27"
+          }, {
+            "count" : 18,
+            "item" : "28.99"
+          }, {
+            "count" : 17,
+            "item" : "31.06"
+          }, {
+            "count" : 16,
+            "item" : "25.90"
+          }, {
+            "count" : 15,
+            "item" : "20.13"
+          }, {
+            "count" : 14,
+            "item" : "36.92"
+          }, {
+            "count" : 13,
+            "item" : "21.55"
+          }, {
+            "count" : 12,
+            "item" : "43.43"
+          }, {
+            "count" : 11,
+            "item" : "37.82"
+          }, {
+            "count" : 10,
+            "item" : "51.07"
+          }, {
+            "count" : 9,
+            "item" : "31.13"
+          }, {
+            "count" : 8,
+            "item" : "38.85"
+          }, {
+            "count" : 7,
+            "item" : "40.37"
+          }, {
+            "count" : 6,
+            "item" : "21.20"
+          }, {
+            "count" : 5,
+            "item" : "34.89"
+          }, {
+            "count" : 4,
+            "item" : "34.90"
+          }, {
+            "count" : 3,
+            "item" : "17.43"
+          }, {
+            "count" : 2,
+            "item" : "20.17"
+          }, {
+            "count" : 1,
+            "item" : "20.20"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009750,
+        "name" : "COMPARABLE RENTAL – 1 – Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_boro_block_lot",
+        "position" : 16,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547499,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "5-00008-0019",
+          "null" : 0,
+          "largest" : "5-05487-0069",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5-00240-0003"
+          }, {
+            "count" : 19,
+            "item" : "5-00027-0006"
+          }, {
+            "count" : 18,
+            "item" : "5-00008-0025"
+          }, {
+            "count" : 17,
+            "item" : "5-00008-0019"
+          }, {
+            "count" : 16,
+            "item" : "5-00064-0003"
+          }, {
+            "count" : 15,
+            "item" : "5-00128-0018"
+          }, {
+            "count" : 14,
+            "item" : "5-03034-0022"
+          }, {
+            "count" : 13,
+            "item" : "5-00593-0590"
+          }, {
+            "count" : 12,
+            "item" : "5-02867-0266"
+          }, {
+            "count" : 11,
+            "item" : "5-02869-0001"
+          }, {
+            "count" : 10,
+            "item" : "5-03030-0082"
+          }, {
+            "count" : 9,
+            "item" : "5-03591-0008"
+          }, {
+            "count" : 8,
+            "item" : "5-03343-0019"
+          }, {
+            "count" : 7,
+            "item" : "5-05016-0005"
+          }, {
+            "count" : 6,
+            "item" : "5-05487-0069"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009751,
+        "name" : "COMPARABLE RENTAL – 1 – Address",
+        "dataTypeName" : "location",
+        "fieldName" : "comparable_rental_1_address",
+        "position" : 17,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1547500,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : {
+            "longitude" : "-74.07586069891967",
+            "latitude" : "40.60758555883734",
+            "human_address" : "{\"address\":\"101 DONLEY AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-74.0971976529192",
+            "latitude" : "40.62172277417215",
+            "human_address" : "{\"address\":\"937 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-74.0971976529192",
+              "latitude" : "40.62172277417215",
+              "human_address" : "{\"address\":\"937 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-74.08163011352691",
+              "latitude" : "40.640666534910004",
+              "human_address" : "{\"address\":\"12 HENDRICKS AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-74.07870444823592",
+              "latitude" : "40.642838628174005",
+              "human_address" : "{\"address\":\"285 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-74.07870444823592",
+              "latitude" : "40.642838628174005",
+              "human_address" : "{\"address\":\"285 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-74.0784962789628",
+              "latitude" : "40.64256810524033",
+              "human_address" : "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-74.09274165437026",
+              "latitude" : "40.639522390599375",
+              "human_address" : "{\"address\":\"155 PROSPECT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-74.09666706986992",
+              "latitude" : "40.63281605162412",
+              "human_address" : "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-74.09666706986992",
+              "latitude" : "40.63281605162412",
+              "human_address" : "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-74.09666706986992",
+              "latitude" : "40.63281605162412",
+              "human_address" : "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-74.09666706986992",
+              "latitude" : "40.63281605162412",
+              "human_address" : "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-74.09274165437026",
+              "latitude" : "40.639522390599375",
+              "human_address" : "{\"address\":\"155 PROSPECT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-74.07617734418196",
+              "latitude" : "40.605386778302616",
+              "human_address" : "{\"address\":\"600 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-74.07617734418196",
+              "latitude" : "40.605386778302616",
+              "human_address" : "{\"address\":\"600 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-74.09095421519612",
+              "latitude" : "40.61966440829499",
+              "human_address" : "{\"address\":\"22 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-74.09095421519612",
+              "latitude" : "40.61966440829499",
+              "human_address" : "{\"address\":\"22 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-74.07912769563913",
+              "latitude" : "40.61620139437309",
+              "human_address" : "{\"address\":\"220 OSGOOD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-74.077146125129",
+              "latitude" : "40.61912555945362",
+              "human_address" : "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-74.077146125129",
+              "latitude" : "40.61912555945362",
+              "human_address" : "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-74.077146125129",
+              "latitude" : "40.61912555945362",
+              "human_address" : "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-74.07586069891967",
+              "latitude" : "40.60758555883734",
+              "human_address" : "{\"address\":\"101 DONLEY AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 77009752,
+        "name" : "COMPARABLE RENTAL – 1 – Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_neighborhood",
+        "position" : 18,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547501,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "CLOVE LAKES",
+          "null" : 0,
+          "largest" : "WEST NEW BRIGHTON",
+          "top" : [ {
+            "count" : 20,
+            "item" : "CLOVE LAKES"
+          }, {
+            "count" : 19,
+            "item" : "NEW BRIGHTON"
+          }, {
+            "count" : 18,
+            "item" : "NEW BRIGHTON-ST. GEORGE"
+          }, {
+            "count" : 17,
+            "item" : "WEST NEW BRIGHTON"
+          }, {
+            "count" : 16,
+            "item" : "ROSEBANK"
+          }, {
+            "count" : 15,
+            "item" : "GRYMES HILL"
+          }, {
+            "count" : 14,
+            "item" : "STAPLETON-CLIFTON"
+          }, {
+            "count" : 13,
+            "item" : "GRANT CITY"
+          }, {
+            "count" : 12,
+            "item" : "GREAT KILLS-BAY TERRACE"
+          }, {
+            "count" : 11,
+            "item" : "GREAT KILLS"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009753,
+        "name" : "COMPARABLE RENTAL – 1 – Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_1_building_classification",
+        "position" : 19,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547502,
+        "width" : 664,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "C1-WALK-UP",
+          "null" : 0,
+          "largest" : "D1-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 19,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 18,
+            "item" : "C9-WALK-UP"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009754,
+        "name" : "COMPARABLE RENTAL – 1 – Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_total_units",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547503,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "15",
+          "sum" : "1587",
+          "null" : 0,
+          "average" : "61.03846153846154",
+          "largest" : "165",
+          "top" : [ {
+            "count" : 20,
+            "item" : "111"
+          }, {
+            "count" : 19,
+            "item" : "18"
+          }, {
+            "count" : 18,
+            "item" : "91"
+          }, {
+            "count" : 17,
+            "item" : "70"
+          }, {
+            "count" : 16,
+            "item" : "30"
+          }, {
+            "count" : 15,
+            "item" : "16"
+          }, {
+            "count" : 14,
+            "item" : "136"
+          }, {
+            "count" : 13,
+            "item" : "165"
+          }, {
+            "count" : 12,
+            "item" : "84"
+          }, {
+            "count" : 11,
+            "item" : "36"
+          }, {
+            "count" : 10,
+            "item" : "15"
+          }, {
+            "count" : 9,
+            "item" : "65"
+          }, {
+            "count" : 8,
+            "item" : "24"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009755,
+        "name" : "COMPARABLE RENTAL – 1 – Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_year_built",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547504,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "1930",
+          "sum" : "50747",
+          "null" : 0,
+          "average" : "1951.807692307692",
+          "largest" : "1976",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1965"
+          }, {
+            "count" : 19,
+            "item" : "1931"
+          }, {
+            "count" : 18,
+            "item" : "1951"
+          }, {
+            "count" : 17,
+            "item" : "1930"
+          }, {
+            "count" : 16,
+            "item" : "1966"
+          }, {
+            "count" : 15,
+            "item" : "1973"
+          }, {
+            "count" : 14,
+            "item" : "1950"
+          }, {
+            "count" : 13,
+            "item" : "1974"
+          }, {
+            "count" : 12,
+            "item" : "1933"
+          }, {
+            "count" : 11,
+            "item" : "1975"
+          }, {
+            "count" : 10,
+            "item" : "1976"
+          }, {
+            "count" : 9,
+            "item" : "1972"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009756,
+        "name" : "COMPARABLE RENTAL – 1 – Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_gross_sqft",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547505,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "10000",
+          "sum" : "1365751",
+          "null" : 0,
+          "average" : "52528.88461538462",
+          "largest" : "144000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "107960"
+          }, {
+            "count" : 19,
+            "item" : "14696"
+          }, {
+            "count" : 18,
+            "item" : "77000"
+          }, {
+            "count" : 17,
+            "item" : "56724"
+          }, {
+            "count" : 16,
+            "item" : "25660"
+          }, {
+            "count" : 15,
+            "item" : "13386"
+          }, {
+            "count" : 14,
+            "item" : "144000"
+          }, {
+            "count" : 13,
+            "item" : "126836"
+          }, {
+            "count" : 12,
+            "item" : "76206"
+          }, {
+            "count" : 11,
+            "item" : "21187"
+          }, {
+            "count" : 10,
+            "item" : "10000"
+          }, {
+            "count" : 9,
+            "item" : "12300"
+          }, {
+            "count" : 8,
+            "item" : "10626"
+          }, {
+            "count" : 7,
+            "item" : "43018"
+          }, {
+            "count" : 6,
+            "item" : "13824"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009757,
+        "name" : "COMPARABLE RENTAL – 1 – Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_estimated_gross_income",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547506,
+        "width" : 652,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "133127",
+          "sum" : "18161613",
+          "null" : 0,
+          "average" : "698523.5769230769",
+          "largest" : "2169019",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1500465"
+          }, {
+            "count" : 19,
+            "item" : "175624"
+          }, {
+            "count" : 18,
+            "item" : "1012863"
+          }, {
+            "count" : 17,
+            "item" : "594650"
+          }, {
+            "count" : 16,
+            "item" : "317456"
+          }, {
+            "count" : 15,
+            "item" : "136161"
+          }, {
+            "count" : 14,
+            "item" : "1572878"
+          }, {
+            "count" : 13,
+            "item" : "2169019"
+          }, {
+            "count" : 12,
+            "item" : "1165001"
+          }, {
+            "count" : 11,
+            "item" : "311883"
+          }, {
+            "count" : 10,
+            "item" : "162360"
+          }, {
+            "count" : 9,
+            "item" : "176259"
+          }, {
+            "count" : 8,
+            "item" : "133127"
+          }, {
+            "count" : 7,
+            "item" : "727195"
+          }, {
+            "count" : 6,
+            "item" : "153070"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009758,
+        "name" : "COMPARABLE RENTAL – 1 – Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_gross_income_per_sqft",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547507,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "10.17",
+          "sum" : "339.86",
+          "null" : 0,
+          "average" : "13.07153846153846",
+          "largest" : "17.10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13.90"
+          }, {
+            "count" : 19,
+            "item" : "11.95"
+          }, {
+            "count" : 18,
+            "item" : "13.15"
+          }, {
+            "count" : 17,
+            "item" : "10.48"
+          }, {
+            "count" : 16,
+            "item" : "12.37"
+          }, {
+            "count" : 15,
+            "item" : "10.17"
+          }, {
+            "count" : 14,
+            "item" : "10.92"
+          }, {
+            "count" : 13,
+            "item" : "17.10"
+          }, {
+            "count" : 12,
+            "item" : "15.29"
+          }, {
+            "count" : 11,
+            "item" : "14.72"
+          }, {
+            "count" : 10,
+            "item" : "16.24"
+          }, {
+            "count" : 9,
+            "item" : "14.33"
+          }, {
+            "count" : 8,
+            "item" : "12.53"
+          }, {
+            "count" : 7,
+            "item" : "16.90"
+          }, {
+            "count" : 6,
+            "item" : "11.07"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009759,
+        "name" : "COMPARABLE RENTAL – 1 – Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_estimated_expense",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547508,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "68126",
+          "sum" : "10425134",
+          "null" : 0,
+          "average" : "400966.6923076923",
+          "largest" : "1212664",
+          "top" : [ {
+            "count" : 20,
+            "item" : "787479"
+          }, {
+            "count" : 19,
+            "item" : "83566"
+          }, {
+            "count" : 18,
+            "item" : "585481"
+          }, {
+            "count" : 17,
+            "item" : "326161"
+          }, {
+            "count" : 16,
+            "item" : "189368"
+          }, {
+            "count" : 15,
+            "item" : "68126"
+          }, {
+            "count" : 14,
+            "item" : "966234"
+          }, {
+            "count" : 13,
+            "item" : "1212664"
+          }, {
+            "count" : 12,
+            "item" : "776840"
+          }, {
+            "count" : 11,
+            "item" : "161780"
+          }, {
+            "count" : 10,
+            "item" : "87885"
+          }, {
+            "count" : 9,
+            "item" : "76629"
+          }, {
+            "count" : 8,
+            "item" : "68514"
+          }, {
+            "count" : 7,
+            "item" : "431213"
+          }, {
+            "count" : 6,
+            "item" : "78646"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009760,
+        "name" : "COMPARABLE RENTAL – 1 – Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_expense_per_sqft",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547509,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "5.09",
+          "sum" : "184.82",
+          "null" : 0,
+          "average" : "7.108461538461538",
+          "largest" : "10.19",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.29"
+          }, {
+            "count" : 19,
+            "item" : "5.69"
+          }, {
+            "count" : 18,
+            "item" : "7.60"
+          }, {
+            "count" : 17,
+            "item" : "5.75"
+          }, {
+            "count" : 16,
+            "item" : "7.38"
+          }, {
+            "count" : 15,
+            "item" : "5.09"
+          }, {
+            "count" : 14,
+            "item" : "6.71"
+          }, {
+            "count" : 13,
+            "item" : "9.56"
+          }, {
+            "count" : 12,
+            "item" : "10.19"
+          }, {
+            "count" : 11,
+            "item" : "7.64"
+          }, {
+            "count" : 10,
+            "item" : "8.79"
+          }, {
+            "count" : 9,
+            "item" : "6.23"
+          }, {
+            "count" : 8,
+            "item" : "6.45"
+          }, {
+            "count" : 7,
+            "item" : "10.02"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009761,
+        "name" : "COMPARABLE RENTAL – 1 – Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_net_operating_income",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547510,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "64613",
+          "sum" : "7736479",
+          "null" : 0,
+          "average" : "297556.8846153846",
+          "largest" : "956355",
+          "top" : [ {
+            "count" : 20,
+            "item" : "712986"
+          }, {
+            "count" : 19,
+            "item" : "92058"
+          }, {
+            "count" : 18,
+            "item" : "427382"
+          }, {
+            "count" : 17,
+            "item" : "268489"
+          }, {
+            "count" : 16,
+            "item" : "128088"
+          }, {
+            "count" : 15,
+            "item" : "68035"
+          }, {
+            "count" : 14,
+            "item" : "606644"
+          }, {
+            "count" : 13,
+            "item" : "956355"
+          }, {
+            "count" : 12,
+            "item" : "388161"
+          }, {
+            "count" : 11,
+            "item" : "150103"
+          }, {
+            "count" : 10,
+            "item" : "74475"
+          }, {
+            "count" : 9,
+            "item" : "99630"
+          }, {
+            "count" : 8,
+            "item" : "64613"
+          }, {
+            "count" : 7,
+            "item" : "295982"
+          }, {
+            "count" : 6,
+            "item" : "74424"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009762,
+        "name" : "COMPARABLE RENTAL – 1 – Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_full_market_value",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547511,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "350000",
+          "sum" : "50833000",
+          "null" : 0,
+          "average" : "1955115.384615385",
+          "largest" : "6913000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "4697000"
+          }, {
+            "count" : 19,
+            "item" : "587000"
+          }, {
+            "count" : 18,
+            "item" : "2842000"
+          }, {
+            "count" : 17,
+            "item" : "1668000"
+          }, {
+            "count" : 16,
+            "item" : "647000"
+          }, {
+            "count" : 15,
+            "item" : "350000"
+          }, {
+            "count" : 14,
+            "item" : "3754000"
+          }, {
+            "count" : 13,
+            "item" : "6913000"
+          }, {
+            "count" : 12,
+            "item" : "2475000"
+          }, {
+            "count" : 11,
+            "item" : "1036000"
+          }, {
+            "count" : 10,
+            "item" : "465000"
+          }, {
+            "count" : 9,
+            "item" : "690000"
+          }, {
+            "count" : 8,
+            "item" : "433000"
+          }, {
+            "count" : 7,
+            "item" : "2140000"
+          }, {
+            "count" : 6,
+            "item" : "414000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009763,
+        "name" : "COMPARABLE RENTAL – 1 – Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_market_value_per_sqft",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547512,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "25.21",
+          "sum" : "987.24",
+          "null" : 0,
+          "average" : "37.97076923076923",
+          "largest" : "56.10",
+          "top" : [ {
+            "count" : 20,
+            "item" : "43.51"
+          }, {
+            "count" : 19,
+            "item" : "39.94"
+          }, {
+            "count" : 18,
+            "item" : "36.91"
+          }, {
+            "count" : 17,
+            "item" : "29.41"
+          }, {
+            "count" : 16,
+            "item" : "25.21"
+          }, {
+            "count" : 15,
+            "item" : "26.15"
+          }, {
+            "count" : 14,
+            "item" : "26.07"
+          }, {
+            "count" : 13,
+            "item" : "54.50"
+          }, {
+            "count" : 12,
+            "item" : "32.48"
+          }, {
+            "count" : 11,
+            "item" : "48.90"
+          }, {
+            "count" : 10,
+            "item" : "46.50"
+          }, {
+            "count" : 9,
+            "item" : "56.10"
+          }, {
+            "count" : 8,
+            "item" : "40.75"
+          }, {
+            "count" : 7,
+            "item" : "49.75"
+          }, {
+            "count" : 6,
+            "item" : "29.95"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009764,
+        "name" : "COMPARABLE RENTAL – 1 – Distance from Coop in miles",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_1_distance_from_coop_in_miles",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547513,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : "0.00",
+          "sum" : "17.42",
+          "null" : 0,
+          "average" : "0.67",
+          "largest" : "2.70",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.96"
+          }, {
+            "count" : 19,
+            "item" : "0.48"
+          }, {
+            "count" : 18,
+            "item" : "0.54"
+          }, {
+            "count" : 17,
+            "item" : "0.12"
+          }, {
+            "count" : 16,
+            "item" : "0.26"
+          }, {
+            "count" : 15,
+            "item" : "0.59"
+          }, {
+            "count" : 14,
+            "item" : "0.25"
+          }, {
+            "count" : 13,
+            "item" : "0.08"
+          }, {
+            "count" : 12,
+            "item" : "0.13"
+          }, {
+            "count" : 11,
+            "item" : "0.83"
+          }, {
+            "count" : 10,
+            "item" : "2.06"
+          }, {
+            "count" : 9,
+            "item" : "0.00"
+          }, {
+            "count" : 8,
+            "item" : "0.30"
+          }, {
+            "count" : 7,
+            "item" : "1.04"
+          }, {
+            "count" : 6,
+            "item" : "0.38"
+          }, {
+            "count" : 5,
+            "item" : "1.00"
+          }, {
+            "count" : 4,
+            "item" : "0.60"
+          }, {
+            "count" : 3,
+            "item" : "0.23"
+          }, {
+            "count" : 2,
+            "item" : "2.70"
+          }, {
+            "count" : 1,
+            "item" : "0.16"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009765,
+        "name" : "COMPARABLE RENTAL – 2 – Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_boro_block_lot",
+        "position" : 31,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547514,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "5-00008-0019",
+          "null" : 2,
+          "largest" : "5-05016-0005",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5-00590-0001"
+          }, {
+            "count" : 19,
+            "item" : "5-00524-0004"
+          }, {
+            "count" : 18,
+            "item" : "5-00008-0019"
+          }, {
+            "count" : 17,
+            "item" : "5-00008-0034"
+          }, {
+            "count" : 16,
+            "item" : "5-00238-0046"
+          }, {
+            "count" : 15,
+            "item" : "5-00145-0001"
+          }, {
+            "count" : 14,
+            "item" : "5-00236-0027"
+          }, {
+            "count" : 13,
+            "item" : "5-01015-0001"
+          }, {
+            "count" : 12,
+            "item" : "5-00595-0015"
+          }, {
+            "count" : 11,
+            "item" : "5-02877-0025"
+          }, {
+            "count" : 10,
+            "item" : "5-02829-0094"
+          }, {
+            "count" : 9,
+            "item" : "5-03023-0028"
+          }, {
+            "count" : 8,
+            "item" : "5-03536-0115"
+          }, {
+            "count" : 7,
+            "item" : "5-03591-0008"
+          }, {
+            "count" : 6,
+            "item" : "5-01148-0036"
+          }, {
+            "count" : 5,
+            "item" : "5-04657-0021"
+          }, {
+            "count" : 4,
+            "item" : "5-05016-0005"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009766,
+        "name" : "COMPARABLE RENTAL – 2 – Address",
+        "dataTypeName" : "location",
+        "fieldName" : "comparable_rental_2_address",
+        "position" : 32,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1547515,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : {
+            "longitude" : "-74.07714777541807",
+            "latitude" : "40.62650641894812",
+            "human_address" : "{\"address\":\"110 CANAL STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "null" : 2,
+          "largest" : {
+            "longitude" : "-74.16240100000613",
+            "latitude" : "40.60667400010499",
+            "human_address" : "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-74.09224343694464",
+              "latitude" : "40.625670055825246",
+              "human_address" : "{\"address\":\"700 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-74.07714777541807",
+              "latitude" : "40.62650641894812",
+              "human_address" : "{\"address\":\"110 CANAL STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-74.0784962789628",
+              "latitude" : "40.64256810524033",
+              "human_address" : "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-74.0784962789628",
+              "latitude" : "40.64256810524033",
+              "human_address" : "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-74.07888428240462",
+              "latitude" : "40.64306907816211",
+              "human_address" : "{\"address\":\"273 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-74.07714777541807",
+              "latitude" : "40.62650641894812",
+              "human_address" : "{\"address\":\"110 CANAL STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-74.13032033566365",
+              "latitude" : "40.62930426864474",
+              "human_address" : "{\"address\":\"317 JEWETT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-74.10727165470709",
+              "latitude" : "40.63246697880214",
+              "human_address" : "{\"address\":\"81 MADA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-74.16240100000613",
+              "latitude" : "40.60667400010499",
+              "human_address" : "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-74.10727165470709",
+              "latitude" : "40.63246697880214",
+              "human_address" : "{\"address\":\"81 MADA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-74.13131334974379",
+              "latitude" : "40.63677941950782",
+              "human_address" : "{\"address\":\"137 HEBERTON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-74.08722074587396",
+              "latitude" : "40.630032220918274",
+              "human_address" : "{\"address\":\"22 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-74.08722074587396",
+              "latitude" : "40.630032220918274",
+              "human_address" : "{\"address\":\"22 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-74.0830542384052",
+              "latitude" : "40.614664489608586",
+              "human_address" : "{\"address\":\"55 BOWEN STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-74.06491985785209",
+              "latitude" : "40.614736896822336",
+              "human_address" : "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-74.06491985785209",
+              "latitude" : "40.614736896822336",
+              "human_address" : "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-74.06491985785209",
+              "latitude" : "40.614736896822336",
+              "human_address" : "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-74.0702686345125",
+              "latitude" : "40.60399001818633",
+              "human_address" : "{\"address\":\"30 NARROWS ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-74.09224343694464",
+              "latitude" : "40.625670055825246",
+              "human_address" : "{\"address\":\"700 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-74.09485058980252",
+              "latitude" : "40.586020317386264",
+              "human_address" : "{\"address\":\"227 BUEL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 77009767,
+        "name" : "COMPARABLE RENTAL – 2 – Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_neighborhood",
+        "position" : 33,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547516,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "WEST NEW BRIGHTON",
+          "top" : [ {
+            "count" : 20,
+            "item" : "GRYMES HILL"
+          }, {
+            "count" : 19,
+            "item" : "STAPLETON"
+          }, {
+            "count" : 18,
+            "item" : "NEW BRIGHTON-ST. GEORGE"
+          }, {
+            "count" : 17,
+            "item" : "WEST NEW BRIGHTON"
+          }, {
+            "count" : 16,
+            "item" : "PORT RICHMOND"
+          }, {
+            "count" : 15,
+            "item" : " "
+          }, {
+            "count" : 14,
+            "item" : "CONCORD-FOX HILLS"
+          }, {
+            "count" : 13,
+            "item" : "ROSEBANK"
+          }, {
+            "count" : 12,
+            "item" : "GRANT CITY"
+          }, {
+            "count" : 11,
+            "item" : "MARINERS HARBOR"
+          }, {
+            "count" : 10,
+            "item" : "OAKWOOD"
+          }, {
+            "count" : 9,
+            "item" : "GREAT KILLS-BAY TERRACE"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009768,
+        "name" : "COMPARABLE RENTAL – 2 – Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_2_building_classification",
+        "position" : 34,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547517,
+        "width" : 664,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "D3-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : "D3-ELEVATOR"
+          }, {
+            "count" : 19,
+            "item" : "C7-WALK-UP"
+          }, {
+            "count" : 18,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 17,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 16,
+            "item" : " "
+          }, {
+            "count" : 15,
+            "item" : "C9-WALK-UP"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009769,
+        "name" : "COMPARABLE RENTAL – 2 – Total Units",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_total_units",
+        "position" : 35,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547518,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "9",
+          "sum" : "1588",
+          "null" : 2,
+          "average" : "66.16666666666667",
+          "largest" : "251",
+          "top" : [ {
+            "count" : 20,
+            "item" : "228"
+          }, {
+            "count" : 19,
+            "item" : "9"
+          }, {
+            "count" : 18,
+            "item" : "70"
+          }, {
+            "count" : 17,
+            "item" : "25"
+          }, {
+            "count" : 16,
+            "item" : "42"
+          }, {
+            "count" : 15,
+            "item" : "12"
+          }, {
+            "count" : 14,
+            "item" : "28"
+          }, {
+            "count" : 13,
+            "item" : "251"
+          }, {
+            "count" : 12,
+            "item" : "156"
+          }, {
+            "count" : 11,
+            "item" : "18"
+          }, {
+            "count" : 10,
+            "item" : "14"
+          }, {
+            "count" : 9,
+            "item" : "16"
+          }, {
+            "count" : 8,
+            "item" : "65"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009770,
+        "name" : "COMPARABLE RENTAL – 2 – Year Built",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_year_built",
+        "position" : 36,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547519,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "1912",
+          "sum" : "47032",
+          "null" : 2,
+          "average" : "1959.666666666667",
+          "largest" : "2002",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1962"
+          }, {
+            "count" : 19,
+            "item" : "1931"
+          }, {
+            "count" : 18,
+            "item" : "1951"
+          }, {
+            "count" : 17,
+            "item" : "1912"
+          }, {
+            "count" : 16,
+            "item" : "1971"
+          }, {
+            "count" : 15,
+            "item" : "1977"
+          }, {
+            "count" : 14,
+            "item" : "1933"
+          }, {
+            "count" : 13,
+            "item" : "1973"
+          }, {
+            "count" : 12,
+            "item" : "2002"
+          }, {
+            "count" : 11,
+            "item" : "1974"
+          }, {
+            "count" : 10,
+            "item" : "1976"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009771,
+        "name" : "COMPARABLE RENTAL – 2 – Gross SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_gross_sqft",
+        "position" : 37,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547520,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "5760",
+          "sum" : "1403430",
+          "null" : 2,
+          "average" : "58476.25",
+          "largest" : "242500",
+          "top" : [ {
+            "count" : 20,
+            "item" : "242500"
+          }, {
+            "count" : 19,
+            "item" : "8100"
+          }, {
+            "count" : 18,
+            "item" : "56724"
+          }, {
+            "count" : 17,
+            "item" : "24120"
+          }, {
+            "count" : 16,
+            "item" : "25470"
+          }, {
+            "count" : 15,
+            "item" : "5760"
+          }, {
+            "count" : 14,
+            "item" : "8720"
+          }, {
+            "count" : 13,
+            "item" : "20800"
+          }, {
+            "count" : 12,
+            "item" : "198384"
+          }, {
+            "count" : 11,
+            "item" : "154860"
+          }, {
+            "count" : 10,
+            "item" : "19400"
+          }, {
+            "count" : 9,
+            "item" : "8950"
+          }, {
+            "count" : 8,
+            "item" : "7956"
+          }, {
+            "count" : 7,
+            "item" : "12300"
+          }, {
+            "count" : 6,
+            "item" : "7000"
+          }, {
+            "count" : 5,
+            "item" : "9100"
+          }, {
+            "count" : 4,
+            "item" : "43018"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009772,
+        "name" : "COMPARABLE RENTAL – 2 – Estimated Gross Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_estimated_gross_income",
+        "position" : 38,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547521,
+        "width" : 652,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "46665",
+          "sum" : "20453699",
+          "null" : 2,
+          "average" : "852237.4583333333",
+          "largest" : "3299545",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3298026"
+          }, {
+            "count" : 19,
+            "item" : "46665"
+          }, {
+            "count" : 18,
+            "item" : "594650"
+          }, {
+            "count" : 17,
+            "item" : "155568"
+          }, {
+            "count" : 16,
+            "item" : "398060"
+          }, {
+            "count" : 15,
+            "item" : "89626"
+          }, {
+            "count" : 14,
+            "item" : "164738"
+          }, {
+            "count" : 13,
+            "item" : "323648"
+          }, {
+            "count" : 12,
+            "item" : "3299545"
+          }, {
+            "count" : 11,
+            "item" : "2466552"
+          }, {
+            "count" : 10,
+            "item" : "289307"
+          }, {
+            "count" : 9,
+            "item" : "153955"
+          }, {
+            "count" : 8,
+            "item" : "133243"
+          }, {
+            "count" : 7,
+            "item" : "176259"
+          }, {
+            "count" : 6,
+            "item" : "102620"
+          }, {
+            "count" : 5,
+            "item" : "126916"
+          }, {
+            "count" : 4,
+            "item" : "727195"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009773,
+        "name" : "COMPARABLE RENTAL – 2 – Gross Income per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_gross_income_per_sqft",
+        "position" : 39,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547522,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "5.76",
+          "sum" : "335.04",
+          "null" : 2,
+          "average" : "13.96",
+          "largest" : "18.89",
+          "top" : [ {
+            "count" : 20,
+            "item" : "13.60"
+          }, {
+            "count" : 19,
+            "item" : "5.76"
+          }, {
+            "count" : 18,
+            "item" : "10.48"
+          }, {
+            "count" : 17,
+            "item" : "6.45"
+          }, {
+            "count" : 16,
+            "item" : "15.63"
+          }, {
+            "count" : 15,
+            "item" : "15.56"
+          }, {
+            "count" : 14,
+            "item" : "18.89"
+          }, {
+            "count" : 13,
+            "item" : "16.63"
+          }, {
+            "count" : 12,
+            "item" : "15.93"
+          }, {
+            "count" : 11,
+            "item" : "14.91"
+          }, {
+            "count" : 10,
+            "item" : "17.20"
+          }, {
+            "count" : 9,
+            "item" : "16.75"
+          }, {
+            "count" : 8,
+            "item" : "14.33"
+          }, {
+            "count" : 7,
+            "item" : "14.66"
+          }, {
+            "count" : 6,
+            "item" : "13.95"
+          }, {
+            "count" : 5,
+            "item" : "16.90"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009774,
+        "name" : "COMPARABLE RENTAL – 2 – Estimated Expense",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_estimated_expense",
+        "position" : 40,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547523,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "16068",
+          "sum" : "11529282",
+          "null" : 2,
+          "average" : "480386.75",
+          "largest" : "1844705",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1836213"
+          }, {
+            "count" : 19,
+            "item" : "16068"
+          }, {
+            "count" : 18,
+            "item" : "326161"
+          }, {
+            "count" : 17,
+            "item" : "50161"
+          }, {
+            "count" : 16,
+            "item" : "225724"
+          }, {
+            "count" : 15,
+            "item" : "38321"
+          }, {
+            "count" : 14,
+            "item" : "87503"
+          }, {
+            "count" : 13,
+            "item" : "181168"
+          }, {
+            "count" : 12,
+            "item" : "1844705"
+          }, {
+            "count" : 11,
+            "item" : "1638769"
+          }, {
+            "count" : 10,
+            "item" : "153340"
+          }, {
+            "count" : 9,
+            "item" : "79425"
+          }, {
+            "count" : 8,
+            "item" : "67905"
+          }, {
+            "count" : 7,
+            "item" : "76629"
+          }, {
+            "count" : 6,
+            "item" : "52080"
+          }, {
+            "count" : 5,
+            "item" : "55749"
+          }, {
+            "count" : 4,
+            "item" : "431213"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009775,
+        "name" : "COMPARABLE RENTAL – 2 – Expense per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_expense_per_sqft",
+        "position" : 41,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547524,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "1.98",
+          "sum" : "173.69",
+          "null" : 2,
+          "average" : "7.237083333333333",
+          "largest" : "10.58",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7.57"
+          }, {
+            "count" : 19,
+            "item" : "1.98"
+          }, {
+            "count" : 18,
+            "item" : "5.75"
+          }, {
+            "count" : 17,
+            "item" : "2.08"
+          }, {
+            "count" : 16,
+            "item" : "8.86"
+          }, {
+            "count" : 15,
+            "item" : "6.65"
+          }, {
+            "count" : 14,
+            "item" : "10.03"
+          }, {
+            "count" : 13,
+            "item" : "8.71"
+          }, {
+            "count" : 12,
+            "item" : "9.30"
+          }, {
+            "count" : 11,
+            "item" : "10.58"
+          }, {
+            "count" : 10,
+            "item" : "7.90"
+          }, {
+            "count" : 9,
+            "item" : "8.87"
+          }, {
+            "count" : 8,
+            "item" : "8.54"
+          }, {
+            "count" : 7,
+            "item" : "6.23"
+          }, {
+            "count" : 6,
+            "item" : "7.44"
+          }, {
+            "count" : 5,
+            "item" : "6.13"
+          }, {
+            "count" : 4,
+            "item" : "10.02"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009776,
+        "name" : "COMPARABLE RENTAL – 2 – Net Operating Income",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_net_operating_income",
+        "position" : 42,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547525,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "30597",
+          "sum" : "8924417",
+          "null" : 2,
+          "average" : "371850.7083333333",
+          "largest" : "1461813",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1461813"
+          }, {
+            "count" : 19,
+            "item" : "30597"
+          }, {
+            "count" : 18,
+            "item" : "268489"
+          }, {
+            "count" : 17,
+            "item" : "105407"
+          }, {
+            "count" : 16,
+            "item" : "172336"
+          }, {
+            "count" : 15,
+            "item" : "51305"
+          }, {
+            "count" : 14,
+            "item" : "77235"
+          }, {
+            "count" : 13,
+            "item" : "142480"
+          }, {
+            "count" : 12,
+            "item" : "1454840"
+          }, {
+            "count" : 11,
+            "item" : "827783"
+          }, {
+            "count" : 10,
+            "item" : "135967"
+          }, {
+            "count" : 9,
+            "item" : "74530"
+          }, {
+            "count" : 8,
+            "item" : "65338"
+          }, {
+            "count" : 7,
+            "item" : "99630"
+          }, {
+            "count" : 6,
+            "item" : "50540"
+          }, {
+            "count" : 5,
+            "item" : "71167"
+          }, {
+            "count" : 4,
+            "item" : "295982"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009777,
+        "name" : "COMPARABLE RENTAL – 2 – Full Market Value",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_full_market_value",
+        "position" : 43,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547526,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "344000",
+          "sum" : "61172000",
+          "null" : 2,
+          "average" : "2548833.333333333",
+          "largest" : "10529000",
+          "top" : [ {
+            "count" : 20,
+            "item" : "9668000"
+          }, {
+            "count" : 19,
+            "item" : "373000"
+          }, {
+            "count" : 18,
+            "item" : "1668000"
+          }, {
+            "count" : 17,
+            "item" : "627000"
+          }, {
+            "count" : 16,
+            "item" : "1180000"
+          }, {
+            "count" : 15,
+            "item" : "351000"
+          }, {
+            "count" : 14,
+            "item" : "511000"
+          }, {
+            "count" : 13,
+            "item" : "976000"
+          }, {
+            "count" : 12,
+            "item" : "10529000"
+          }, {
+            "count" : 11,
+            "item" : "5566000"
+          }, {
+            "count" : 10,
+            "item" : "874000"
+          }, {
+            "count" : 9,
+            "item" : "516000"
+          }, {
+            "count" : 8,
+            "item" : "473000"
+          }, {
+            "count" : 7,
+            "item" : "690000"
+          }, {
+            "count" : 6,
+            "item" : "349000"
+          }, {
+            "count" : 5,
+            "item" : "344000"
+          }, {
+            "count" : 4,
+            "item" : "2140000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009778,
+        "name" : "COMPARABLE RENTAL – 2 – Market Value per SqFt",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_market_value_per_sqft",
+        "position" : 44,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547527,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "26.00",
+          "sum" : "1118.23",
+          "null" : 2,
+          "average" : "46.59291666666667",
+          "largest" : "60.94",
+          "top" : [ {
+            "count" : 20,
+            "item" : "39.87"
+          }, {
+            "count" : 19,
+            "item" : "46.05"
+          }, {
+            "count" : 18,
+            "item" : "29.41"
+          }, {
+            "count" : 17,
+            "item" : "26.00"
+          }, {
+            "count" : 16,
+            "item" : "46.33"
+          }, {
+            "count" : 15,
+            "item" : "60.94"
+          }, {
+            "count" : 14,
+            "item" : "58.60"
+          }, {
+            "count" : 13,
+            "item" : "46.92"
+          }, {
+            "count" : 12,
+            "item" : "53.07"
+          }, {
+            "count" : 11,
+            "item" : "35.94"
+          }, {
+            "count" : 10,
+            "item" : "45.05"
+          }, {
+            "count" : 9,
+            "item" : "57.65"
+          }, {
+            "count" : 8,
+            "item" : "59.45"
+          }, {
+            "count" : 7,
+            "item" : "56.10"
+          }, {
+            "count" : 6,
+            "item" : "49.86"
+          }, {
+            "count" : 5,
+            "item" : "37.80"
+          }, {
+            "count" : 4,
+            "item" : "49.75"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009779,
+        "name" : "COMPARABLE RENTAL – 2 – Distance from Coop in miles",
+        "dataTypeName" : "number",
+        "fieldName" : "comparable_rental_2_distance_from_coop_in_miles",
+        "position" : 45,
+        "renderTypeName" : "number",
+        "tableColumnId" : 1547528,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 24,
+          "smallest" : "0.12",
+          "sum" : "24.31",
+          "null" : 2,
+          "average" : "1.012916666666667",
+          "largest" : "5.08",
+          "top" : [ {
+            "count" : 20,
+            "item" : "1.45"
+          }, {
+            "count" : 19,
+            "item" : "0.97"
+          }, {
+            "count" : 18,
+            "item" : "0.54"
+          }, {
+            "count" : 17,
+            "item" : "0.12"
+          }, {
+            "count" : 16,
+            "item" : "0.26"
+          }, {
+            "count" : 15,
+            "item" : "1.41"
+          }, {
+            "count" : 14,
+            "item" : "1.55"
+          }, {
+            "count" : 13,
+            "item" : "0.35"
+          }, {
+            "count" : 12,
+            "item" : "1.61"
+          }, {
+            "count" : 11,
+            "item" : "0.42"
+          }, {
+            "count" : 10,
+            "item" : "1.19"
+          }, {
+            "count" : 9,
+            "item" : "0.19"
+          }, {
+            "count" : 8,
+            "item" : "0.20"
+          }, {
+            "count" : 7,
+            "item" : "1.31"
+          }, {
+            "count" : 6,
+            "item" : "0.80"
+          }, {
+            "count" : 5,
+            "item" : "0.40"
+          }, {
+            "count" : 4,
+            "item" : "1.91"
+          }, {
+            "count" : 3,
+            "item" : "0.60"
+          }, {
+            "count" : 2,
+            "item" : "5.08"
+          }, {
+            "count" : 1,
+            "item" : "0.77"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009780,
+        "name" : "COMPARABLE RENTAL – 3 – Boro-Block-Lot",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_boro_block_lot",
+        "position" : 46,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547529,
+        "width" : 556,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "5-00236-0027",
+          "null" : 18,
+          "largest" : "5-04657-0021",
+          "top" : [ {
+            "count" : 20,
+            "item" : "5-00236-0027"
+          }, {
+            "count" : 19,
+            "item" : "5-02894-0001"
+          }, {
+            "count" : 18,
+            "item" : "5-02869-0165"
+          }, {
+            "count" : 17,
+            "item" : "5-00589-0044"
+          }, {
+            "count" : 16,
+            "item" : "5-03343-0190"
+          }, {
+            "count" : 15,
+            "item" : "5-03536-0115"
+          }, {
+            "count" : 14,
+            "item" : "5-04655-0070"
+          }, {
+            "count" : 13,
+            "item" : "5-04657-0021"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009781,
+        "name" : "COMPARABLE RENTAL – 3 – Address",
+        "dataTypeName" : "location",
+        "fieldName" : "comparable_rental_3_address",
+        "position" : 47,
+        "renderTypeName" : "location",
+        "tableColumnId" : 1547530,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 7,
+          "smallest" : {
+            "longitude" : "-74.07745487663006",
+            "latitude" : "40.61902922996027",
+            "human_address" : "{\"address\":\"10 PARK HILL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "null" : 19,
+          "largest" : {
+            "longitude" : "-74.16240100000613",
+            "latitude" : "40.60667400010499",
+            "human_address" : "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-74.16240100000613",
+              "latitude" : "40.60667400010499",
+              "human_address" : "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-74.08224330439153",
+              "latitude" : "40.60835360315902",
+              "human_address" : "{\"address\":\"231 STEUBEN STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-74.07745487663006",
+              "latitude" : "40.61902922996027",
+              "human_address" : "{\"address\":\"10 PARK HILL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-74.0911813360607",
+              "latitude" : "40.62705846267096",
+              "human_address" : "{\"address\":\"630 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-74.09485058980252",
+              "latitude" : "40.586020317386264",
+              "human_address" : "{\"address\":\"227 BUEL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-74.12909478391518",
+              "latitude" : "40.56428918471982",
+              "human_address" : "{\"address\":\"25 WINDEMERE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-74.12797935256124",
+              "latitude" : "40.56411329480855",
+              "human_address" : "{\"address\":\"1881 RAILROAD AVENU\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      }, {
+        "id" : 77009782,
+        "name" : "COMPARABLE RENTAL – 3 – Neighborhood",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_neighborhood",
+        "position" : 48,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547531,
+        "width" : 532,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "WEST NEW BRIGHTON",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "WEST NEW BRIGHTON"
+          }, {
+            "count" : 18,
+            "item" : "CONCORD"
+          }, {
+            "count" : 17,
+            "item" : "STAPLETON-CLIFTON"
+          }, {
+            "count" : 16,
+            "item" : "GRYMES HILL"
+          }, {
+            "count" : 15,
+            "item" : "GRANT CITY"
+          }, {
+            "count" : 14,
+            "item" : "OAKWOOD"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009783,
+        "name" : "COMPARABLE RENTAL – 3 – Building Classification",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_building_classification",
+        "position" : 49,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547532,
+        "width" : 664,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "D1-ELEVATOR",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "C1-WALK-UP"
+          }, {
+            "count" : 18,
+            "item" : "D1-ELEVATOR"
+          }, {
+            "count" : 17,
+            "item" : "C9-WALK-UP"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009784,
+        "name" : "COMPARABLE RENTAL – 3 – Total Units",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_total_units",
+        "position" : 50,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547533,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "98",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "12"
+          }, {
+            "count" : 18,
+            "item" : "98"
+          }, {
+            "count" : 17,
+            "item" : "70"
+          }, {
+            "count" : 16,
+            "item" : "60"
+          }, {
+            "count" : 15,
+            "item" : "16"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009785,
+        "name" : "COMPARABLE RENTAL – 3 – Year Built",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_year_built",
+        "position" : 51,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547534,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "1974",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "1931"
+          }, {
+            "count" : 18,
+            "item" : "1972"
+          }, {
+            "count" : 17,
+            "item" : "1950"
+          }, {
+            "count" : 16,
+            "item" : "1940"
+          }, {
+            "count" : 15,
+            "item" : "1974"
+          }, {
+            "count" : 14,
+            "item" : "1963"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009786,
+        "name" : "COMPARABLE RENTAL – 3 – Gross SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_gross_sqft",
+        "position" : 52,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547535,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "98,700",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "8,720"
+          }, {
+            "count" : 18,
+            "item" : "98,700"
+          }, {
+            "count" : 17,
+            "item" : "36,671"
+          }, {
+            "count" : 16,
+            "item" : "72,600"
+          }, {
+            "count" : 15,
+            "item" : "7,956"
+          }, {
+            "count" : 14,
+            "item" : "10,000"
+          }, {
+            "count" : 13,
+            "item" : "9,100"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009787,
+        "name" : "COMPARABLE RENTAL – 3 – Estimated Gross Income",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_estimated_gross_income",
+        "position" : 53,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547536,
+        "width" : 652,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "886,528",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "164,738"
+          }, {
+            "count" : 18,
+            "item" : "1,488,344"
+          }, {
+            "count" : 17,
+            "item" : "545,795"
+          }, {
+            "count" : 16,
+            "item" : "886,528"
+          }, {
+            "count" : 15,
+            "item" : "133,243"
+          }, {
+            "count" : 14,
+            "item" : "130,700"
+          }, {
+            "count" : 13,
+            "item" : "126,916"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009788,
+        "name" : "COMPARABLE RENTAL – 3 – Gross Income per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_gross_income_per_sqft",
+        "position" : 54,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547537,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "18.89",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "18.89"
+          }, {
+            "count" : 18,
+            "item" : "15.08"
+          }, {
+            "count" : 17,
+            "item" : "14.88"
+          }, {
+            "count" : 16,
+            "item" : "12.21"
+          }, {
+            "count" : 15,
+            "item" : "16.75"
+          }, {
+            "count" : 14,
+            "item" : "13.07"
+          }, {
+            "count" : 13,
+            "item" : "13.95"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009789,
+        "name" : "COMPARABLE RENTAL – 3 – Estimated Expense",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_estimated_expense",
+        "position" : 55,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547538,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "87,503",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "87,503"
+          }, {
+            "count" : 18,
+            "item" : "608,445"
+          }, {
+            "count" : 17,
+            "item" : "272,197"
+          }, {
+            "count" : 16,
+            "item" : "482,342"
+          }, {
+            "count" : 15,
+            "item" : "67,905"
+          }, {
+            "count" : 14,
+            "item" : "67,200"
+          }, {
+            "count" : 13,
+            "item" : "55,749"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009790,
+        "name" : "COMPARABLE RENTAL – 3 – Expense per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_expense_per_sqft",
+        "position" : 56,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547539,
+        "width" : 580,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "8.54",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "10.03"
+          }, {
+            "count" : 18,
+            "item" : "6.16"
+          }, {
+            "count" : 17,
+            "item" : "7.42"
+          }, {
+            "count" : 16,
+            "item" : "6.64"
+          }, {
+            "count" : 15,
+            "item" : "8.54"
+          }, {
+            "count" : 14,
+            "item" : "6.72"
+          }, {
+            "count" : 13,
+            "item" : "6.13"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009791,
+        "name" : "COMPARABLE RENTAL – 3 – Net Operating Income",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_net_operating_income",
+        "position" : 57,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547540,
+        "width" : 628,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "879,899",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "77,235"
+          }, {
+            "count" : 18,
+            "item" : "879,899"
+          }, {
+            "count" : 17,
+            "item" : "273,598"
+          }, {
+            "count" : 16,
+            "item" : "404,186"
+          }, {
+            "count" : 15,
+            "item" : "65,338"
+          }, {
+            "count" : 14,
+            "item" : "63,500"
+          }, {
+            "count" : 13,
+            "item" : "71,167"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009792,
+        "name" : "COMPARABLE RENTAL – 3 – Full Market Value",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_full_market_value",
+        "position" : 58,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547541,
+        "width" : 592,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "511,000",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "511,000"
+          }, {
+            "count" : 18,
+            "item" : "3,300,000"
+          }, {
+            "count" : 17,
+            "item" : "1,886,000"
+          }, {
+            "count" : 16,
+            "item" : "2,566,000"
+          }, {
+            "count" : 15,
+            "item" : "473,000"
+          }, {
+            "count" : 14,
+            "item" : "423,000"
+          }, {
+            "count" : 13,
+            "item" : "344,000"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009793,
+        "name" : "COMPARABLE RENTAL – 3 – Market Value per SqFt",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_market_value_per_sqft",
+        "position" : 59,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547542,
+        "width" : 640,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "59.45",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "58.60"
+          }, {
+            "count" : 18,
+            "item" : "33.43"
+          }, {
+            "count" : 17,
+            "item" : "51.43"
+          }, {
+            "count" : 16,
+            "item" : "35.34"
+          }, {
+            "count" : 15,
+            "item" : "59.45"
+          }, {
+            "count" : 14,
+            "item" : "42.30"
+          }, {
+            "count" : 13,
+            "item" : "37.80"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 77009794,
+        "name" : "COMPARABLE RENTAL – 3 – Distance from Coop in miles",
+        "dataTypeName" : "text",
+        "fieldName" : "comparable_rental_3_distance_from_coop_in_miles",
+        "position" : 60,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1547543,
+        "width" : 700,
+        "cachedContents" : {
+          "non_null" : 26,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "2.09",
+          "top" : [ {
+            "count" : 20,
+            "item" : " "
+          }, {
+            "count" : 19,
+            "item" : "1.56"
+          }, {
+            "count" : 18,
+            "item" : "1.22"
+          }, {
+            "count" : 17,
+            "item" : "0.73"
+          }, {
+            "count" : 16,
+            "item" : "2.09"
+          }, {
+            "count" : 15,
+            "item" : "0.20"
+          }, {
+            "count" : 14,
+            "item" : "0.84"
+          }, {
+            "count" : 13,
+            "item" : "1.98"
+          } ]
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Dataset Information" : {
+            "Agency" : "Department of Finance (DOF)"
+          }
+        },
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "5fuc-pqz2",
+        "displayName" : "NYC OpenData",
+        "roleName" : "administrator",
+        "screenName" : "NYC OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "k2fz-tf56",
+        "displayName" : "Gary A",
+        "screenName" : "Gary A"
+      },
+      "tags" : [ "department of finance", "finance", "dof", "rental property", "cooperatives", "residential", "apartment", "buildings", "rental properties", "borough", "staten island" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 3, "2637ACB0-555A-46A5-AC1D-10353A0A6CEC", 3, 1317671390, "392753", 1317671392, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00003-0001", [ "{\"address\":\"350 RICHMOND TERRACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "NEW BRIGHTON", "D4-ELEVATOR", "140", "1960", "145446", "1719172", "11.82", "1058847", "7.28", "660325", "4217000", "28.99", "5-00008-0025", [ "{\"address\":\"285 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.642838628174005", "-74.07870444823592", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "91", "1965", "77000", "1012863", "13.15", "585481", "7.60", "427382", "2842000", "36.91", "0.54", "5-00008-0019", [ "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.64256810524033", "-74.0784962789628", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "70", "1951", "56724", "594650", "10.48", "326161", "5.75", "268489", "1668000", "29.41", "0.54", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 2, "7E3A3E8C-156B-43DB-A72A-E602111F75BA", 2, 1317671390, "392753", 1317671392, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00001-0250", [ "{\"address\":\"36 BAY STREET LANDING\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.639048796344156", "-74.07332939342955", null, false ], "NEW BRIGHTON-ST. GEORGE", "D4-ELEVATOR", "17", "1985", "25171", "223015", "8.86", "91119", "3.62", "131896", "787000", "31.27", "5-00027-0006", [ "{\"address\":\"12 HENDRICKS AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.640666534910004", "-74.08163011352691", null, false ], "NEW BRIGHTON", "C1-WALK-UP", "18", "1931", "14696", "175624", "11.95", "83566", "5.69", "92058", "587000", "39.94", "0.48", "5-00524-0004", [ "{\"address\":\"110 CANAL STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62650641894812", "-74.07714777541807", null, false ], "STAPLETON", "C7-WALK-UP", "9", "1931", "8100", "46665", "5.76", "16068", "1.98", "30597", "373000", "46.05", "0.97", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 1, "8B92C279-0713-45F7-B6E9-025EDAF09FB8", 1, 1317671390, "392753", 1317671392, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00001-0216", [ "{\"address\":\"10 BAY STREET LANDING\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63818574879054", "-74.07333765648139", null, false ], "NEW BRIGHTON-ST. GEORGE", "D0-ELEVATOR", "128", "1984", "171935", "1500703", "8.73", "677692", "3.94", "823011", "4913000", "28.57", "5-00240-0003", [ "{\"address\":\"937 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62172277417215", "-74.0971976529192", null, false ], "CLOVE LAKES", "D1-ELEVATOR", "111", "1965", "107960", "1500465", "13.90", "787479", "7.29", "712986", "4697000", "43.51", "1.96", "5-00590-0001", [ "{\"address\":\"700 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.625670055825246", "-74.09224343694464", null, false ], "GRYMES HILL", "D3-ELEVATOR", "228", "1962", "242500", "3298026", "13.60", "1836213", "7.57", "1461813", "9668000", "39.87", "1.45", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 4, "02781D96-F72C-46AE-BBD3-058DFE88B989", 4, 1317671390, "392753", 1317671392, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00010-0019", [ "{\"address\":\"36 HAMILTON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "NEW BRIGHTON-ST. GEORGE", "D4-ELEVATOR", "120", "1963", "75914", "850996", "11.21", "485090", "6.39", "365906", "2358000", "31.06", "5-00008-0025", [ "{\"address\":\"285 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.642838628174005", "-74.07870444823592", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "91", "1965", "77000", "1012863", "13.15", "585481", "7.60", "427382", "2842000", "36.91", "0.12", "5-00008-0019", [ "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.64256810524033", "-74.0784962789628", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "70", "1951", "56724", "594650", "10.48", "326161", "5.75", "268489", "1668000", "29.41", "0.12", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 23, "1AA438DC-7AD4-456C-A466-70F2124E48BB", 23, 1317671390, "392753", 1317671392, "392753", "{\n}", "5-03546-0031", [ "{\"address\":\"35 VERA STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.58481345841429", "-74.0968439622444", null, false ], "GRANT CITY", "C6-WALK-UP", "20", "1969", "10000", "140600", "14.06", "70300", "7.03", "70300", "202000", "20.20", "5-03343-0019", [ "{\"address\":\"194 SEAVIEW AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.587994045841896", "-74.0950912853339", null, false ], "GRANT CITY", "C1-WALK-UP", "15", "1975", "10626", "133127", "12.53", "68514", "6.45", "64613", "433000", "40.75", "0.23", "5-03591-0008", [ "{\"address\":\"261 LINCOLN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.576986694649065", "-74.1046700516757", null, false ], "GRANT CITY", "C9-WALK-UP", "16", "1933", "12300", "176259", "14.33", "76629", "6.23", "99630", "690000", "56.10", "0.60", "5-03536-0115", [ "{\"address\":\"227 BUEL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.586020317386264", "-74.09485058980252", null, false ], "GRANT CITY", "C1-WALK-UP", "12", "1974", "7,956", "133,243", "16.75", "67,905", "8.54", "65,338", "473,000", "59.45", "0.20" ]
+, [ 16, "1AC507B6-A36C-4458-AAC0-0F6BDA8BEA5D", 16, 1317671390, "392753", 1317671393, "392753", "{\n}", "5-02833-0031", [ "{\"address\":\"20 CLIFF STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.6111776502839", "-74.0606066595655", null, false ], "ARROCHAR-SHORE ACRES", "D4-ELEVATOR", "122", "1964", "146640", "889200", "6.06", "366560", "2.50", "522640", "3109000", "21.20", "5-02867-0266", [ "{\"address\":\"220 OSGOOD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61620139437309", "-74.07912769563913", null, false ], "STAPLETON-CLIFTON", "D1-ELEVATOR", "84", "1973", "76206", "1165001", "15.29", "776840", "10.19", "388161", "2475000", "32.48", "1.04", "5-02877-0025", [ "{\"address\":\"55 BOWEN STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.614664489608586", "-74.0830542384052", null, false ], "CONCORD-FOX HILLS", "D1-ELEVATOR", "156", "1973", "154860", "2466552", "15.93", "1638769", "10.58", "827783", "5566000", "35.94", "1.31", "5-02894-0001", [ "{\"address\":\"231 STEUBEN STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60835360315902", "-74.08224330439153", null, false ], "CONCORD", "D1-ELEVATOR", "98", "1972", "98,700", "1,488,344", "15.08", "608,445", "6.16", "879,899", "3,300,000", "33.43", "1.22" ]
+, [ 5, "1ED6ECB9-2F88-425A-B773-F54E39ED70BF", 5, 1317671390, "392753", 1317671393, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00018-0099", [ "{\"address\":\"50 FORT PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.6417358169915", "-74.08014505796426", null, false ], "NEW BRIGHTON", "D4-ELEVATOR", "109", "1963", "150800", "1277276", "8.47", "624312", "4.14", "652964", "3906000", "25.90", "5-00008-0019", [ "{\"address\":\"299 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.64256810524033", "-74.0784962789628", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "70", "1951", "56724", "594650", "10.48", "326161", "5.75", "268489", "1668000", "29.41", "0.26", "5-00008-0034", [ "{\"address\":\"273 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.64306907816211", "-74.07888428240462", null, false ], "NEW BRIGHTON-ST. GEORGE", "D1-ELEVATOR", "25", "1912", "24120", "155568", "6.45", "50161", "2.08", "105407", "627000", "26.00", "0.26", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 26, "219266FA-80B7-4113-88C1-EAE4572152C6", 26, 1317671390, "392753", 1317671393, "392753", "{\n}", "5-05229-0007", [ "{\"address\":\"475 ARMSTRONG AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.544976260737215", "-74.15778947352781", null, false ], "GREAT KILLS", "C6-WALK-UP", "60", "1974", "38647", "341781", "8.84", "156984", "4.06", "184797", "1102000", "28.51", "5-05487-0069", [ "{\"address\":\"300 CORTELYOU AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.55199494205611", "-74.16279630187582", null, false ], "GREAT KILLS", "C9-WALK-UP", "24", "1972", "13824", "153070", "11.07", "78646", "5.69", "74424", "414000", "29.95", "0.56", "5-05016-0005", [ "{\"address\":\"25 BAY TERRACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "GREAT KILLS-BAY TERRACE", "C9-WALK-UP", "65", "1976", "43018", "727195", "16.90", "431213", "10.02", "295982", "2140000", "49.75", "1.38", "5-04657-0021", [ "{\"address\":\"1881 RAILROAD AVENU\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.56411329480855", "-74.12797935256124", null, false ], "OAKWOOD", "C9-WALK-UP", "12", "1974", "9,100", "126,916", "13.95", "55,749", "6.13", "71,167", "344,000", "37.80", "1.98" ]
+, [ 10, "23597A06-8E34-495A-9C09-5249E96EF99A", 10, 1317671390, "392753", 1317671393, "392753", "{\n}", "5-00131-0056", [ "{\"address\":\"255 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63174299038349", "-74.09807881413032", null, false ], "WEST NEW BRIGHTON", "C6-WALK-UP", "13", "1968", "9810", "152644", "15.56", "85445", "8.71", "67199", "371000", "37.82", "5-00128-0018", [ "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63281605162412", "-74.09666706986992", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "16", "1931", "13386", "136161", "10.17", "68126", "5.09", "68035", "350000", "26.15", "0.13", "5-00145-0001", [ "{\"address\":\"81 MADA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63246697880214", "-74.10727165470709", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "12", "1977", "5760", "89626", "15.56", "38321", "6.65", "51305", "351000", "60.94", "0.42", "5-00236-0027", [ "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "12", "1931", "8,720", "164,738", "18.89", "87,503", "10.03", "77,235", "511,000", "58.60", "1.56" ]
+, [ 20, "35881EA6-C695-4F5E-9301-DB2F2246CB56", 20, 1317671390, "392753", 1317671393, "392753", "{\n}", "5-02986-0012", [ "{\"address\":\"390 MARYLAND AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.609357387836525", "-74.07361237773283", null, false ], "ROSEBANK", "C6-WALK-UP", "178", "1974", "155396", "1007702", "6.48", "552462", "3.56", "455240", "2708000", "17.43", "5-03030-0082", [ "{\"address\":\"101 DONLEY AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60758555883734", "-74.07586069891967", null, false ], "ROSEBANK", "C9-WALK-UP", "16", "1974", "10000", "162360", "16.24", "87885", "8.79", "74475", "465000", "46.50", "0.08", "5-03023-0028", [ "{\"address\":\"30 NARROWS ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60399001818633", "-74.0702686345125", null, false ], "ROSEBANK", "C7-WALK-UP", "14", "1974", "8950", "153955", "17.20", "79425", "8.87", "74530", "516000", "57.65", "0.40", "5-02869-0165", [ "{\"address\":\"10 PARK HILL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61902922996027", "-74.07745487663006", null, false ], "STAPLETON-CLIFTON", "C9-WALK-UP", "70", "1950", "36,671", "545,795", "14.88", "272,197", "7.42", "273,598", "1,886,000", "51.43", "0.73" ]
+, [ 8, "56519602-5176-437D-BD13-A3C4F5F93D94", 8, 1317671390, "392753", 1317671393, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00101-0554", [ "{\"address\":\"581 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63458257193235", "-74.10193621838208", null, false ], "WEST NEW BRIGHTON", "C6-WALK-UP", "12", "1950", "10856", "81637", "7.52", "30288", "2.79", "51349", "234000", "21.55", "5-00128-0018", [ "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63281605162412", "-74.09666706986992", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "16", "1931", "13386", "136161", "10.17", "68126", "5.09", "68035", "350000", "26.15", "0.25", "5-00145-0001", [ "{\"address\":\"81 MADA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63246697880214", "-74.10727165470709", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "12", "1977", "5760", "89626", "15.56", "38321", "6.65", "51305", "351000", "60.94", "0.35", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 14, "70680857-2A11-44BB-BFFC-33F870787862", 14, 1317671390, "392753", 1317671393, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00593-0680", [ "{\"address\":\"151 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.619607564842234", "-74.0947917040224", null, false ], "GRYMES HILL", "C6-WALK-UP", "24", "1951", "28600", "489060", "17.10", "273416", "9.56", "215644", "1111000", "38.85", "5-00593-0590", [ "{\"address\":\"22 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61966440829499", "-74.09095421519612", null, false ], "GRYMES HILL", "C9-WALK-UP", "165", "1951", "126836", "2169019", "17.10", "1212664", "9.56", "956355", "6913000", "54.50", "0.00", "5-00595-0015", [ "{\"address\":\"22 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.630032220918274", "-74.08722074587396", null, false ], "GRYMES HILL", "C9-WALK-UP", "251", "1951", "198384", "3299545", "16.63", "1844705", "9.30", "1454840", "10529000", "53.07", "0.19", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 7, "723D8E84-54F9-4B91-80B4-1A609B332105", 7, 1317671390, "392753", 1317671393, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00101-0537", [ "{\"address\":\"545 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63436210493948", "-74.10065732208393", null, false ], "WEST NEW BRIGHTON", "C6-WALK-UP", "24", "1950", "17418", "224692", "12.90", "121578", "6.98", "103114", "643000", "36.92", "5-00128-0018", [ "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63281605162412", "-74.09666706986992", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "16", "1931", "13386", "136161", "10.17", "68126", "5.09", "68035", "350000", "26.15", "0.25", "5-00238-0046", [ "{\"address\":\"317 JEWETT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62930426864474", "-74.13032033566365", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "42", "1971", "25470", "398060", "15.63", "225724", "8.86", "172336", "1180000", "46.33", "1.55", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 18, "7B04AFC4-F41D-4E16-8D78-0BBF18A94339", 18, 1317671390, "392753", 1317671393, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-02925-0450", [ "{\"address\":\"295 SKYLINE DRIVE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.6130095652697", "-74.0789169248592", null, false ], "CONCORD-FOX HILLS", "C6-WALK-UP", "11", "2000", "21865", "307422", "14.06", "153711", "7.03", "153711", "763000", "34.90", "5-02869-0001", [ "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61912555945362", "-74.077146125129", null, false ], "STAPLETON-CLIFTON", "C9-WALK-UP", "36", "1950", "21187", "311883", "14.72", "161780", "7.64", "150103", "1036000", "48.90", "0.38", "5-02829-0094", [ "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.614736896822336", "-74.06491985785209", null, false ], "ROSEBANK", "C1-WALK-UP", "18", "2002", "19400", "289307", "14.91", "153340", "7.90", "135967", "874000", "45.05", "0.80", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 6, "82487FAE-75D5-4A2D-B7F7-7D3292D9EDF6", 6, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00101-0525", [ "{\"address\":\"515 CASTLETON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63421242828656", "-74.09983557856941", null, false ], "WEST NEW BRIGHTON", "C6-WALK-UP", "16", "1950", "13114", "118944", "9.07", "44588", "3.40", "74356", "264000", "20.13", "5-00064-0003", [ "{\"address\":\"155 PROSPECT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.639522390599375", "-74.09274165437026", null, false ], "NEW BRIGHTON", "C1-WALK-UP", "30", "1930", "25660", "317456", "12.37", "189368", "7.38", "128088", "647000", "25.21", "0.59", "5-00524-0004", [ "{\"address\":\"110 CANAL STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62650641894812", "-74.07714777541807", null, false ], "STAPLETON", "C7-WALK-UP", "9", "1931", "8100", "46665", "5.76", "16068", "1.98", "30597", "373000", "46.05", "1.41", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 25, "8CFF8FBA-980D-4077-9B47-EC6F079DA43F", 25, 1317671390, "392753", 1317671394, "392753", "{\n}", "5-05090-0035", [ "{\"address\":\"3482 AMBOY ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.556922389090666", "-74.13883201993653", null, false ], "GREAT KILLS-BAY TERRACE", "C6-WALK-UP", "108", "1977", "67000", "694004", "10.36", "309739", "4.62", "384265", "2391000", "35.69", "5-05016-0005", [ "{\"address\":\"25 BAY TERRACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "GREAT KILLS-BAY TERRACE", "C9-WALK-UP", "65", "1976", "43018", "727195", "16.90", "431213", "10.02", "295982", "2140000", "49.75", "0.16", "5-04657-0021", [ "{\"address\":\"1881 RAILROAD AVENU\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.56411329480855", "-74.12797935256124", null, false ], "OAKWOOD", "C9-WALK-UP", "12", "1974", "9100", "126916", "13.95", "55749", "6.13", "71167", "344000", "37.80", "0.77", "5-04655-0070", [ "{\"address\":\"25 WINDEMERE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.56428918471982", "-74.12909478391518", null, false ], "OAKWOOD", "C9-WALK-UP", "16", "1963", "10,000", "130,700", "13.07", "67,200", "6.72", "63,500", "423,000", "42.30", "0.84" ]
+, [ 19, "92B6E8BA-91FC-4704-A2B8-4CB309DE4133", 19, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-02925-0479", [ "{\"address\":\"46 CIRCLE LOOP\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.613540506446355", "-74.0792470743342", null, false ], "CONCORD-FOX HILLS", "C6-WALK-UP", "19", "2000", "37220", "523313", "14.06", "261657", "7.03", "261656", "1299000", "34.90", "5-02869-0001", [ "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61912555945362", "-74.077146125129", null, false ], "STAPLETON-CLIFTON", "C9-WALK-UP", "36", "1950", "21187", "311883", "14.72", "161780", "7.64", "150103", "1036000", "48.90", "0.38", "5-02829-0094", [ "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.614736896822336", "-74.06491985785209", null, false ], "ROSEBANK", "C1-WALK-UP", "18", "2002", "19400", "289307", "14.91", "153340", "7.90", "135967", "874000", "45.05", "0.80", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 15, "9653BB7E-8B61-4731-8548-66D1172BC3CA", 15, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00597-0120", [ "{\"address\":\"556 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61860692966038", "-74.09378346522982", null, false ], "GRYMES HILL", "C6-WALK-UP", "128", "1951", "121750", "1008090", "8.28", "172885", "1.42", "835205", "4915000", "40.37", "5-00593-0590", [ "{\"address\":\"22 ARLO ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61966440829499", "-74.09095421519612", null, false ], "GRYMES HILL", "C9-WALK-UP", "165", "1951", "126836", "2169019", "17.10", "1212664", "9.56", "956355", "6913000", "54.50", "0.30", "5-00595-0015", [ "{\"address\":\"22 HOWARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.630032220918274", "-74.08722074587396", null, false ], "GRYMES HILL", "C9-WALK-UP", "251", "1951", "198384", "3299545", "16.63", "1844705", "9.30", "1454840", "10529000", "53.07", "0.20", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 12, "9D45ABA0-38F2-4D5F-AB95-A56322220D07", 12, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547519\" : \" \",\n    \"1547528\" : \" \",\n    \"1547518\" : \" \",\n    \"1547525\" : \" \",\n    \"1547515\" : \" , Staten Island, NY\",\n    \"1547524\" : \" \",\n    \"1547527\" : \" \",\n    \"1547526\" : \" \",\n    \"1547520\" : \" \",\n    \"1547521\" : \" \",\n    \"1547530\" : \" , Staten Island, NY\",\n    \"1547522\" : \" \",\n    \"1547523\" : \" \"\n  }\n}", "5-00327-0015", [ "{\"address\":\"1000 CLOVE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62062459750375", "-74.11004923122906", null, false ], "CLOVE LAKES", "D4-ELEVATOR", "143", "1966", "127800", "1395576", "10.92", "752742", "5.89", "642834", "3978000", "31.13", "5-03034-0022", [ "{\"address\":\"600 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.605386778302616", "-74.07617734418196", null, false ], "ROSEBANK", "D1-ELEVATOR", "136", "1966", "144000", "1572878", "10.92", "966234", "6.71", "606644", "3754000", "26.07", "2.06", null, [ null, null, null, null, null ], " ", " ", null, null, null, null, null, null, null, null, null, null, null, null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 9, "A865CB63-BB41-4E7B-9C0F-2713C939E17B", 9, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00130-0049", [ "{\"address\":\"245 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.6318297457294", "-74.09779985702198", null, false ], "WEST NEW BRIGHTON", "C6-WALK-UP", "13", "1968", "9810", "142539", "14.53", "74164", "7.56", "68375", "426000", "43.43", "5-00128-0018", [ "{\"address\":\"177 SILVER LAKE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63281605162412", "-74.09666706986992", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "16", "1931", "13386", "136161", "10.17", "68126", "5.09", "68035", "350000", "26.15", "0.08", "5-00236-0027", [ "{\"address\":\"832 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "WEST NEW BRIGHTON", "C1-WALK-UP", "12", "1931", "8720", "164738", "18.89", "87503", "10.03", "77235", "511000", "58.60", "1.61", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 22, "BDFD6C38-A6CD-4A0E-8871-66C936FD15E8", 22, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-03546-0001", [ "{\"address\":\"45 VERA STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.5846655199337", "-74.09703416886231", null, false ], "GRANT CITY", "C6-WALK-UP", "118", "1969", "58350", "820401", "14.06", "410201", "7.03", "410200", "1177000", "20.17", "5-03591-0008", [ "{\"address\":\"261 LINCOLN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.576986694649065", "-74.1046700516757", null, false ], "GRANT CITY", "C9-WALK-UP", "16", "1933", "12300", "176259", "14.33", "76629", "6.23", "99630", "690000", "56.10", "0.60", "5-03536-0115", [ "{\"address\":\"227 BUEL AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.586020317386264", "-74.09485058980252", null, false ], "GRANT CITY", "C1-WALK-UP", "12", "1974", "7956", "133243", "16.75", "67905", "8.54", "65338", "473000", "59.45", "0.20", "5-03343-0190", [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 24, "C96C1F69-FA23-4F31-9C74-A13E82A505CC", 24, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-04640-0022", [ "{\"address\":\"3745 AMBOY ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.55211483039692", "-74.14412187507199", null, false ], "GREAT KILLS", "C6-WALK-UP", "36", "1974", "26490", "219867", "8.30", "92980", "3.51", "126887", "747000", "28.20", "5-03591-0008", [ "{\"address\":\"261 LINCOLN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.576986694649065", "-74.1046700516757", null, false ], "GRANT CITY", "C9-WALK-UP", "16", "1933", "12300", "176259", "14.33", "76629", "6.23", "99630", "690000", "56.10", "2.70", "5-01148-0036", [ "{\"address\":\"475 MORNINGSTAR ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62679479666683", "-74.14831438325368", null, false ], "MARINERS HARBOR", "C1-WALK-UP", "12", "1931", "7000", "102620", "14.66", "52080", "7.44", "50540", "349000", "49.86", "5.08", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 21, "CAFF3786-5F6B-45DF-9933-02DBC669BF53", 21, 1317671390, "392753", 1317671394, "392753", "{\n}", "5-03191-0061", [ "{\"address\":\"1160 RICHMOND ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.60667400010499", "-74.16240100000613", null, false ], "DONGAN HILLS", "D4-ELEVATOR", "71", "1969", "63600", "776556", "12.21", "361884", "5.69", "414672", "1980000", "31.13", "5-03034-0022", [ "{\"address\":\"600 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.605386778302616", "-74.07617734418196", null, false ], "ROSEBANK", "D1-ELEVATOR", "136", "1966", "144000", "1572878", "10.92", "966234", "6.71", "606644", "3754000", "26.07", "1.00", "5-00590-0001", [ "{\"address\":\"700 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.625670055825246", "-74.09224343694464", null, false ], "GRYMES HILL", "D3-ELEVATOR", "228", "1962", "242500", "3298026", "13.60", "1836213", "7.57", "1461813", "9668000", "39.87", "1.91", "5-00589-0044", [ "{\"address\":\"630 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.62705846267096", "-74.0911813360607", null, false ], "GRYMES HILL", "D1-ELEVATOR", "60", "1940", "72,600", "886,528", "12.21", "482,342", "6.64", "404,186", "2,566,000", "35.34", "2.09" ]
+, [ 11, "D0671853-CCE2-42AE-B25F-1B0F57AF09E0", 11, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-00138-0119", [ "{\"address\":\"154 BARD AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.64077829151043", "-74.10872773579793", null, false ], "LIVINGSTON", "C6-WALK-UP", "60", "1947", "36600", "476532", "13.02", "249978", "6.83", "226554", "1869000", "51.07", "5-00064-0003", [ "{\"address\":\"155 PROSPECT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.639522390599375", "-74.09274165437026", null, false ], "NEW BRIGHTON", "C1-WALK-UP", "30", "1930", "25660", "317456", "12.37", "189368", "7.38", "128088", "647000", "25.21", "0.83", "5-01015-0001", [ "{\"address\":\"137 HEBERTON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.63677941950782", "-74.13131334974379", null, false ], "PORT RICHMOND", "C1-WALK-UP", "28", "1933", "20800", "323648", "15.56", "181168", "8.71", "142480", "976000", "46.92", "1.19", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 13, "F2428F77-65D8-4B67-9A1F-51EACB729DF4", 13, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547519\" : \" \",\n    \"1547528\" : \" \",\n    \"1547518\" : \" \",\n    \"1547525\" : \" \",\n    \"1547515\" : \" , Staten Island, NY\",\n    \"1547524\" : \" \",\n    \"1547527\" : \" \",\n    \"1547526\" : \" \",\n    \"1547520\" : \" \",\n    \"1547521\" : \" \",\n    \"1547530\" : \" , Staten Island, NY\",\n    \"1547522\" : \" \",\n    \"1547523\" : \" \"\n  }\n}", "5-00327-0060", [ "{\"address\":\"1100 CLOVE ROAD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.619132257145964", "-74.10660292523818", null, false ], "CLOVE LAKES", "D4-ELEVATOR", "143", "1967", "127800", "1395576", "10.92", "752742", "5.89", "642834", "3978000", "31.13", "5-03034-0022", [ "{\"address\":\"600 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.605386778302616", "-74.07617734418196", null, false ], "ROSEBANK", "D1-ELEVATOR", "136", "1966", "144000", "1572878", "10.92", "966234", "6.71", "606644", "3754000", "26.07", "2.06", null, [ null, null, null, null, null ], " ", " ", null, null, null, null, null, null, null, null, null, null, null, null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+, [ 17, "FCAB3C9C-4C42-4538-811D-FAD3CE5FA208", 17, 1317671390, "392753", 1317671394, "392753", "{\n  \"invalidCells\" : {\n    \"1547530\" : \" , Staten Island, NY\"\n  }\n}", "5-02925-0432", [ "{\"address\":\"361 SKYLINE DRIVE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.612546177166195", "-74.0800538318982", null, false ], "CONCORD-FOX HILLS", "C6-WALK-UP", "11", "1999", "21780", "306227", "14.06", "153113", "7.03", "153114", "760000", "34.89", "5-02869-0001", [ "{\"address\":\"30 PARK HILL COURT\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.61912555945362", "-74.077146125129", null, false ], "STAPLETON-CLIFTON", "C9-WALK-UP", "36", "1950", "21187", "311883", "14.72", "161780", "7.64", "150103", "1036000", "48.90", "0.38", "5-02829-0094", [ "{\"address\":\"59 HYLAN BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}", "40.614736896822336", "-74.06491985785209", null, false ], "ROSEBANK", "C1-WALK-UP", "18", "2002", "19400", "289307", "14.91", "153340", "7.90", "135967", "874000", "45.05", "0.80", null, [ null, null, null, null, null ], " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ]
+ ]
+}
